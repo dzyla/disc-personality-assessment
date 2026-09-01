@@ -1,76 +1,160 @@
 {
     "single": {
         "D": {
-            "title": "### Dominance (D) Personality",
-            "description": "You are a natural leader, driven by results and the desire to make things happen. You're decisive, assertive, and confident in your abilities. You thrive in challenging environments and aren't afraid to take risks or make tough decisions. You prefer action over analysis, and others often look to you when quick, bold choices need to be made. In competitive situations, you excel, finding motivation in achieving the highest goals. Your energy is directed towards getting results, and you are likely to push both yourself and those around you to perform at their best. Though your direct approach may sometimes come across as demanding, your focus on the big picture often enables you to see opportunities where others might see obstacles.",
-            "strengths": "Decisive, results-oriented, problem-solver, self-motivated, risk-taker, visionary.",
-            "challenges": "Can be seen as demanding, impatient, or insensitive. You may need to work on listening to others' opinions, fostering collaboration, and balancing your drive with empathy for those who may have a different pace or approach."
+            "title": "Dominance (D) Style",
+            "headline": "The Direct Driver \u2022 Results-Oriented & Decisive",
+            "description": "You are ambitious, forceful, and driven by tangible outcomes. You naturally thrive in high-stakes, fast-paced situations where decisive leadership is needed. You focus on the big picture, cut through bureaucracy, and take calculated risks to overcome obstacles. Others look to you when bold choices are required, and you push yourself and your team to meet demanding goals.",
+            "strengths": "Decisive, results-oriented, pioneering problem solver, resilient under pressure, high initiative.",
+            "challenges": "Can be perceived as impatient, overly demanding, or blunt; may overlook team feelings or details when moving fast.",
+            "motivators": "Autonomy, challenging goals, winning outcomes, authority to make decisions, visible impact.",
+            "stress_triggers": "Micromanagement, sluggish decision-making, losing control, perceived weakness or indecision in leadership.",
+            "under_pressure": "Becomes increasingly assertive, directive, and impatient. May make unilateral decisions to keep momentum.",
+            "communication_tips": "Be direct, concise, and focused on the bottom line. Present solutions and options rather than endless problems.",
+            "growth_advice": "Practice active listening without interrupting, invite collaborative consensus on key initiatives, and acknowledge team contributions."
         },
         "I": {
-            "title": "### Influence (I) Personality",
-            "description": "You're an enthusiastic and optimistic individual with a natural gift for connecting with others. You're persuasive, engaging, and thrive in social settings where you can share ideas and inspire those around you. People are drawn to your energy and warmth, making you a natural at networking and team-building. You see the potential in others and encourage them to pursue their goals. Because you enjoy being around others, you tend to excel in environments where teamwork, collaboration, and creativity are encouraged. However, your love for spontaneity can sometimes cause you to shift focus or lose track of important details. Nevertheless, your ability to rally people behind a cause or an idea is a powerful asset in any team or project.",
-            "strengths": "Persuasive, optimistic, enthusiastic, relationship-builder, excellent communicator, inspiring.",
-            "challenges": "May be seen as overly talkative or easily distracted. You may need to work on focusing on details, following through on commitments, and ensuring that your enthusiasm doesn’t overshadow the practical steps needed to achieve your goals."
+            "title": "Influence (I) Style",
+            "headline": "The Inspiring Motivator \u2022 Enthusiastic & Relationship-Driven",
+            "description": "You are charismatic, optimistic, and highly energized by people. You excel at rallying teams around an exciting vision, building broad professional networks, and generating infectious momentum. You bring creativity, warmth, and fresh perspectives to collaborative projects, inspiring others to reach beyond their perceived limits.",
+            "strengths": "Persuasive communicator, visionary motivator, enthusiastic team builder, empathetic, creative and adaptable.",
+            "challenges": "May struggle with repetitive details, follow-through on routine tasks, or overpromising in moments of excitement.",
+            "motivators": "Public recognition, creative freedom, social connection, positive team culture, collaborative brainstorming.",
+            "stress_triggers": "Social isolation, rigid environments, negative atmospheres, repetitive administrative tasks without personal contact.",
+            "under_pressure": "May become overly talkative, emotional, or disengaged from meticulous tasks; seeks external reassurance.",
+            "communication_tips": "Be warm, expressive, and open to brainstorming. Allow time for conversational rapport before diving straight into business.",
+            "growth_advice": "Implement structured tracking systems for commitments, prioritize detail-oriented tasks early, and balance optimism with realistic risk assessment."
         },
         "S": {
-            "title": "### Steadiness (S) Personality",
-            "description": "You're a reliable and supportive team player who values stability, harmony, and long-lasting relationships. You bring calm and consistency to any situation, offering patience and understanding to those around you. You tend to shy away from conflict, preferring environments where cooperation and peace are prioritized. Your loyalty to friends, family, and colleagues is unwavering, and you excel in roles where you can help others without feeling rushed. You are a great listener, often providing a steadying influence on your team or group. While you may avoid change and unpredictability, when provided with a clear plan, you follow through with determination. You’re the type of person who others know they can count on, even in challenging times.",
-            "strengths": "Patient, loyal, supportive, good listener, team-oriented, reliable.",
-            "challenges": "May avoid conflict or change, and may need to work on assertiveness and expressing your own needs. You can sometimes hesitate when quick decisions are required or when dealing with highly competitive environments."
+            "title": "Steadiness (S) Style",
+            "headline": "The Supportive Anchor \u2022 Reliable, Patient & Collaborative",
+            "description": "You are empathetic, patient, and deeply dependable. You prioritize team harmony, psychological safety, and consistent execution. You excel at building long-term, trust-based relationships and bringing calm composure to stressful situations. Colleagues know they can count on you for steady support, active listening, and thorough follow-through.",
+            "strengths": "Exceptional listener, loyal team player, patient mediator, consistent performer, reliable and methodical.",
+            "challenges": "May resist sudden disruption, hesitate to voice disagreements openly, or postpone difficult confrontations to avoid friction.",
+            "motivators": "Stability, clear expectations, cooperative teamwork, genuine appreciation, harmonious work environment.",
+            "stress_triggers": "Rapid unpredictable changes, aggressive conflict, ambiguity in roles, sudden tight deadlines with no preparation.",
+            "under_pressure": "May withdraw inward, acquiesce reluctantly to maintain peace, or dig in heels quietly against unvetted change.",
+            "communication_tips": "Approach with genuine warmth and patience. Clarify expectations in advance and provide space for thoughtful consideration.",
+            "growth_advice": "Practice expressing boundaries and differing viewpoints assertively; remember that constructive conflict drives positive innovation."
         },
         "C": {
-            "title": "### Conscientiousness (C) Personality",
-            "description": "You are detail-oriented and analytical, with a deep focus on accuracy, structure, and precision. You take pride in producing high-quality work and are often the person others turn to when careful analysis or methodical thinking is required. You are thorough in your approach, leaving no stone unturned, which makes you an excellent problem solver in complex situations. Your standards are high, and you hold yourself and others to them. While your focus on getting things 'just right' can be a strength, it may also make you less comfortable with ambiguity or rapid change. Nevertheless, your commitment to excellence ensures that your work is always well thought out and dependable.",
-            "strengths": "Analytical, detail-oriented, organized, conscientious, problem-solver, high standards.",
-            "challenges": "May be seen as overly critical or perfectionistic. You may need to work on adapting to change, letting go of control in collaborative situations, and understanding that not everything requires a perfect solution."
+            "title": "Conscientiousness (C) Style",
+            "headline": "The Analytical Architect \u2022 Precise, Systematic & Quality-Focused",
+            "description": "You are methodical, objective, and deeply committed to accuracy and high standards. You excel at analyzing complex data, designing systematic frameworks, and ensuring that decisions are grounded in sound logic and evidence. You take pride in producing dependable, error-free work and safeguarding operational excellence.",
+            "strengths": "Rigorous analytical thinker, meticulous problem solver, objective decision maker, structured organizer, quality champion.",
+            "challenges": "Can lean toward perfectionism, risk analysis paralysis, or appear overly skeptical and emotionally detached when delivering feedback.",
+            "motivators": "Quality excellence, data-driven decisions, structured workflows, autonomous deep work, clear logical standards.",
+            "stress_triggers": "Shoddy work, emotional irrationality, sudden chaotic pivots without data, pressure to cut quality corners.",
+            "under_pressure": "May over-analyze facts, become hyper-critical of minor discrepancies, or isolate to verify everything independently.",
+            "communication_tips": "Be specific, logical, and supported by facts and documentation. Give them time to review data before requesting a final verdict.",
+            "growth_advice": "Embrace the 80/20 rule to avoid analysis paralysis; recognize that good enough on time is often superior to perfect too late."
         },
         "DI": {
-            "title": "### Dominance (D) + Influence (I) Personality",
-            "description": "You are a charismatic and persuasive leader who thrives in fast-paced environments. You are naturally assertive and enjoy taking charge, while also being enthusiastic and inspiring to those around you. Your confidence allows you to influence others with ease, and you’re often at the center of action, driving teams toward ambitious goals. Your optimism and energy are infectious, and people are drawn to your leadership style, especially when the pressure is on. However, you may struggle with details or delegating tasks, preferring to take control of situations yourself. While this combination makes you highly effective in motivating others, it’s important to balance your fast-paced drive with consideration for longer-term strategies and plans.",
-            "strengths": "Decisive, confident, visionary, inspirational, persuasive, energetic.",
-            "challenges": "May be perceived as impatient or overly assertive, may struggle with delegating tasks, and can be easily distracted by new opportunities or challenges without fully completing current ones."
-        },
-        "DC": {
-            "title": "### Dominance (D) + Conscientiousness (C) Personality",
-            "description": "You are a strategic and analytical leader who values precision and accuracy. You're driven to succeed and set ambitious goals, but you also prioritize careful planning and thorough execution. This combination of assertiveness and attention to detail allows you to make informed, data-driven decisions. Your ability to think critically and act decisively makes you a formidable force in environments where both logic and leadership are required. However, your high standards can sometimes make you critical of others, especially when they don't meet your expectations. It’s important for you to find balance between striving for perfection and allowing others the space to contribute without feeling micromanaged.",
-            "strengths": "Strategic, decisive, analytical, organized, results-oriented, detail-focused.",
-            "challenges": "May be perceived as critical or perfectionistic. You may struggle with delegating tasks or adapting to situations where quick action is needed without the ability to analyze every detail."
-        },
-        "IS": {
-            "title": "### Influence (I) + Steadiness (S) Personality",
-            "description": "You are a warm and supportive team player who fosters collaboration and harmony. You're naturally empathetic and enjoy connecting with others on a personal level. Your combination of sociability and steadiness makes you a trusted friend and colleague, as you are both approachable and reliable. People are drawn to your ability to make them feel valued, and you excel in environments that emphasize teamwork and mutual support. However, your preference for harmony may lead you to avoid conflict or difficult conversations. Learning to assert yourself when necessary will ensure that your voice is heard, even in situations that require tough decisions.",
-            "strengths": "Empathetic, supportive, collaborative, patient, good listener, team-builder.",
-            "challenges": "May avoid conflict, can be overly accommodating, and may struggle with assertiveness, particularly when dealing with more dominant personalities."
-        },
-        "SC": {
-            "title": "### Steadiness (S) + Conscientiousness (C) Personality",
-            "description": "You are a reliable and methodical individual who values accuracy, consistency, and stability. You approach tasks with patience and a strong attention to detail, ensuring that everything is done correctly and thoroughly. Others appreciate your calm and composed demeanor, as you provide a steady hand even in difficult situations. Your organizational skills and methodical approach make you particularly effective in roles that require long-term planning and consistency. However, you may resist change and be reluctant to make quick decisions. It’s important to recognize when flexibility and adaptability are needed to move forward, even if it means stepping outside of your comfort zone.",
-            "strengths": "Reliable, consistent, detail-oriented, organized, patient, methodical.",
-            "challenges": "May be resistant to change, can struggle with quick decision-making, and may be perceived as inflexible or overly cautious in fast-moving environments."
-        },
-        "CD": {
-            "title": "### Conscientiousness (C) + Dominance (D) Personality",
-            "description": "You combine a sharp analytical mind with a powerful drive to achieve. You ensure that decisions are backed by logic and data, but once decided, you pursue goals with determination and assertiveness. This blend of traits makes you both a critical thinker and an action-taker, which is a valuable combination in leadership positions. You excel in environments where precision and results are equally important. However, your high standards and attention to detail may sometimes slow down decision-making or make you overly critical of others’ work. Learning to balance your need for control with the ability to trust and delegate will enhance your effectiveness as a leader.",
-            "strengths": "Strategic, decisive, analytical, organized, results-oriented, logical.",
-            "challenges": "May be perceived as critical or perfectionistic, can struggle with delegating tasks, and may become overly focused on details, leading to delays in implementation."
+            "title": "Dominance + Influence (DI) Style",
+            "headline": "The Dynamic Pioneer \u2022 Bold, Energetic & Visionary",
+            "description": "You combine the decisive drive of Dominance with the infectious enthusiasm of Influence. You excel at spearheading new ventures, pitching ambitious visions, and driving rapid organizational change. You lead from the front, motivating others with boundless energy and relentless momentum.",
+            "strengths": "Visionary leadership, persuasive pitch delivery, fast execution, high energy, bold initiative.",
+            "challenges": "May outpace team capacity, overlook tactical execution details, or change direction too rapidly.",
+            "motivators": "High-impact initiatives, leadership visibility, rapid breakthroughs, public triumph.",
+            "stress_triggers": "Slow progress, lack of enthusiasm in peers, excessive red tape, feeling constrained.",
+            "under_pressure": "Pushes harder, demands rapid solutions, and may bulldoze objections with verbal passion.",
+            "communication_tips": "Match their energetic pace, highlight strategic outcomes, and keep updates concise and results-focused.",
+            "growth_advice": "Anchor your visionary ideas with dedicated implementation leads and pause to verify that your team has absorbed the plan."
         },
         "ID": {
-            "title": "### Influence (I) + Dominance (D) Personality",
-            "description": "You possess a unique combination of charisma and decisiveness, making you a dynamic leader in both social and work environments. You are naturally persuasive, and your assertiveness allows you to take charge in situations that require quick thinking and action. Your enthusiasm and energy are contagious, helping you influence others to align with your vision. However, you may occasionally overlook important details or move too quickly, which can lead to missteps. Striking a balance between your sociability and the need to pause for reflection will allow you to make better long-term decisions while still capitalizing on your ability to inspire action in others.",
-            "strengths": "Confident, energetic, inspiring, decisive, persuasive, action-oriented.",
-            "challenges": "May struggle with slowing down or focusing on details, can come across as overly dominant, and may push ahead without thoroughly considering all factors."
+            "title": "Influence + Dominance (ID) Style",
+            "headline": "The Charismatic Champion \u2022 Persuasive, Inspiring & Assertive",
+            "description": "You lead with charisma and social influence, backed by a strong appetite for assertive action and high achievement. You excel at winning buy-in for bold proposals, energizing diverse groups, and overcoming skepticism with charm and conviction.",
+            "strengths": "Compelling persuasion, magnetic presence, confident negotiation, fast rapport builder, inspiring leader.",
+            "challenges": "Can react defensively to skepticism, jump into promises before vetting logistics, or become restless during routine work.",
+            "motivators": "Social leadership, high-visibility stages, challenging creative projects, enthusiastic followings.",
+            "stress_triggers": "Disapproval, dull administrative routines, lack of autonomy, skepticism from key stakeholders.",
+            "under_pressure": "Becomes intensely passionate, attempts to talk through resistance, and may push for swift resolution.",
+            "communication_tips": "Acknowledge their creativity and ideas, keep discussions dynamic, and clearly outline the big-picture advantages.",
+            "growth_advice": "Establish operational checkpoints to review fine print and invite analytical peers to stress-test your plans before launch."
+        },
+        "IS": {
+            "title": "Influence + Steadiness (IS) Style",
+            "headline": "The Empathetic Collaborator \u2022 Warm, Inclusive & Encouraging",
+            "description": "You combine the warmth of Influence with the loyalty and patience of Steadiness. You excel at creating supportive, psychologically safe team environments where everyone feels valued and inspired to contribute. You are an exceptional cultural champion and empathetic teammate.",
+            "strengths": "Inclusive mediator, uplifting coach, deep relationship builder, trust creator, empathetic listener.",
+            "challenges": "Can struggle to deliver difficult negative feedback, may take workplace friction personally, or hesitate to enforce strict boundaries.",
+            "motivators": "Team harmony, genuine relationships, collaborative success, helping others develop.",
+            "stress_triggers": "Interpersonal hostility, cold or hyper-transactional cultures, harsh criticism, abrupt team restructuring.",
+            "under_pressure": "Attempts to smooth over conflict at personal cost, may become overly accommodating or emotionally overwhelmed.",
+            "communication_tips": "Use a friendly, personal approach. Show appreciation for their human contribution before addressing transactional topics.",
+            "growth_advice": "Reframe constructive feedback as an act of kindness that empowers others to grow, and protect your own energy boundaries."
         },
         "SI": {
-            "title": "### Steadiness (S) + Influence (I) Personality",
-            "description": "You are a compassionate and sociable person who excels at building harmonious relationships. You enjoy working with others in a supportive and collaborative manner, and you strive to maintain balance and stability in your environment. Your combination of empathy and enthusiasm makes you a great team player, as you can connect with people on a personal level while maintaining a steady and calm demeanor. However, you may avoid conflict or challenging situations that require you to assert yourself more forcefully. Developing the ability to stand your ground, even when it feels uncomfortable, will help you become a stronger leader while maintaining your natural warmth and approachability.",
-            "strengths": "Empathetic, sociable, collaborative, supportive, warm, patient.",
-            "challenges": "May avoid conflict, can be overly accommodating or hesitant in making bold decisions, and may need to work on being more assertive in difficult situations."
+            "title": "Steadiness + Influence (SI) Style",
+            "headline": "The Harmonious Counselor \u2022 Patient, Approachable & Facilitative",
+            "description": "You blend patient reliability with interpersonal warmth and optimism. You thrive in facilitative roles where you can support others, resolve interpersonal friction, and ensure that projects progress smoothly and cooperatively without drama.",
+            "strengths": "Steady support, diplomatic conflict resolution, genuine approachability, community builder, cooperative spirit.",
+            "challenges": "May struggle with decisive self-promotion, aggressive deadlines, or holding non-performing colleagues accountable.",
+            "motivators": "Shared values, stable yet friendly work communities, helping teammates succeed, predictable goals.",
+            "stress_triggers": "High-pressure confrontation, cutthroat competition, sudden chaos, aggressive personalities.",
+            "under_pressure": "Becomes overly cautious, seeks consensus endlessly, and delays disruptive choices.",
+            "communication_tips": "Communicate with sincerity, mutual respect, and calm tone. Avoid aggressive ultimatums.",
+            "growth_advice": "Step up to claim credit for your hard work and practice taking decisive stances when unanimous agreement is impossible."
+        },
+        "SC": {
+            "title": "Steadiness + Conscientiousness (SC) Style",
+            "headline": "The Methodical Specialist \u2022 Dependable, Systematic & Thorough",
+            "description": "You combine patient steadfastness with analytical precision and adherence to quality. You excel at creating stable, well-documented processes, maintaining rigorous operational consistency, and quietly delivering rock-solid results.",
+            "strengths": "Systematic reliability, high quality consistency, patient problem solving, calm under routine pressure, loyal dependability.",
+            "challenges": "Can be hesitant to embrace sudden changes, may take considerable time before trying unproven methods, or over-rely on old formulas.",
+            "motivators": "Orderly workflows, clear criteria, predictable schedules, quiet concentration, technical mastery.",
+            "stress_triggers": "Erratic pivots, sloppy shortcuts, loud aggressive meetings, ambiguity in standards.",
+            "under_pressure": "Becomes withdrawn, cautious, and intensely focused on procedural precision to regain control.",
+            "communication_tips": "Provide structured agendas, clear written details, and ample time to prepare without sudden surprises.",
+            "growth_advice": "Practice quick prototyping and experimentation; accept that some ambiguity is inevitable in fast-moving projects."
         },
         "CS": {
-            "title": "### Conscientiousness (C) + Steadiness (S) Personality",
-            "description": "You have a unique blend of conscientiousness and steadiness, which makes you a highly dependable and methodical individual. You excel in roles where attention to detail and consistency are required. Your organized and systematic approach ensures that projects are completed with care and precision, and your calm and steady nature provides a sense of stability for those around you. You are not one to rush into decisions and prefer to take your time to analyze the facts before acting. However, this combination can sometimes make you resistant to change or overly cautious when faster action is needed. Learning to adapt to new situations and becoming more comfortable with uncertainty will help you grow.",
-            "strengths": "Detail-oriented, consistent, organized, reliable, patient, methodical.",
-            "challenges": "May be resistant to change or quick decision-making, can be overly cautious or hesitant in uncertain environments, and may need to work on being more flexible when situations require rapid adaptation."
+            "title": "Conscientiousness + Steadiness (CS) Style",
+            "headline": "The Thoughtful Analyst \u2022 Precise, Patient & Thorough",
+            "description": "You lead with analytical rigor and back it up with steady, deliberate execution. You excel in technical analysis, compliance, quality assurance, and long-term planning where precision and consistency are paramount.",
+            "strengths": "Deep analytical accuracy, thorough research, methodical persistence, low error rates, thoughtful deliberation.",
+            "challenges": "May struggle with high-speed improvisation, reluctant to voice ideas until 100% verified, or cautious of novel ideas.",
+            "motivators": "Methodical problem solving, stable organizational structures, deep focus time, proven systems.",
+            "stress_triggers": "Chaotic schedules, unverified claims, emotional pressure to bypass standard checks, sudden public presentations.",
+            "under_pressure": "Retreats to data analysis, demands more documentation, and slows down execution to avoid mistakes.",
+            "communication_tips": "Be prepared with organized data, provide written documentation, and maintain a calm, objective dialogue.",
+            "growth_advice": "Share work-in-progress drafts earlier for feedback and challenge yourself to voice early hypotheses in discussions."
+        },
+        "CD": {
+            "title": "Conscientiousness + Dominance (CD) Style",
+            "headline": "The Strategic Evaluator \u2022 Analytical, Driven & Demanding",
+            "description": "You combine analytical rigor with an assertive drive to achieve tangible, high-standard outcomes. You excel at diagnosing systemic flaws, formulating data-backed strategies, and holding operations to uncompromising benchmarks of quality and efficiency.",
+            "strengths": "Objective problem diagnosis, strategic acumen, uncompromising standards, data-driven assertiveness, high efficiency.",
+            "challenges": "Can come across as overly critical, blunt, or dismissive of subjective/emotional factors; may struggle with delegation.",
+            "motivators": "Measurable mastery, strategic authority, designing optimal systems, solving complex technical problems.",
+            "stress_triggers": "Incompetence, sloppy reasoning, irrational decisions, lack of control over key variables.",
+            "under_pressure": "Becomes blunt, sharply critical of errors, and personally takes over tasks to ensure proper execution.",
+            "communication_tips": "Be precise, professional, and well-prepared. Focus on logic, architecture, and efficiency metrics.",
+            "growth_advice": "Balance critique with positive reinforcement, and recognize that human motivation requires empathy as much as logic."
+        },
+        "DC": {
+            "title": "Dominance + Conscientiousness (DC) Style",
+            "headline": "The Calculated Commander \u2022 Resolute, Strategic & Precise",
+            "description": "You combine bold, decisive leadership with a strong demand for precision and strategic logic. You excel at driving complex initiatives that require both aggressive goal attainment and rigorous operational discipline.",
+            "strengths": "Strategic decisiveness, high standards of execution, disciplined leadership, calculated risk management, focused drive.",
+            "challenges": "Can be perceived as intimidating or overly demanding; may struggle with patience when others need time to learn.",
+            "motivators": "High-stakes achievement, executive autonomy, solving intricate challenges, establishing superior benchmarks.",
+            "stress_triggers": "Disorganization, repeated errors, passive resistance, loss of operational control.",
+            "under_pressure": "Takes full charge decisively, enforces rigorous corrective measures, and demands immediate accountability.",
+            "communication_tips": "Be direct, well-organized, and outcome-oriented. Present facts and strategic recommendations concisely.",
+            "growth_advice": "Invest time in coaching and mentoring team members rather than taking over tasks when standards are missed."
         }
+    },
+    "balanced": {
+        "title": "Balanced / Situational Style",
+        "headline": "The Versatile Chameleon \u2022 Adaptable & Multidimensional",
+        "description": "Your scores indicate a well-rounded behavioral profile without a single dominant bias. You possess the flexibility to pivot between driving results, motivating people, supporting teammates, and analyzing details depending on situational demands.",
+        "strengths": "High situational adaptability, broad empathy, balanced perspective, versatile collaboration skills.",
+        "challenges": "May sometimes feel torn between conflicting approaches or take longer to determine which style to employ.",
+        "motivators": "Varied responsibilities, multidimensional roles, cross-functional collaboration, balanced workloads.",
+        "stress_triggers": "Extremes in work culture (e.g., hyper-aggressive or completely unstructured environments).",
+        "under_pressure": "Assesses the context deliberately before deciding whether to take command, mediate, motivate, or analyze.",
+        "communication_tips": "Communicate clearly with a balance of context, warmth, data, and clear next steps.",
+        "growth_advice": "Identify which specific style is most effective for each project phase and consciously lean into that mode."
     }
 }

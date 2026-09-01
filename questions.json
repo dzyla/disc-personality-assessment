@@ -1188,5 +1188,1215 @@
             "S": 2,
             "C": 1
         }
+    },
+    {
+        "style": "D",
+        "question": "When obstacles arise, I immediately look for direct, actionable ways to overcome them rather than waiting for consensus.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I am comfortable challenging existing rules or methods if they slow down progress.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": -1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer to set aggressive goals and push boundaries even if there is a risk of failure.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "In discussions, I get straight to the point and expect others to be equally concise and direct.",
+        "mapping": {
+            "D": 2,
+            "I": -1,
+            "S": -1,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I feel invigorated when given full autonomy to direct projects and make final calls.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "When a crisis hits, my default reaction is to step in, take command, and drive immediate action.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I find competition motivating and constantly benchmark my performance against high standards.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer fast-paced execution over waiting for complete certainty before moving forward.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": -1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I have no difficulty making difficult, high-stakes decisions under pressure.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I naturally use stories, humor, and enthusiasm to convey ideas and persuade others.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I thrive in brainstorming sessions where any creative idea is welcomed without early judgment.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I find it easy to start conversations and build rapport with people from all walks of life.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I actively seek out social interaction and feel drained when isolated from teamwork for too long.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I enjoy celebrating team wins and keeping morale high with positive reinforcement.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I am naturally optimistic about new ventures and tend to focus first on possibilities rather than risks.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I prefer casual, conversational meetings over formal, rigid presentations.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I am skilled at motivating others to get involved and contribute to shared initiatives.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I enjoy spontaneous activities and adapt easily when plans change into something more fun.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": -1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I value public recognition and feeling that my personal contributions make a visible difference.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I prefer open discussions where everyone can express their feelings and viewpoints freely.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I readily express my enthusiasm and rarely hide my excitement about a promising project.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I take time to listen patiently to colleagues concerns before offering advice or judgment.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I value long-term loyalty and consistency in professional and personal partnerships.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer a steady, manageable workload over erratic swings between downtime and extreme crunch.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I work hard behind the scenes to support teammates without needing to be in the spotlight.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "When changes are necessary, I prefer them to be introduced gradually with clear explanations.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I make a conscious effort to keep group environments calm, pleasant, and free of tension.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer to finish tasks thoroughly and steadily rather than constantly jumping between new ideas.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I am dependable when others need assistance and rarely say no when someone asks for help.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I place high value on trust, sincere cooperation, and mutual respect among team members.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I feel most comfortable when expectations are predictable and clearly communicated well in advance.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer to base my arguments on verifiable facts, data, and established standards rather than emotions.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I systematically double-check calculations, specifications, and procedures to prevent mistakes.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer to take the time needed to do a job right the first time rather than rush to meet an artificial deadline.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I appreciate well-documented guidelines, standard operating procedures, and clear criteria for success.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I approach complex issues by breaking them down methodically into their component parts.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I feel uncomfortable when forced to make a recommendation without sufficient supporting evidence.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I place high value on consistency, logical coherence, and intellectual rigor.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I actively seek out objective criteria to evaluate performance and outcomes fairly.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer working in quiet environments where I can concentrate deeply on complex analytical tasks.",
+        "mapping": {
+            "D": 0,
+            "I": -2,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I find satisfaction in organizing messy information into clean, structured, and logical formats.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "D",
+        "question": "I feel comfortable taking the lead in ambiguous situations where immediate action is required.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I would rather make a quick, imperfect decision and adjust later than delay progress.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": -1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I actively challenge assumptions during meetings when I see more efficient alternatives.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I am motivated by ambitious targets that others might consider unrealistic or risky.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "When delegating tasks, I focus primarily on the end result rather than prescribing the exact process.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I find satisfaction in cutting through red tape and bureaucracy to get things done.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": -1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I am energized by high-pressure negotiations and standing firm on key objectives.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer straightforward, blunt feedback over diplomatic circumlocution.",
+        "mapping": {
+            "D": 2,
+            "I": -1,
+            "S": -1,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I naturally look for opportunities to scale operations and expand reach rapidly.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I quickly get frustrated when projects are stalled by excessive consensus-seeking.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -2,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I feel confident taking personal responsibility for high-stakes strategic initiatives.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I view setbacks as challenges to be overcome rather than reasons to slow down.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": 0,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer working on competitive projects where my team can outperform industry benchmarks.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I am comfortable interrupting long discussions to steer the team back toward immediate action.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer having the final decision-making authority on project direction and resource allocation.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I am energized by spearheading new turnaround ventures that require radical change.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -2,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer to set the agenda and drive the tempo in collaborative group settings.",
+        "mapping": {
+            "D": 2,
+            "I": 1,
+            "S": -1,
+            "C": 0
+        }
+    },
+    {
+        "style": "D",
+        "question": "I am willing to make tough personnel or resource reallocations to meet critical deadlines.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -2,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I judge my professional success by measurable output, milestones, and bottom-line impact.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": 1
+        }
+    },
+    {
+        "style": "D",
+        "question": "I prefer direct action over waiting for detailed guidelines or external validation.",
+        "mapping": {
+            "D": 2,
+            "I": 0,
+            "S": -1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I enjoy using compelling stories and metaphors to make technical concepts exciting.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I feel energized after engaging in lively debates and collaborative team workshops.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I naturally notice when someone is feeling disengaged and make an effort to include them.",
+        "mapping": {
+            "D": -1,
+            "I": 2,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I prefer brainstorming out loud with colleagues rather than analyzing problems in isolation.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 0,
+            "C": -2
+        }
+    },
+    {
+        "style": "I",
+        "question": "I am motivated by positive feedback and public appreciation of my team contributions.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I easily adapt my communication style to connect with diverse personalities and cultures.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I like bringing humor and informal warmth into professional meetings to lighten the mood.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I prefer working on forward-looking creative initiatives rather than repetitive administrative routines.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": -1,
+            "C": -2
+        }
+    },
+    {
+        "style": "I",
+        "question": "I find it exciting to pitch bold, creative ideas to external partners and executive stakeholders.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I am quick to express excitement and praise when teammates produce outstanding work.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I enjoy hosting team retrospectives and social gatherings that build camaraderie.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 2,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I find it easy to motivate dispirited teams by painting an optimistic picture of future success.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I prefer open-ended discussions where possibilities are explored freely without early constraints.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 0,
+            "C": -2
+        }
+    },
+    {
+        "style": "I",
+        "question": "I am naturally drawn to public speaking, presentation delivery, and group facilitation.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I feel drained when working for extended periods without interpersonal collaboration.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -2
+        }
+    },
+    {
+        "style": "I",
+        "question": "I value personal rapport and trust just as much as formal contracts in professional partnerships.",
+        "mapping": {
+            "D": -1,
+            "I": 2,
+            "S": 2,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I enjoy experimenting with novel presentation formats to capture audience attention.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 0,
+            "C": -1
+        }
+    },
+    {
+        "style": "I",
+        "question": "I am energized by cross-departmental networking and discovering shared opportunities.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": 0
+        }
+    },
+    {
+        "style": "I",
+        "question": "I tend to focus on the inspiring potential of a plan before examining detailed constraints.",
+        "mapping": {
+            "D": 1,
+            "I": 2,
+            "S": 0,
+            "C": -2
+        }
+    },
+    {
+        "style": "I",
+        "question": "I thrive in team cultures that encourage expressive, enthusiastic, and spontaneous participation.",
+        "mapping": {
+            "D": 0,
+            "I": 2,
+            "S": 1,
+            "C": -1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I take pride in providing calm, steady consistency during organizational transitions.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer building deep, authentic long-term partnerships rather than superficial connections.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I actively listen to understand others underlying feelings before offering solutions.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer having a well-defined schedule and clear expectations for daily tasks.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I am willing to accommodate others schedules and preferences to maintain group harmony.",
+        "mapping": {
+            "D": -2,
+            "I": 0,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I value a supportive, polite team environment where everyone treats each other with kindness.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer completing one project thoroughly before shifting focus to something entirely new.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I feel uncomfortable when interpersonal friction or aggressive competition arises within my team.",
+        "mapping": {
+            "D": -2,
+            "I": 0,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I am deeply loyal to organizations, mentors, and teammates who support my long-term growth.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer to deliberate thoroughly and evaluate practical consequences before embracing sudden changes.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I find satisfaction in quietly resolving operational friction and supporting teammates behind the scenes.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I make an effort to ensure that project deadlines and workload distribution are realistic and fair.",
+        "mapping": {
+            "D": 0,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer reliable, proven methodologies over unvetted, experimental trends.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I appreciate managers who provide clear, patient guidance rather than abrupt, urgent demands.",
+        "mapping": {
+            "D": -1,
+            "I": 0,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I am attentive to maintaining work-life balance and preventing team exhaustion.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer consensus-driven meetings where every team member has a comfortable opportunity to speak.",
+        "mapping": {
+            "D": -2,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I take time to follow up with colleagues individually to ensure they feel supported on joint projects.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prefer stable, long-term organizational strategies over frequent strategic pivots.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I am patient when teaching complex procedures to new team members.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 1
+        }
+    },
+    {
+        "style": "S",
+        "question": "I prioritize preserving psychological safety and trust in all professional interactions.",
+        "mapping": {
+            "D": -1,
+            "I": 1,
+            "S": 2,
+            "C": 0
+        }
+    },
+    {
+        "style": "C",
+        "question": "I insist on verifying data sources independently before accepting conclusions as factual.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer structured workflows, comprehensive documentation, and well-defined quality criteria.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I naturally spot flaws, edge cases, and logical inconsistencies that others overlook.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer making decisions based on systematic quantitative analysis rather than intuition.",
+        "mapping": {
+            "D": 0,
+            "I": -2,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I take time to organize files, systems, and processes with clean logical architecture.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I am uncomfortable delivering work that has not undergone thorough testing and validation.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I appreciate meetings that follow a structured agenda with clear objective benchmarks.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer working in environments where accuracy and craftsmanship are valued above rushed output.",
+        "mapping": {
+            "D": -1,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I systematically break down complex architectures into modular, manageable components.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I value intellectual honesty and expect claims to be backed by verifiable evidence.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer creating standardized templates and checklists to reduce operational error rates.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I find satisfaction in conducting deep research and synthesizing complex datasets into clear models.",
+        "mapping": {
+            "D": 0,
+            "I": -2,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I am disciplined in maintaining audit trails, version control, and process documentation.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer calm, rational problem-solving sessions focused on root-cause analysis.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I hold myself and my colleagues to rigorous technical and ethical benchmarks.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer clarifying ambiguity through precise definitions and explicit functional criteria.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I carefully examine potential risks and failure modes before approving system designs.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I prefer communication that is concise, logical, and structured with supporting data.",
+        "mapping": {
+            "D": 1,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I take satisfaction in optimizing systems for long-term reliability and zero defect rates.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 1,
+            "C": 2
+        }
+    },
+    {
+        "style": "C",
+        "question": "I feel most confident when my recommendations are supported by empirical proof.",
+        "mapping": {
+            "D": 0,
+            "I": -1,
+            "S": 0,
+            "C": 2
+        }
     }
 ]
