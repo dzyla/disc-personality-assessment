@@ -122,8 +122,20 @@ h1, h2, h3, h4 {{ font-family: 'Archivo', system-ui, sans-serif; letter-spacing:
 .meter > div {{ height: 2px; background: {SIGNAL}; transition: width 220ms ease-out; }}
 
 /* ---- widgets */
-.stRadio > div[role="radiogroup"] {{ gap: 0.55rem; padding: 4px 0 14px 0; }}
-.stRadio label {{ font-size: 1.02rem; }}
+/* Options sit across the row and share the width evenly: five for the agree
+   scale, two for a forced choice. They wrap rather than squeeze on a phone. */
+.stRadio > div[role="radiogroup"] {{
+    flex-direction: row; flex-wrap: wrap; align-items: stretch;
+    gap: 8px; padding: 4px 0 16px 0;
+}}
+.stRadio > div[role="radiogroup"] > label {{
+    flex: 1 1 132px; margin: 0; padding: 11px 13px;
+    background: #FFFFFF; border: 1px solid {RULE}; border-radius: 3px;
+    font-size: 0.96rem; line-height: 1.4; align-items: flex-start;
+    transition: border-color 120ms ease, background 120ms ease;
+}}
+.stRadio > div[role="radiogroup"] > label:hover {{ border-color: {SIGNAL}; background: #FBFDFE; }}
+.stRadio > div[role="radiogroup"] > label:focus-within {{ outline: 2px solid {INK}; outline-offset: 1px; }}
 .stButton > button {{
     background: {SIGNAL}; color: #FFFFFF; border: 1px solid {SIGNAL}; border-radius: 3px;
     font-family: 'Archivo', sans-serif; font-weight: 600; letter-spacing: 0.01em;

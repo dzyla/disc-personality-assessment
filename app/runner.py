@@ -52,6 +52,7 @@ def render() -> None:
             index=None,
             key=f"resp_{item.uid}",
             label_visibility="collapsed",
+            horizontal=True,
         )
         value = options.index(choice) + 1 if choice is not None else None
     else:
@@ -62,6 +63,7 @@ def render() -> None:
             index=None,
             key=f"resp_{item.uid}",
             label_visibility="collapsed",
+            horizontal=True,
         )
         value = ("option_a" if choice == options[0] else "option_b") if choice is not None else None
 

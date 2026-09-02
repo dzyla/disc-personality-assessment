@@ -5,10 +5,11 @@ from __future__ import annotations
 from dataclasses import dataclass, field
 from typing import Any
 
+# Kept short: these are laid out as a horizontal scale, five across.
 LIKERT_OPTIONS = (
     "Strongly disagree",
     "Disagree",
-    "Neutral / it depends",
+    "Neutral",
     "Agree",
     "Strongly agree",
 )
