@@ -130,11 +130,15 @@ h1, h2, h3, h4 {{ font-family: 'Archivo', system-ui, sans-serif; letter-spacing:
    scale, two for a forced choice. Equal basis of 0 makes every cell the same
    width regardless of how long its label is. */
 .stRadio > div[role="radiogroup"] {{
+    display: flex; width: 100%;
     flex-direction: row; flex-wrap: nowrap; align-items: stretch;
     gap: 8px; padding: 4px 0 16px 0;
 }}
+/* The group is fit-content by default, so the cells were dividing a container
+   narrower than the column and clipping their labels. */
+.stRadio, .stRadio > div {{ width: 100%; }}
 .stRadio > div[role="radiogroup"] > label {{
-    flex: 1 1 0; min-width: 0; margin: 0; padding: 11px 13px;
+    flex: 1 1 0; min-width: 0; overflow: visible; margin: 0; padding: 11px 13px;
     background: #FFFFFF; border: 1px solid {RULE}; border-radius: 3px;
     font-size: 0.96rem; line-height: 1.4; align-items: flex-start;
     transition: border-color 120ms ease, background 120ms ease;
@@ -174,6 +178,9 @@ h1, h2, h3, h4 {{ font-family: 'Archivo', system-ui, sans-serif; letter-spacing:
 .stExpander {{ border: 1px solid {RULE} !important; border-radius: 3px !important; background: #FFFFFF; }}
 [data-testid="stExpanderDetails"] {{ font-size: 0.92rem; }}
 footer, #MainMenu {{ visibility: hidden; }}
+[data-testid="stToolbar"] {{ display: none; }}
+/* Streamlit adds an anchor link to headings; these are not linkable sections. */
+.stMarkdown h1 a, .stMarkdown h2 a, .stMarkdown h3 a, .stMarkdown h4 a {{ display: none; }}
 </style>
 """
 
