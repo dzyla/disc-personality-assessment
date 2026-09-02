@@ -126,20 +126,41 @@ h1, h2, h3, h4 {{ font-family: 'Archivo', system-ui, sans-serif; letter-spacing:
 .meter > div {{ height: 2px; background: {SIGNAL}; transition: width 220ms ease-out; }}
 
 /* ---- widgets */
-/* Options sit across the row and share the width evenly: five for the agree
-   scale, two for a forced choice. They wrap rather than squeeze on a phone. */
+/* Options share one row and never wrap onto a second: five cells for the agree
+   scale, two for a forced choice. Equal basis of 0 makes every cell the same
+   width regardless of how long its label is. */
 .stRadio > div[role="radiogroup"] {{
-    flex-direction: row; flex-wrap: wrap; align-items: stretch;
+    flex-direction: row; flex-wrap: nowrap; align-items: stretch;
     gap: 8px; padding: 4px 0 16px 0;
 }}
 .stRadio > div[role="radiogroup"] > label {{
-    flex: 1 1 132px; margin: 0; padding: 11px 13px;
+    flex: 1 1 0; min-width: 0; margin: 0; padding: 11px 13px;
     background: #FFFFFF; border: 1px solid {RULE}; border-radius: 3px;
     font-size: 0.96rem; line-height: 1.4; align-items: flex-start;
     transition: border-color 120ms ease, background 120ms ease;
 }}
+/* The five-point scale is tighter than a two-way choice, so it gets a smaller
+   type size and is held to a single line each. */
+.stRadio > div[role="radiogroup"]:has(> label:nth-child(5)) {{ gap: 6px; }}
+.stRadio > div[role="radiogroup"]:has(> label:nth-child(5)) > label {{
+    padding: 10px 7px; font-size: 0.82rem; align-items: center;
+}}
+.stRadio > div[role="radiogroup"]:has(> label:nth-child(5)) > label,
+.stRadio > div[role="radiogroup"]:has(> label:nth-child(5)) > label div {{
+    white-space: nowrap;
+}}
 .stRadio > div[role="radiogroup"] > label:hover {{ border-color: {SIGNAL}; background: #FBFDFE; }}
 .stRadio > div[role="radiogroup"] > label:focus-within {{ outline: 2px solid {INK}; outline-offset: 1px; }}
+
+/* Below tablet width five across stops fitting, so the scale stacks instead. */
+@media (max-width: 680px) {{
+    .stRadio > div[role="radiogroup"] {{ flex-wrap: wrap; }}
+    .stRadio > div[role="radiogroup"]:has(> label:nth-child(5)) > label,
+    .stRadio > div[role="radiogroup"]:has(> label:nth-child(5)) > label div {{
+        white-space: normal;
+    }}
+    .stRadio > div[role="radiogroup"] > label {{ flex: 1 1 46%; }}
+}}
 .stButton > button {{
     background: {SIGNAL}; color: #FFFFFF; border: 1px solid {SIGNAL}; border-radius: 3px;
     font-family: 'Archivo', sans-serif; font-weight: 600; letter-spacing: 0.01em;
