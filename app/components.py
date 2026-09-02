@@ -34,7 +34,10 @@ CSS = f"""
 @import url('https://fonts.googleapis.com/css2?family=Archivo:wght@500;600;700&family=Source+Sans+3:ital,wght@0,400;0,600;1,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap');
 
 .stApp {{ background: {PAPER}; }}
-.block-container {{ max-width: 880px; padding-top: 2.4rem; padding-bottom: 4rem; }}
+/* Streamlit's header is fixed and overlays the top of the page, so the first
+   line needs to clear it rather than slide underneath. */
+[data-testid="stHeader"] {{ background: transparent; }}
+.block-container {{ max-width: 880px; padding-top: 4.75rem; padding-bottom: 4rem; }}
 
 html, body, [class*="css"], .stMarkdown, .stRadio label {{
     font-family: 'Source Sans 3', system-ui, sans-serif;
@@ -46,6 +49,7 @@ h1, h2, h3, h4 {{ font-family: 'Archivo', system-ui, sans-serif; letter-spacing:
 .chan {{
     font-family: 'IBM Plex Mono', monospace;
     font-size: 0.68rem;
+    line-height: 1.7;
     letter-spacing: 0.14em;
     text-transform: uppercase;
     color: {SLATE};
