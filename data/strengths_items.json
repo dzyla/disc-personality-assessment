@@ -1,0 +1,3115 @@
+[
+ {
+  "id": "s001",
+  "question": "When starting a new project, do you prefer to:",
+  "option_a": "Generate a variety of creative ideas.",
+  "option_b": "Outline a detailed plan before proceeding.",
+  "alignment": {
+   "option_a": [
+    "Ideation"
+   ],
+   "option_b": [
+    "Discipline",
+    "Arranger"
+   ]
+  }
+ },
+ {
+  "id": "s002",
+  "question": "In a team setting, are you more likely to:",
+  "option_a": "Take the lead and direct activities.",
+  "option_b": "Support team members to achieve their best.",
+  "alignment": {
+   "option_a": [
+    "Command"
+   ],
+   "option_b": [
+    "Developer",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s003",
+  "question": "Which describes you better?",
+  "option_a": "You focus on efficient goal achievement.",
+  "option_b": "You enjoy exploring new concepts and ideas.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Achiever"
+   ],
+   "option_b": [
+    "Learner",
+    "Input"
+   ]
+  }
+ },
+ {
+  "id": "s004",
+  "question": "When faced with a problem, do you:",
+  "option_a": "Analyze the facts logically.",
+  "option_b": "Trust your instincts and intuition.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Analytical"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s005",
+  "question": "Do you get more satisfaction from:",
+  "option_a": "Completing tasks efficiently.",
+  "option_b": "Understanding complex theories.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Achiever"
+   ],
+   "option_b": [
+    "Learner",
+    "Intellection"
+   ]
+  }
+ },
+ {
+  "id": "s006",
+  "question": "In your free time, do you prefer:",
+  "option_a": "Socializing with a large group.",
+  "option_b": "Spending time alone to recharge.",
+  "alignment": {
+   "option_a": [
+    "Communication",
+    "Woo"
+   ],
+   "option_b": [
+    "Restorative",
+    "Intellection"
+   ]
+  }
+ },
+ {
+  "id": "s007",
+  "question": "When making decisions, do you rely more on:",
+  "option_a": "Data and evidence.",
+  "option_b": "Personal values and beliefs.",
+  "alignment": {
+   "option_a": [
+    "Analytical",
+    "Context"
+   ],
+   "option_b": [
+    "Connectedness",
+    "Belief"
+   ]
+  }
+ },
+ {
+  "id": "s008",
+  "question": "Do you consider yourself more:",
+  "option_a": "Practical and realistic.",
+  "option_b": "Visionary and imaginative.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Restorative"
+   ],
+   "option_b": [
+    "Ideation",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s009",
+  "question": "Are you driven more by:",
+  "option_a": "Achieving measurable results.",
+  "option_b": "Building strong relationships.",
+  "alignment": {
+   "option_a": [
+    "Competition",
+    "Achiever"
+   ],
+   "option_b": [
+    "Relator",
+    "Harmony"
+   ]
+  }
+ },
+ {
+  "id": "s010",
+  "question": "When learning something new, do you prefer to:",
+  "option_a": "Follow step-by-step instructions.",
+  "option_b": "Experiment and learn by doing.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Consistency"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s011",
+  "question": "Do you usually:",
+  "option_a": "Stick to your plans firmly.",
+  "option_b": "Adjust plans as situations change.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Focus"
+   ],
+   "option_b": [
+    "Arranger",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s012",
+  "question": "In conversations, do you tend to:",
+  "option_a": "Listen attentively.",
+  "option_b": "Express your thoughts openly.",
+  "alignment": {
+   "option_a": [
+    "Input",
+    "Empathy"
+   ],
+   "option_b": [
+    "Communication",
+    "Self-Assurance"
+   ]
+  }
+ },
+ {
+  "id": "s013",
+  "question": "Would others describe you as:",
+  "option_a": "Organized and methodical.",
+  "option_b": "Flexible and spontaneous.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Consistency"
+   ],
+   "option_b": [
+    "Ideation",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s014",
+  "question": "When setting goals, do you:",
+  "option_a": "Aim for realistic and achievable targets.",
+  "option_b": "Set ambitious and challenging objectives.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Strategic"
+   ],
+   "option_b": [
+    "Competition",
+    "Maximizer"
+   ]
+  }
+ },
+ {
+  "id": "s015",
+  "question": "Do you prefer work that involves:",
+  "option_a": "Routine and predictability.",
+  "option_b": "Variety and new experiences.",
+  "alignment": {
+   "option_a": [
+    "Harmony",
+    "Consistency"
+   ],
+   "option_b": [
+    "Learner",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s016",
+  "question": "Are you more inclined to:",
+  "option_a": "Focus on immediate tasks.",
+  "option_b": "Think about long-term possibilities.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Activator"
+   ],
+   "option_b": [
+    "Strategic",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s017",
+  "question": "When working on a team project, do you:",
+  "option_a": "Ensure team harmony and collaboration.",
+  "option_b": "Drive the team towards its goals.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Harmony"
+   ],
+   "option_b": [
+    "Achiever",
+    "Command"
+   ]
+  }
+ },
+ {
+  "id": "s018",
+  "question": "Do you find it easier to:",
+  "option_a": "Follow established methods.",
+  "option_b": "Innovate and create new methods.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Consistency"
+   ],
+   "option_b": [
+    "Strategic",
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s019",
+  "question": "In stressful situations, are you likely to:",
+  "option_a": "Remain calm and composed.",
+  "option_b": "Take quick action to resolve issues.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Harmony"
+   ],
+   "option_b": [
+    "Self-Assurance",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s020",
+  "question": "Would you rather be recognized for your:",
+  "option_a": "Expertise and knowledge.",
+  "option_b": "Originality and innovation.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Input"
+   ],
+   "option_b": [
+    "Ideation",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s021",
+  "question": "When collaborating with others, do you:",
+  "option_a": "Encourage consensus and agreement.",
+  "option_b": "Challenge ideas to improve outcomes.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Harmony"
+   ],
+   "option_b": [
+    "Analytical",
+    "Competition"
+   ]
+  }
+ },
+ {
+  "id": "s022",
+  "question": "Do you prefer to:",
+  "option_a": "Stick with proven methods.",
+  "option_b": "Try new approaches even if they might fail.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Consistency"
+   ],
+   "option_b": [
+    "Futuristic",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s023",
+  "question": "When working under pressure, do you:",
+  "option_a": "Maintain a steady pace.",
+  "option_b": "Feel energized and perform your best.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Harmony"
+   ],
+   "option_b": [
+    "Focus",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s024",
+  "question": "Which appeals more to you:",
+  "option_a": "Working with details and specifics.",
+  "option_b": "Focusing on the big picture.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Analytical"
+   ],
+   "option_b": [
+    "Strategic",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s025",
+  "question": "In group discussions, do you:",
+  "option_a": "Encourage others to share their ideas.",
+  "option_b": "Present your ideas confidently.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Empathy"
+   ],
+   "option_b": [
+    "Self-Assurance",
+    "Command"
+   ]
+  }
+ },
+ {
+  "id": "s026",
+  "question": "Do you find it more satisfying to:",
+  "option_a": "Solve complex problems.",
+  "option_b": "Help others achieve their goals.",
+  "alignment": {
+   "option_a": [
+    "Restorative",
+    "Intellection"
+   ],
+   "option_b": [
+    "Developer",
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s027",
+  "question": "When organizing an event, do you:",
+  "option_a": "Plan every detail meticulously.",
+  "option_b": "Go with the flow and adapt as needed.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Arranger"
+   ],
+   "option_b": [
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s028",
+  "question": "Are you more motivated by:",
+  "option_a": "Personal achievements.",
+  "option_b": "Contributing to a greater cause.",
+  "alignment": {
+   "option_a": [
+    "Competition",
+    "Achiever"
+   ],
+   "option_b": [
+    "Belief"
+   ]
+  }
+ },
+ {
+  "id": "s029",
+  "question": "Do you prefer tasks that are:",
+  "option_a": "Well-defined with clear expectations.",
+  "option_b": "Open-ended with room for creativity.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Self-Assurance"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s030",
+  "question": "When facing change, do you:",
+  "option_a": "Feel uneasy and prefer stability.",
+  "option_b": "Embrace it as an opportunity.",
+  "alignment": {
+   "option_a": [
+    "Deliberative"
+   ],
+   "option_b": [
+    "Positivity",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s031",
+  "question": "In your approach to work, are you:",
+  "option_a": "Methodical and systematic.",
+  "option_b": "Dynamic and spontaneous.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Consistency"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s032",
+  "question": "Do you enjoy tasks that involve:",
+  "option_a": "Analyzing data and patterns.",
+  "option_b": "Interacting with people.",
+  "alignment": {
+   "option_a": [
+    "Analytical",
+    "Intellection"
+   ],
+   "option_b": [
+    "Relator",
+    "Communication"
+   ]
+  }
+ },
+ {
+  "id": "s033",
+  "question": "Which statement resonates more with you:",
+  "option_a": "I like to perfect what is already working.",
+  "option_b": "I like to pioneer new paths.",
+  "alignment": {
+   "option_a": [
+    "Arranger",
+    "Maximizer"
+   ],
+   "option_b": [
+    "Ideation",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s034",
+  "question": "When given a choice, do you prefer to:",
+  "option_a": "Work independently.",
+  "option_b": "Collaborate with a team.",
+  "alignment": {
+   "option_a": [
+    "Responsibility"
+   ],
+   "option_b": [
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s035",
+  "question": "Do you tend to make decisions based on:",
+  "option_a": "Logical reasoning.",
+  "option_b": "Gut feelings.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Individualization",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s036",
+  "question": "When approaching deadlines, do you:",
+  "option_a": "Plan ahead to avoid last-minute stress.",
+  "option_b": "Feel energized by the urgency.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Activator"
+   ],
+   "option_b": [
+    "Discipline",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s037",
+  "question": "In terms of feedback, do you prefer:",
+  "option_a": "Constructive criticism to improve.",
+  "option_b": "Encouragement to boost morale.",
+  "alignment": {
+   "option_a": [
+    "Developer",
+    "Learner"
+   ],
+   "option_b": [
+    "Developer",
+    "Positivity"
+   ]
+  }
+ },
+ {
+  "id": "s038",
+  "question": "Do you value more:",
+  "option_a": "Tradition and established practices.",
+  "option_b": "Innovation and new ideas.",
+  "alignment": {
+   "option_a": [
+    "Belief",
+    "Consistency"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s039",
+  "question": "When faced with multiple tasks, do you:",
+  "option_a": "Focus on one task until completion.",
+  "option_b": "Switch between tasks to keep things interesting.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Achiever"
+   ],
+   "option_b": [
+    "Arranger",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s040",
+  "question": "Would you describe yourself as:",
+  "option_a": "Reserved and thoughtful.",
+  "option_b": "Outgoing and expressive.",
+  "alignment": {
+   "option_a": [
+    "Intellection"
+   ],
+   "option_b": [
+    "Communication",
+    "Woo"
+   ]
+  }
+ },
+ {
+  "id": "s041",
+  "question": "When setting priorities, do you:",
+  "option_a": "Consider what is most logical.",
+  "option_b": "Consider what feels most important.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Analytical"
+   ],
+   "option_b": [
+    "Belief"
+   ]
+  }
+ },
+ {
+  "id": "s042",
+  "question": "When approaching a new challenge, do you:",
+  "option_a": "Research extensively before taking action.",
+  "option_b": "Dive in and learn as you go.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Analytical"
+   ],
+   "option_b": [
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s043",
+  "question": "Do you find it more fulfilling to:",
+  "option_a": "Complete tasks accurately.",
+  "option_b": "Generate innovative solutions.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Responsibility"
+   ],
+   "option_b": [
+    "Ideation",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s044",
+  "question": "In terms of communication, are you:",
+  "option_a": "Clear and concise.",
+  "option_b": "Expressive and enthusiastic.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Self-Assurance"
+   ],
+   "option_b": [
+    "Communication"
+   ]
+  }
+ },
+ {
+  "id": "s045",
+  "question": "When working towards a goal, do you prefer to:",
+  "option_a": "Follow a tried-and-true path.",
+  "option_b": "Explore uncharted territories.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Consistency"
+   ],
+   "option_b": [
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s046",
+  "question": "Do you usually make plans that are:",
+  "option_a": "Detailed and specific.",
+  "option_b": "Flexible and adaptable.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s047",
+  "question": "When giving presentations, do you:",
+  "option_a": "Stick to the facts and data.",
+  "option_b": "Tell stories to engage the audience.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Communication"
+   ]
+  }
+ },
+ {
+  "id": "s048",
+  "question": "In your daily life, do you prefer:",
+  "option_a": "Routine and predictability.",
+  "option_b": "Spontaneity and surprises.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s049",
+  "question": "Do you feel more energized when:",
+  "option_a": "Working on complex problems alone.",
+  "option_b": "Collaborating with others on projects.",
+  "alignment": {
+   "option_a": [
+    "Intellection"
+   ],
+   "option_b": [
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s050",
+  "question": "When it comes to feedback, do you:",
+  "option_a": "Seek out constructive criticism.",
+  "option_b": "Prefer positive affirmation.",
+  "alignment": {
+   "option_a": [
+    "Developer",
+    "Learner"
+   ],
+   "option_b": [
+    "Developer",
+    "Positivity"
+   ]
+  }
+ },
+ {
+  "id": "s051",
+  "question": "Do you approach tasks by:",
+  "option_a": "Breaking them down into smaller steps.",
+  "option_b": "Keeping the overall goal in mind.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Arranger"
+   ],
+   "option_b": [
+    "Strategic",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s052",
+  "question": "When faced with a disagreement, do you:",
+  "option_a": "Strive to find common ground.",
+  "option_b": "Stand firm on your position.",
+  "alignment": {
+   "option_a": [
+    "Harmony"
+   ],
+   "option_b": [
+    "Self-Assurance",
+    "Command"
+   ]
+  }
+ },
+ {
+  "id": "s053",
+  "question": "In your opinion, success is best achieved through:",
+  "option_a": "Careful planning and execution.",
+  "option_b": "Taking bold risks.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Responsibility"
+   ],
+   "option_b": [
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s054",
+  "question": "Do you prefer to focus on:",
+  "option_a": "One project at a time.",
+  "option_b": "Multiple projects simultaneously.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Achiever"
+   ],
+   "option_b": [
+    "Arranger"
+   ]
+  }
+ },
+ {
+  "id": "s055",
+  "question": "When learning, do you:",
+  "option_a": "Prefer structured courses.",
+  "option_b": "Teach yourself through exploration.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Learner"
+   ]
+  }
+ },
+ {
+  "id": "s056",
+  "question": "Are you more inclined to trust:",
+  "option_a": "Proven experts.",
+  "option_b": "Your own experience.",
+  "alignment": {
+   "option_a": [
+    "Belief",
+    "Consistency"
+   ],
+   "option_b": [
+    "Self-Assurance"
+   ]
+  }
+ },
+ {
+  "id": "s057",
+  "question": "Do you find more joy in:",
+  "option_a": "Finishing a task.",
+  "option_b": "Starting a new project.",
+  "alignment": {
+   "option_a": [
+    "Achiever"
+   ],
+   "option_b": [
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s058",
+  "question": "When you think about the future, do you:",
+  "option_a": "Plan for potential challenges.",
+  "option_b": "Envision exciting possibilities.",
+  "alignment": {
+   "option_a": [
+    "Deliberative"
+   ],
+   "option_b": [
+    "Positivity",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s059",
+  "question": "Do you handle unexpected changes by:",
+  "option_a": "Seeking to restore order quickly.",
+  "option_b": "Adapting and seeing where it leads.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Harmony"
+   ],
+   "option_b": [
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s060",
+  "question": "When collaborating, do you:",
+  "option_a": "Value everyone's input equally.",
+  "option_b": "Prioritize the best ideas regardless of the source.",
+  "alignment": {
+   "option_a": [
+    "Includer"
+   ],
+   "option_b": [
+    "Analytical",
+    "Consistency"
+   ]
+  }
+ },
+ {
+  "id": "s061",
+  "question": "Do you prefer your work to be:",
+  "option_a": "Predictable and secure.",
+  "option_b": "Dynamic and ever-changing.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Consistency"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s062",
+  "question": "When reflecting on past experiences, do you:",
+  "option_a": "Focus on lessons learned.",
+  "option_b": "Cherish the memories made.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Intellection"
+   ],
+   "option_b": [
+    "Connectedness",
+    "Context"
+   ]
+  }
+ },
+ {
+  "id": "s063",
+  "question": "Are you more drawn to:",
+  "option_a": "Facts and empirical evidence.",
+  "option_b": "Ideas and theoretical concepts.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Ideation",
+    "Intellection"
+   ]
+  }
+ },
+ {
+  "id": "s064",
+  "question": "When solving problems, do you:",
+  "option_a": "Rely on established methods.",
+  "option_b": "Brainstorm multiple solutions.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Consistency"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s065",
+  "question": "Do you prefer to be recognized for:",
+  "option_a": "Your reliability and dependability.",
+  "option_b": "Your originality and creativity.",
+  "alignment": {
+   "option_a": [
+    "Responsibility"
+   ],
+   "option_b": [
+    "Ideation",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s066",
+  "question": "In group settings, do you:",
+  "option_a": "Observe and process before speaking.",
+  "option_b": "Participate actively from the start.",
+  "alignment": {
+   "option_a": [
+    "Individualization",
+    "Intellection"
+   ],
+   "option_b": [
+    "Positivity",
+    "Communication"
+   ]
+  }
+ },
+ {
+  "id": "s067",
+  "question": "When dealing with details, do you:",
+  "option_a": "Enjoy diving deep into specifics.",
+  "option_b": "Prefer to delegate details to others.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Analytical"
+   ],
+   "option_b": [
+    "Arranger"
+   ]
+  }
+ },
+ {
+  "id": "s068",
+  "question": "When tackling a task, do you prefer to:",
+  "option_a": "Work steadily until it's finished.",
+  "option_b": "Take breaks to keep your energy up.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Achiever"
+   ],
+   "option_b": [
+    "Self-Assurance",
+    "Intellection"
+   ]
+  }
+ },
+ {
+  "id": "s069",
+  "question": "Do you tend to:",
+  "option_a": "Follow your head over your heart.",
+  "option_b": "Follow your heart over your head.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s070",
+  "question": "In group projects, do you:",
+  "option_a": "Prefer to coordinate and organize tasks.",
+  "option_b": "Contribute by generating creative ideas.",
+  "alignment": {
+   "option_a": [
+    "Arranger"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s071",
+  "question": "When setting deadlines, do you:",
+  "option_a": "Set conservative timelines to ensure timely completion.",
+  "option_b": "Set ambitious timelines to push yourself.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Restorative"
+   ],
+   "option_b": [
+    "Achiever"
+   ]
+  }
+ },
+ {
+  "id": "s072",
+  "question": "Do you find yourself more often:",
+  "option_a": "Reflecting on past experiences.",
+  "option_b": "Anticipating future possibilities.",
+  "alignment": {
+   "option_a": [
+    "Context",
+    "Intellection"
+   ],
+   "option_b": [
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s073",
+  "question": "When dealing with conflict, do you:",
+  "option_a": "Address it directly to resolve issues.",
+  "option_b": "Seek to mediate and find compromise.",
+  "alignment": {
+   "option_a": [
+    "Command"
+   ],
+   "option_b": [
+    "Harmony"
+   ]
+  }
+ },
+ {
+  "id": "s074",
+  "question": "Are you more skilled at:",
+  "option_a": "Creating systems and structures.",
+  "option_b": "Adapting to new environments.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Arranger"
+   ],
+   "option_b": [
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s075",
+  "question": "When faced with repetitive tasks, do you:",
+  "option_a": "Find comfort in the routine.",
+  "option_b": "Feel the need to change things up.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Consistency"
+   ],
+   "option_b": [
+    "Ideation",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s076",
+  "question": "Do you prefer to make decisions:",
+  "option_a": "After careful deliberation.",
+  "option_b": "Quickly to keep things moving.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Empathy"
+   ],
+   "option_b": [
+    "Activator",
+    "Command"
+   ]
+  }
+ },
+ {
+  "id": "s077",
+  "question": "When learning about a new topic, do you:",
+  "option_a": "Dive deep to become an expert.",
+  "option_b": "Learn just enough to get started.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Focus"
+   ],
+   "option_b": [
+    "Restorative",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s078",
+  "question": "In terms of organization, do you:",
+  "option_a": "Keep everything in its place.",
+  "option_b": "Prefer a more relaxed system.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s079",
+  "question": "Do you get more excited about:",
+  "option_a": "Finishing a project successfully.",
+  "option_b": "Starting a new venture.",
+  "alignment": {
+   "option_a": [
+    "Achiever"
+   ],
+   "option_b": [
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s080",
+  "question": "When working with data, do you:",
+  "option_a": "Enjoy analyzing numbers and statistics.",
+  "option_b": "Prefer interpreting what the data means.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Analytical"
+   ],
+   "option_b": [
+    "Strategic",
+    "Individualization"
+   ]
+  }
+ },
+ {
+  "id": "s081",
+  "question": "In social settings, are you:",
+  "option_a": "The one who brings people together.",
+  "option_b": "The one who enjoys deep conversations.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Woo"
+   ],
+   "option_b": [
+    "Intellection"
+   ]
+  }
+ },
+ {
+  "id": "s082",
+  "question": "Do you feel more comfortable when:",
+  "option_a": "Following established guidelines.",
+  "option_b": "Exploring unstructured environments.",
+  "alignment": {
+   "option_a": [
+    "Consistency"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Input"
+   ]
+  }
+ },
+ {
+  "id": "s083",
+  "question": "When assessing risks, do you:",
+  "option_a": "Tend to be cautious and avoid risks.",
+  "option_b": "Embrace risks as opportunities.",
+  "alignment": {
+   "option_a": [
+    "Deliberative"
+   ],
+   "option_b": [
+    "Significance",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s084",
+  "question": "In terms of feedback, do you:",
+  "option_a": "Appreciate straightforward critiques.",
+  "option_b": "Prefer feedback delivered gently.",
+  "alignment": {
+   "option_a": [
+    "Command"
+   ],
+   "option_b": [
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s085",
+  "question": "When planning a vacation, do you:",
+  "option_a": "Schedule activities in advance.",
+  "option_b": "Decide what to do on the go.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s086",
+  "question": "Do you work best when:",
+  "option_a": "You have clear instructions.",
+  "option_b": "You have creative freedom.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Learner"
+   ],
+   "option_b": [
+    "Responsibility",
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s087",
+  "question": "Are you more of a:",
+  "option_a": "Visual learner.",
+  "option_b": "Hands-on learner.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Input"
+   ],
+   "option_b": [
+    "Learner",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s088",
+  "question": "When considering options, do you:",
+  "option_a": "List pros and cons.",
+  "option_b": "Go with your initial gut feeling.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Analytical"
+   ],
+   "option_b": [
+    "Self-Assurance",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s089",
+  "question": "Do you believe that:",
+  "option_a": "Success comes from hard work.",
+  "option_b": "Success comes from working smart.",
+  "alignment": {
+   "option_a": [
+    "Achiever"
+   ],
+   "option_b": [
+    "Arranger",
+    "Maximizer"
+   ]
+  }
+ },
+ {
+  "id": "s090",
+  "question": "In meetings, do you:",
+  "option_a": "Listen and process information.",
+  "option_b": "Lead the discussion.",
+  "alignment": {
+   "option_a": [
+    "Input",
+    "Empathy"
+   ],
+   "option_b": [
+    "Command"
+   ]
+  }
+ },
+ {
+  "id": "s091",
+  "question": "When approaching problems, do you:",
+  "option_a": "Rely on tried methods.",
+  "option_b": "Invent new solutions.",
+  "alignment": {
+   "option_a": [
+    "Restorative",
+    "Consistency"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s092",
+  "question": "Do you prefer to be:",
+  "option_a": "A specialist in one area.",
+  "option_b": "A generalist with varied skills.",
+  "alignment": {
+   "option_a": [
+    "Maximizer",
+    "Focus"
+   ],
+   "option_b": [
+    "Learner",
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s093",
+  "question": "When receiving new information, do you:",
+  "option_a": "Question its validity.",
+  "option_b": "Accept it and move forward.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Positivity",
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s094",
+  "question": "In your work environment, do you prefer:",
+  "option_a": "Structure and clear expectations.",
+  "option_b": "Autonomy and flexibility.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Self-Assurance"
+   ]
+  }
+ },
+ {
+  "id": "s095",
+  "question": "When networking, do you:",
+  "option_a": "Enjoy meeting many new people.",
+  "option_b": "Prefer deepening existing relationships.",
+  "alignment": {
+   "option_a": [
+    "Woo"
+   ],
+   "option_b": [
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s096",
+  "question": "Do you make decisions based on:",
+  "option_a": "Careful analysis.",
+  "option_b": "Quick judgment.",
+  "alignment": {
+   "option_a": [
+    "Deliberative",
+    "Analytical"
+   ],
+   "option_b": [
+    "Activator",
+    "Command"
+   ]
+  }
+ },
+ {
+  "id": "s097",
+  "question": "When considering career success, do you value:",
+  "option_a": "Achieving a high level of expertise.",
+  "option_b": "Making a significant impact.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Maximizer"
+   ],
+   "option_b": [
+    "Significance"
+   ]
+  }
+ },
+ {
+  "id": "s098",
+  "question": "When starting your day, do you prefer to:",
+  "option_a": "Plan out your schedule meticulously.",
+  "option_b": "Embrace spontaneity and go with the flow.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s099",
+  "question": "In a leadership role, do you:",
+  "option_a": "Set clear goals and expectations.",
+  "option_b": "Motivate others through inspiration.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Command"
+   ],
+   "option_b": [
+    "Positivity"
+   ]
+  }
+ },
+ {
+  "id": "s100",
+  "question": "When working on tasks, do you:",
+  "option_a": "Prefer to work independently.",
+  "option_b": "Enjoy collaborating with others.",
+  "alignment": {
+   "option_a": [
+    "Responsibility"
+   ],
+   "option_b": [
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s101",
+  "question": "Do you tend to be more:",
+  "option_a": "Critical and questioning.",
+  "option_b": "Accepting and trusting.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Relator",
+    "Harmony"
+   ]
+  }
+ },
+ {
+  "id": "s102",
+  "question": "When learning new information, do you:",
+  "option_a": "Prefer visual aids and diagrams.",
+  "option_b": "Understand better through auditory explanations.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Learner"
+   ],
+   "option_b": [
+    "Communication",
+    "Learner"
+   ]
+  }
+ },
+ {
+  "id": "s103",
+  "question": "In terms of your workspace, do you:",
+  "option_a": "Keep it organized and tidy.",
+  "option_b": "Have a more relaxed and cluttered setup.",
+  "alignment": {
+   "option_a": [
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability"
+   ]
+  }
+ },
+ {
+  "id": "s104",
+  "question": "When it comes to innovation, do you:",
+  "option_a": "Improve existing ideas incrementally.",
+  "option_b": "Create entirely new concepts.",
+  "alignment": {
+   "option_a": [
+    "Maximizer"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s105",
+  "question": "Do you approach challenges by:",
+  "option_a": "Developing a detailed plan.",
+  "option_b": "Jumping in and adjusting as you go.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Deliberative"
+   ],
+   "option_b": [
+    "Activator"
+   ]
+  }
+ },
+ {
+  "id": "s106",
+  "question": "In conversations, do you:",
+  "option_a": "Stick to objective topics.",
+  "option_b": "Share personal stories and experiences.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Communication"
+   ]
+  }
+ },
+ {
+  "id": "s107",
+  "question": "When organizing events, do you:",
+  "option_a": "Focus on logistics and details.",
+  "option_b": "Ensure everyone feels included and happy.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Arranger"
+   ],
+   "option_b": [
+    "Includer",
+    "Harmony"
+   ]
+  }
+ },
+ {
+  "id": "s108",
+  "question": "Do you prefer feedback that is:",
+  "option_a": "Direct and to the point.",
+  "option_b": "Gentle and encouraging.",
+  "alignment": {
+   "option_a": [
+    "Communication",
+    "Command"
+   ],
+   "option_b": [
+    "Relator",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s109",
+  "question": "When considering success, do you value:",
+  "option_a": "Achieving personal excellence.",
+  "option_b": "Contributing to the success of the group.",
+  "alignment": {
+   "option_a": [
+    "Achiever"
+   ],
+   "option_b": [
+    "Relator"
+   ]
+  }
+ },
+ {
+  "id": "s110",
+  "question": "In your problem-solving approach, are you:",
+  "option_a": "Systematic and methodical.",
+  "option_b": "Intuitive and flexible.",
+  "alignment": {
+   "option_a": [
+    "Analytical"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s111",
+  "question": "Do you handle stress by:",
+  "option_a": "Creating order and lists.",
+  "option_b": "Seeking support from others.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Arranger"
+   ],
+   "option_b": [
+    "Relator",
+    "Empathy"
+   ]
+  }
+ },
+ {
+  "id": "s112",
+  "question": "When reading, do you prefer:",
+  "option_a": "Non-fiction and informative content.",
+  "option_b": "Fiction and imaginative stories.",
+  "alignment": {
+   "option_a": [
+    "Communication",
+    "Learner"
+   ],
+   "option_b": [
+    "Ideation"
+   ]
+  }
+ },
+ {
+  "id": "s113",
+  "question": "Are you motivated more by:",
+  "option_a": "Internal goals and standards.",
+  "option_b": "External recognition and rewards.",
+  "alignment": {
+   "option_a": [
+    "Belief",
+    "Responsibility"
+   ],
+   "option_b": [
+    "Significance"
+   ]
+  }
+ },
+ {
+  "id": "s114",
+  "question": "When it comes to change, do you:",
+  "option_a": "Prefer stability and consistency.",
+  "option_b": "Embrace it as an opportunity.",
+  "alignment": {
+   "option_a": [
+    "Consistency",
+    "Harmony"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Futuristic"
+   ]
+  }
+ },
+ {
+  "id": "s115",
+  "question": "In terms of thinking, do you:",
+  "option_a": "Process thoughts internally.",
+  "option_b": "Think out loud with others.",
+  "alignment": {
+   "option_a": [
+    "Intellection"
+   ],
+   "option_b": [
+    "Communication"
+   ]
+  }
+ },
+ {
+  "id": "s116",
+  "question": "Do you prioritize:",
+  "option_a": "Efficiency over quality.",
+  "option_b": "Quality over efficiency.",
+  "alignment": {
+   "option_a": [
+    "Arranger",
+    "Achiever"
+   ],
+   "option_b": [
+    "Maximizer"
+   ]
+  }
+ },
+ {
+  "id": "s117",
+  "question": "When faced with a new skill to learn, do you:",
+  "option_a": "Prefer to be guided step-by-step.",
+  "option_b": "Explore and learn through experimentation.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Learner"
+   ],
+   "option_b": [
+    "Learner"
+   ]
+  }
+ },
+ {
+  "question": "When given a challenging new assignment, are you more inclined to:",
+  "option_a": "Break the project down into structured milestones and create an execution timeline.",
+  "option_b": "Explore innovative, unconventional angles that nobody else has considered yet.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Focus"
+   ],
+   "option_b": [
+    "Ideation",
+    "Strategic"
+   ]
+  },
+  "id": "s118"
+ },
+ {
+  "question": "In a team crisis, what is your immediate natural reaction?",
+  "option_a": "Take direct command, assign clear roles, and make authoritative decisions.",
+  "option_b": "Check in with stressed team members and preserve psychological safety and calm.",
+  "alignment": {
+   "option_a": [
+    "Command",
+    "Activator"
+   ],
+   "option_b": [
+    "Empathy",
+    "Harmony"
+   ]
+  },
+  "id": "s119"
+ },
+ {
+  "question": "What gives you greater professional satisfaction?",
+  "option_a": "Transforming an already good system into world-class, uncompromising excellence.",
+  "option_b": "Troubleshooting a broken workflow and diagnosing exactly what went wrong.",
+  "alignment": {
+   "option_a": [
+    "Maximizer",
+    "Significance"
+   ],
+   "option_b": [
+    "Restorative",
+    "Analytical"
+   ]
+  },
+  "id": "s120"
+ },
+ {
+  "question": "When planning a multi-departmental initiative, do you focus more on:",
+  "option_a": "Orchestrating people, resources, and logistics for maximum dynamic efficiency.",
+  "option_b": "Connecting the project to enduring organizational values and mission purpose.",
+  "alignment": {
+   "option_a": [
+    "Arranger",
+    "Achiever"
+   ],
+   "option_b": [
+    "Belief",
+    "Connectedness"
+   ]
+  },
+  "id": "s121"
+ },
+ {
+  "question": "When evaluating a major strategic proposal, do you tend to:",
+  "option_a": "Vigorously analyze the underlying data and challenge assumptions with facts.",
+  "option_b": "Paint a vivid picture of the long-term future possibilities and inspire buy-in.",
+  "alignment": {
+   "option_a": [
+    "Analytical",
+    "Deliberative"
+   ],
+   "option_b": [
+    "Futuristic",
+    "Communication"
+   ]
+  },
+  "id": "s122"
+ },
+ {
+  "question": "When joining a new team or organization, do you prefer to:",
+  "option_a": "Meet as many people as possible, break the ice, and build a wide social network.",
+  "option_b": "Invest deeply in a few key authentic relationships built on mutual trust.",
+  "alignment": {
+   "option_a": [
+    "Woo",
+    "Communication"
+   ],
+   "option_b": [
+    "Relator",
+    "Individualization"
+   ]
+  },
+  "id": "s123"
+ },
+ {
+  "question": "When learning about an emerging technology or subject, what excites you most?",
+  "option_a": "The continuous journey of intellectual mastery and learning new concepts.",
+  "option_b": "Immediately experimenting with practical, high-velocity prototypes in production.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Intellection"
+   ],
+   "option_b": [
+    "Activator",
+    "Achiever"
+   ]
+  },
+  "id": "s124"
+ },
+ {
+  "question": "When allocating responsibilities among peers, do you naturally:",
+  "option_a": "Tailor tasks specifically to the unique strengths and working styles of each individual.",
+  "option_b": "Establish clear, equitable rules and transparent performance criteria for all.",
+  "alignment": {
+   "option_a": [
+    "Individualization",
+    "Developer"
+   ],
+   "option_b": [
+    "Consistency",
+    "Responsibility"
+   ]
+  },
+  "id": "s125"
+ },
+ {
+  "question": "What type of recognition motivates you more?",
+  "option_a": "Making a high-visibility, widely celebrated impact that stands out across the company.",
+  "option_b": "Knowing that you honored your word, fulfilled commitments, and delivered flawlessly.",
+  "alignment": {
+   "option_a": [
+    "Significance",
+    "Competition"
+   ],
+   "option_b": [
+    "Responsibility",
+    "Belief"
+   ]
+  },
+  "id": "s126"
+ },
+ {
+  "question": "When facing sudden, unforeseen disruptions in a project roadmap, do you:",
+  "option_a": "Gracefully pivot, adapt on the fly, and discover solutions in the moment.",
+  "option_b": "Examine past retrospectives and historical precedents to find the root cause.",
+  "alignment": {
+   "option_a": [
+    "Adaptability",
+    "Restorative"
+   ],
+   "option_b": [
+    "Context",
+    "Deliberative"
+   ]
+  },
+  "id": "s127"
+ },
+ {
+  "question": "When reviewing a project proposal, are you more drawn to:",
+  "option_a": "Deeply reflecting on the conceptual models and theoretical frameworks.",
+  "option_b": "Collecting a rich library of external benchmarks, case studies, and reference tools.",
+  "alignment": {
+   "option_a": [
+    "Intellection",
+    "Analytical"
+   ],
+   "option_b": [
+    "Input",
+    "Learner"
+   ]
+  },
+  "id": "s128"
+ },
+ {
+  "question": "In group discussions, are you more likely to:",
+  "option_a": "Notice who hasn\u2019t spoken yet and proactively invite their perspective into the room.",
+  "option_b": "Advocate passionately for the team to beat competitor benchmarks and win.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Harmony"
+   ],
+   "option_b": [
+    "Competition",
+    "Command"
+   ]
+  },
+  "id": "s129"
+ },
+ {
+  "question": "When mentoring a junior colleague, what brings you the greatest joy?",
+  "option_a": "Watching them develop confidence and unlock their dormant talents over time.",
+  "option_b": "Infusing them with optimism, positive energy, and contagious enthusiasm for work.",
+  "alignment": {
+   "option_a": [
+    "Developer",
+    "Individualization"
+   ],
+   "option_b": [
+    "Positivity",
+    "Relator"
+   ]
+  },
+  "id": "s130"
+ },
+ {
+  "question": "When starting a demanding work week, what is your primary mindset?",
+  "option_a": "Relentless drive to check off high-impact deliverables and maintain high stamina.",
+  "option_b": "Staying strictly focused on the single most critical strategic priority without distraction.",
+  "alignment": {
+   "option_a": [
+    "Achiever",
+    "Responsibility"
+   ],
+   "option_b": [
+    "Focus",
+    "Strategic"
+   ]
+  },
+  "id": "s131"
+ },
+ {
+  "question": "When navigating an organizational disagreement, do you prefer to:",
+  "option_a": "Find consensus, bridge divides, and establish peaceful common ground.",
+  "option_b": "Speak candidly, take a firm stand, and drive resolution through direct leadership.",
+  "alignment": {
+   "option_a": [
+    "Harmony",
+    "Connectedness"
+   ],
+   "option_b": [
+    "Command",
+    "Self-Assurance"
+   ]
+  },
+  "id": "s132"
+ },
+ {
+  "question": "When developing new strategies, what is your primary strength?",
+  "option_a": "Anticipating multiple future scenarios, spotting patterns, and choosing optimal pathways.",
+  "option_b": "Designing clean, systematic rules and repeatable standard operating procedures.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Futuristic"
+   ],
+   "option_b": [
+    "Discipline",
+    "Consistency"
+   ]
+  },
+  "id": "s133"
+ },
+ {
+  "question": "When presented with an ambiguous problem, what is your instinct?",
+  "option_a": "Trust your inner compass, rely on your judgment, and take bold calculated risks.",
+  "option_b": "Conduct rigorous empirical risk assessments and identify every potential hazard.",
+  "alignment": {
+   "option_a": [
+    "Self-Assurance",
+    "Activator"
+   ],
+   "option_b": [
+    "Deliberative",
+    "Analytical"
+   ]
+  },
+  "id": "s134"
+ },
+ {
+  "question": "What role do you naturally play during team meetings?",
+  "option_a": "The energetic communicator who articulates vision, ideas, and stories with clarity.",
+  "option_b": "The meticulous coordinator who tracks moving pieces, dependencies, and logistics.",
+  "alignment": {
+   "option_a": [
+    "Communication",
+    "Woo"
+   ],
+   "option_b": [
+    "Arranger",
+    "Discipline"
+   ]
+  },
+  "id": "s135"
+ },
+ {
+  "question": "When brainstorming product improvements, do you prefer to:",
+  "option_a": "Generate a flood of creative, novel ideas that break away from conventional patterns.",
+  "option_b": "Focus strictly on elevating core existing strengths to world-class performance.",
+  "alignment": {
+   "option_a": [
+    "Ideation",
+    "Futuristic"
+   ],
+   "option_b": [
+    "Maximizer",
+    "Achiever"
+   ]
+  },
+  "id": "s136"
+ },
+ {
+  "question": "What is your preferred method for handling stress?",
+  "option_a": "Spending quiet time in deep reflection, reading, and conceptual contemplation.",
+  "option_b": "Connecting with trusted peers, sharing authentic feelings, and working together.",
+  "alignment": {
+   "option_a": [
+    "Intellection",
+    "Input"
+   ],
+   "option_b": [
+    "Relator",
+    "Empathy"
+   ]
+  },
+  "id": "s137"
+ },
+ {
+  "question": "When tackling complex datasets, do you get more excited by:",
+  "option_a": "Uncovering root cause patterns and proving relationships with objective proof.",
+  "option_b": "Archiving valuable research nuggets and building a rich reference repository.",
+  "alignment": {
+   "option_a": [
+    "Analytical",
+    "Restorative"
+   ],
+   "option_b": [
+    "Input",
+    "Learner"
+   ]
+  },
+  "id": "s138"
+ },
+ {
+  "question": "When leading a major milestone launch, are you more focused on:",
+  "option_a": "Ensuring impeccable ethical integrity and alignment with organizational mission.",
+  "option_b": "Celebrating collective progress, boosting team morale, and spreading positive energy.",
+  "alignment": {
+   "option_a": [
+    "Belief",
+    "Responsibility"
+   ],
+   "option_b": [
+    "Positivity",
+    "Developer"
+   ]
+  },
+  "id": "s139"
+ },
+ {
+  "question": "When prioritizing tasks, what is your dominant filter?",
+  "option_a": "Which task eliminates the biggest operational breakdown and restores stability?",
+  "option_b": "Which task delivers the most visible competitive advantage and benchmark victory?",
+  "alignment": {
+   "option_a": [
+    "Restorative",
+    "Arranger"
+   ],
+   "option_b": [
+    "Competition",
+    "Maximizer"
+   ]
+  },
+  "id": "s140"
+ },
+ {
+  "question": "When collaborating on a cross-functional project, do you naturally:",
+  "option_a": "Ensure everyone on the team is treated fairly with uniform rules and clear equity.",
+  "option_b": "Help everyone see the deeper, holistic connectedness behind our shared mission.",
+  "alignment": {
+   "option_a": [
+    "Consistency",
+    "Discipline"
+   ],
+   "option_b": [
+    "Connectedness",
+    "Harmony"
+   ]
+  },
+  "id": "s141"
+ },
+ {
+  "question": "When entering a networking event, are you more energized by:",
+  "option_a": "The thrill of meeting dozens of new people and winning them over with quick rapport.",
+  "option_b": "Seeking out one or two meaningful, deep conversations with future close partners.",
+  "alignment": {
+   "option_a": [
+    "Woo",
+    "Communication"
+   ],
+   "option_b": [
+    "Relator",
+    "Individualization"
+   ]
+  },
+  "id": "s142"
+ },
+ {
+  "question": "When executing a project under a tight deadline, do you prefer to:",
+  "option_a": "Stay laser-focused on the primary destination and eliminate all scope creep.",
+  "option_b": "Move rapidly into action and iterate dynamically as unexpected roadblocks arise.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Achiever"
+   ],
+   "option_b": [
+    "Activator",
+    "Adaptability"
+   ]
+  },
+  "id": "s143"
+ },
+ {
+  "question": "When reviewing past organizational performance, do you prioritize:",
+  "option_a": "Understanding historical context and institutional history to guide current strategy.",
+  "option_b": "Envisioning transformative futuristic possibilities and next-generation roadmaps.",
+  "alignment": {
+   "option_a": [
+    "Context",
+    "Learner"
+   ],
+   "option_b": [
+    "Futuristic",
+    "Ideation"
+   ]
+  },
+  "id": "s144"
+ },
+ {
+  "question": "When making a controversial decision, what gives you confidence?",
+  "option_a": "An unwavering inner self-assurance and belief in your own independent judgment.",
+  "option_b": "Thorough deliberative risk screening and extensive verification of failure modes.",
+  "alignment": {
+   "option_a": [
+    "Self-Assurance",
+    "Command"
+   ],
+   "option_b": [
+    "Deliberative",
+    "Analytical"
+   ]
+  },
+  "id": "s145"
+ },
+ {
+  "question": "When building a high-performing team, do you prioritize:",
+  "option_a": "Selecting specialized experts and maximizing their distinct individual genius.",
+  "option_b": "Creating an inclusive environment where every voice is invited and valued equally.",
+  "alignment": {
+   "option_a": [
+    "Individualization",
+    "Maximizer"
+   ],
+   "option_b": [
+    "Includer",
+    "Connectedness"
+   ]
+  },
+  "id": "s146"
+ },
+ {
+  "question": "When solving intricate technical bugs, what drives your persistence?",
+  "option_a": "The intellectual satisfaction of researching, diagnosing, and fixing what is broken.",
+  "option_b": "The professional obligation and personal ownership to deliver dependable work.",
+  "alignment": {
+   "option_a": [
+    "Restorative",
+    "Intellection"
+   ],
+   "option_b": [
+    "Responsibility",
+    "Achiever"
+   ]
+  },
+  "id": "s147"
+ },
+ {
+  "question": "When communicating progress to executive leaders, do you prefer to:",
+  "option_a": "Present compelling narratives that highlight future horizons and market impact.",
+  "option_b": "Provide organized schedules, structured milestones, and procedural metrics.",
+  "alignment": {
+   "option_a": [
+    "Futuristic",
+    "Significance"
+   ],
+   "option_b": [
+    "Discipline",
+    "Arranger"
+   ]
+  },
+  "id": "s148"
+ },
+ {
+  "question": "When a team member is struggling with motivation, are you more likely to:",
+  "option_a": "Offer empathetic listening, validate their emotional experience, and offer comfort.",
+  "option_b": "Reframe their perspective with contagious optimism and highlight positive possibilities.",
+  "alignment": {
+   "option_a": [
+    "Empathy",
+    "Relator"
+   ],
+   "option_b": [
+    "Positivity",
+    "Developer"
+   ]
+  },
+  "id": "s149"
+ },
+ {
+  "question": "When organizing a chaotic repository of information, do you prefer to:",
+  "option_a": "Catalog, curate, and archive the resources so they are readily accessible to all.",
+  "option_b": "Synthesize the data into strategic frameworks and actionable pattern maps.",
+  "alignment": {
+   "option_a": [
+    "Input",
+    "Discipline"
+   ],
+   "option_b": [
+    "Strategic",
+    "Analytical"
+   ]
+  },
+  "id": "s150"
+ },
+ {
+  "question": "When faced with fierce external competition, what energizes you most?",
+  "option_a": "Outperforming rivals, winning visible top rankings, and setting new benchmarks.",
+  "option_b": "Rallying internal team solidarity, deep loyalty, and shared mission commitment.",
+  "alignment": {
+   "option_a": [
+    "Competition",
+    "Command"
+   ],
+   "option_b": [
+    "Belief",
+    "Relator"
+   ]
+  },
+  "id": "s151"
+ },
+ {
+  "question": "When designing operational systems, do you focus more on:",
+  "option_a": "Ensuring absolute consistency, fairness, and standardized rules across the board.",
+  "option_b": "Allowing dynamic flexibility so teams can adapt fluidly to emerging disruptions.",
+  "alignment": {
+   "option_a": [
+    "Consistency",
+    "Discipline"
+   ],
+   "option_b": [
+    "Adaptability",
+    "Arranger"
+   ]
+  },
+  "id": "s152"
+ },
+ {
+  "question": "What describes your ideal brainstorming contribution?",
+  "option_a": "Challenging conventional assumptions with fresh, imaginative concepts and angles.",
+  "option_b": "Asking incisive questions that clarify logic, empirical validity, and root causes.",
+  "alignment": {
+   "option_a": [
+    "Ideation",
+    "Futuristic"
+   ],
+   "option_b": [
+    "Analytical",
+    "Intellection"
+   ]
+  },
+  "id": "s153"
+ },
+ {
+  "question": "When leading a project, how do you handle team disagreements?",
+  "option_a": "Mediate differences gently, seeking consensus and de-escalating tension.",
+  "option_b": "Take decisive charge, cut through deliberation, and mandate a clear path forward.",
+  "alignment": {
+   "option_a": [
+    "Harmony",
+    "Empathy"
+   ],
+   "option_b": [
+    "Command",
+    "Activator"
+   ]
+  },
+  "id": "s154"
+ },
+ {
+  "question": "What gives you greater motivation during long-term projects?",
+  "option_a": "Continuously acquiring new skills, domain expertise, and intellectual growth.",
+  "option_b": "Achieving daily task completions and maintaining a relentless work rhythm.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Input"
+   ],
+   "option_b": [
+    "Achiever",
+    "Focus"
+   ]
+  },
+  "id": "s155"
+ },
+ {
+  "question": "When collaborating on a high-profile pitch, are you more drawn to:",
+  "option_a": "Delivering a charismatic, persuasive presentation that wins over the audience.",
+  "option_b": "Refining the proposal content to ensure world-class excellence and maximum leverage.",
+  "alignment": {
+   "option_a": [
+    "Woo",
+    "Communication"
+   ],
+   "option_b": [
+    "Maximizer",
+    "Strategic"
+   ]
+  },
+  "id": "s156"
+ },
+ {
+  "question": "When managing complex dependencies across multiple teams, do you:",
+  "option_a": "Dynamically coordinate workflows, reassigning resources to eliminate bottlenecks.",
+  "option_b": "Enforce strict accountability, ensuring everyone delivers on their exact commitments.",
+  "alignment": {
+   "option_a": [
+    "Arranger",
+    "Adaptability"
+   ],
+   "option_b": [
+    "Responsibility",
+    "Consistency"
+   ]
+  },
+  "id": "s157"
+ },
+ {
+  "question": "When exploring complex philosophical or strategic concepts, do you prefer:",
+  "option_a": "Deep introspective thinking and synthesizing abstract mental models.",
+  "option_b": "Engaging in animated group discussions and testing ideas through storytelling.",
+  "alignment": {
+   "option_a": [
+    "Intellection",
+    "Context"
+   ],
+   "option_b": [
+    "Communication",
+    "Positivity"
+   ]
+  },
+  "id": "s158"
+ },
+ {
+  "question": "When unexpected changes occur in project scope, what is your strength?",
+  "option_a": "Staying calm, rolling with the punches, and adjusting priorities seamlessly.",
+  "option_b": "Stepping up with firm confidence, making bold calls, and leading the team forward.",
+  "alignment": {
+   "option_a": [
+    "Adaptability",
+    "Harmony"
+   ],
+   "option_b": [
+    "Self-Assurance",
+    "Command"
+   ]
+  },
+  "id": "s159"
+ },
+ {
+  "question": "When building organizational culture, do you focus more on:",
+  "option_a": "Fostering deep mutual trust, authentic relationships, and psychological safety.",
+  "option_b": "Instilling a spirit of high ambition, healthy competition, and visible victory.",
+  "alignment": {
+   "option_a": [
+    "Relator",
+    "Empathy"
+   ],
+   "option_b": [
+    "Competition",
+    "Significance"
+   ]
+  },
+  "id": "s160"
+ },
+ {
+  "question": "When evaluating operational workflows, do you naturally look for:",
+  "option_a": "Ways to eliminate waste, fix bottlenecks, and troubleshoot broken processes.",
+  "option_b": "Ways to leverage core strengths and elevate standard output to supreme mastery.",
+  "alignment": {
+   "option_a": [
+    "Restorative",
+    "Analytical"
+   ],
+   "option_b": [
+    "Maximizer",
+    "Developer"
+   ]
+  },
+  "id": "s161"
+ },
+ {
+  "question": "When taking on a major new commitment, do you prioritize:",
+  "option_a": "Ensuring personal accountability and honoring every detail of the agreement.",
+  "option_b": "Aligning the commitment with your core ethical values and life purpose.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Discipline"
+   ],
+   "option_b": [
+    "Belief",
+    "Connectedness"
+   ]
+  },
+  "id": "s162"
+ },
+ {
+  "question": "When embarking on a long research project, do you get more fulfillment from:",
+  "option_a": "Uncovering empirical proof, finding root causes, and testing logical consistency.",
+  "option_b": "Curating a broad collection of articles, models, and reference resources.",
+  "alignment": {
+   "option_a": [
+    "Analytical",
+    "Intellection"
+   ],
+   "option_b": [
+    "Input",
+    "Learner"
+   ]
+  },
+  "id": "s163"
+ },
+ {
+  "question": "When collaborating with executive leadership, do you tend to:",
+  "option_a": "Present bold, visionary trajectories and articulate what could be in 5-10 years.",
+  "option_b": "Provide structured timelines, contingency risk mitigation, and milestone schedules.",
+  "alignment": {
+   "option_a": [
+    "Futuristic",
+    "Strategic"
+   ],
+   "option_b": [
+    "Deliberative",
+    "Discipline"
+   ]
+  },
+  "id": "s164"
+ },
+ {
+  "question": "In team problem-solving sessions, are you more likely to:",
+  "option_a": "Champion novel, out-of-the-box concepts that break existing industry molds.",
+  "option_b": "Refine existing operational mechanisms to operate with zero defects and high quality.",
+  "alignment": {
+   "option_a": [
+    "Ideation",
+    "Activator"
+   ],
+   "option_b": [
+    "Maximizer",
+    "Consistency"
+   ]
+  },
+  "id": "s165"
+ },
+ {
+  "question": "When onboarding a new team member, do you prefer to:",
+  "option_a": "Introduce them warmly to the wider team and make them feel instantly welcomed.",
+  "option_b": "Provide structured training materials, clear checklists, and standard procedures.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Woo"
+   ],
+   "option_b": [
+    "Discipline",
+    "Consistency"
+   ]
+  },
+  "id": "s166"
+ },
+ {
+  "question": "When managing project priorities under pressure, what guides your decisions?",
+  "option_a": "Laser focus on the primary target, filtering out all non-essential requests.",
+  "option_b": "Dynamic agility, pivoting resources quickly to where friction is highest.",
+  "alignment": {
+   "option_a": [
+    "Focus",
+    "Achiever"
+   ],
+   "option_b": [
+    "Arranger",
+    "Adaptability"
+   ]
+  },
+  "id": "s167"
+ },
+ {
+  "question": "What type of professional impact excites you more?",
+  "option_a": "Leading flagship projects that achieve prominent industry acclaim and recognition.",
+  "option_b": "Living in alignment with core principles, ethical purpose, and organizational trust.",
+  "alignment": {
+   "option_a": [
+    "Significance",
+    "Command"
+   ],
+   "option_b": [
+    "Belief",
+    "Responsibility"
+   ]
+  },
+  "id": "s168"
+ },
+ {
+  "question": "When analyzing a business failure, are you more inclined to:",
+  "option_a": "Investigate historical precedents and previous decisions that led to this outcome.",
+  "option_b": "Immediately troubleshoot the technical breakdown and engineer an urgent fix.",
+  "alignment": {
+   "option_a": [
+    "Context",
+    "Analytical"
+   ],
+   "option_b": [
+    "Restorative",
+    "Activator"
+   ]
+  },
+  "id": "s169"
+ },
+ {
+  "question": "When facilitating an intense strategic planning offsite, do you focus on:",
+  "option_a": "Encouraging consensus, reducing interpersonal friction, and reaching harmony.",
+  "option_b": "Driving decisive decisions, challenging low standards, and demanding clarity.",
+  "alignment": {
+   "option_a": [
+    "Harmony",
+    "Empathy"
+   ],
+   "option_b": [
+    "Command",
+    "Self-Assurance"
+   ]
+  },
+  "id": "s170"
+ },
+ {
+  "question": "When learning complex new frameworks, do you prefer:",
+  "option_a": "Immersing yourself in deep solitary reflection and conceptual analysis.",
+  "option_b": "Discussing frameworks with peers, teaching concepts, and learning together.",
+  "alignment": {
+   "option_a": [
+    "Intellection",
+    "Input"
+   ],
+   "option_b": [
+    "Communication",
+    "Developer"
+   ]
+  },
+  "id": "s171"
+ },
+ {
+  "question": "When faced with a high-stakes decision without precedent, what is your approach?",
+  "option_a": "Trust your strong internal instincts and move forward with self-assurance.",
+  "option_b": "Conduct thorough risk reviews and formulate multiple contingency safeguards.",
+  "alignment": {
+   "option_a": [
+    "Self-Assurance",
+    "Activator"
+   ],
+   "option_b": [
+    "Deliberative",
+    "Strategic"
+   ]
+  },
+  "id": "s172"
+ },
+ {
+  "question": "When assigning project deliverables across a cross-functional team, do you:",
+  "option_a": "Match tasks uniquely to the individual talents, passions, and growth areas of each peer.",
+  "option_b": "Ensure objective fairness, uniform workload distribution, and transparent rules.",
+  "alignment": {
+   "option_a": [
+    "Individualization",
+    "Developer"
+   ],
+   "option_b": [
+    "Consistency",
+    "Responsibility"
+   ]
+  },
+  "id": "s173"
+ },
+ {
+  "question": "What gives you greater satisfaction at the end of the day?",
+  "option_a": "Crossing off every item on a demanding task list with relentless stamina.",
+  "option_b": "Cultivating a breakthrough in a colleague\u2019s performance through coaching.",
+  "alignment": {
+   "option_a": [
+    "Achiever",
+    "Focus"
+   ],
+   "option_b": [
+    "Developer",
+    "Relator"
+   ]
+  },
+  "id": "s174"
+ },
+ {
+  "question": "When launching a marketing or outreach campaign, do you prefer to:",
+  "option_a": "Craft charismatic, engaging stories that capture emotions and inspire action.",
+  "option_b": "Analyze conversion metrics, user data, and optimize conversion funnels.",
+  "alignment": {
+   "option_a": [
+    "Communication",
+    "Woo"
+   ],
+   "option_b": [
+    "Analytical",
+    "Maximizer"
+   ]
+  },
+  "id": "s175"
+ },
+ {
+  "question": "When team morale dips after a tough quarter, do you naturally:",
+  "option_a": "Bring upbeat positivity, celebrate small wins, and re-energize the atmosphere.",
+  "option_b": "Help the team see the larger meaning, purpose, and interconnectedness of their journey.",
+  "alignment": {
+   "option_a": [
+    "Positivity",
+    "Woo"
+   ],
+   "option_b": [
+    "Connectedness",
+    "Belief"
+   ]
+  },
+  "id": "s176"
+ },
+ {
+  "question": "When entering an unfamiliar domain, are you more energized by:",
+  "option_a": "The continuous excitement of intellectual curiosity and mastering new skills.",
+  "option_b": "Spotting innovative strategic patterns that incumbents in the industry missed.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Input"
+   ],
+   "option_b": [
+    "Strategic",
+    "Ideation"
+   ]
+  },
+  "id": "s177"
+ },
+ {
+  "question": "When coordinating large event logistics, what is your primary strength?",
+  "option_a": "Juggling multiple moving variables, shifting resources dynamically, and orchestrating flow.",
+  "option_b": "Enforcing structured schedules, strict deadlines, and clear procedural checklists.",
+  "alignment": {
+   "option_a": [
+    "Arranger",
+    "Adaptability"
+   ],
+   "option_b": [
+    "Discipline",
+    "Consistency"
+   ]
+  },
+  "id": "s178"
+ },
+ {
+  "question": "When competing in a high-stakes industry pitch, what is your natural orientation?",
+  "option_a": "Out-strategizing rivals, winning the client, and setting the gold standard.",
+  "option_b": "Building authentic, personal relationships of lasting trust with client stakeholders.",
+  "alignment": {
+   "option_a": [
+    "Competition",
+    "Significance"
+   ],
+   "option_b": [
+    "Relator",
+    "Empathy"
+   ]
+  },
+  "id": "s179"
+ },
+ {
+  "question": "When reviewing operational systems, are you more motivated to:",
+  "option_a": "Diagnose glitches, fix broken mechanisms, and restore operational health.",
+  "option_b": "Elevate a solid system into an extraordinary, best-in-class operation.",
+  "alignment": {
+   "option_a": [
+    "Restorative",
+    "Analytical"
+   ],
+   "option_b": [
+    "Maximizer",
+    "Futuristic"
+   ]
+  },
+  "id": "s180"
+ },
+ {
+  "question": "When managing relationships with cross-functional stakeholders, do you prefer:",
+  "option_a": "Meeting widely with diverse department heads, expanding alliances across the organization.",
+  "option_b": "Deepening collaboration with core trusted partners who share your values.",
+  "alignment": {
+   "option_a": [
+    "Woo",
+    "Includer"
+   ],
+   "option_b": [
+    "Relator",
+    "Belief"
+   ]
+  },
+  "id": "s181"
+ },
+ {
+  "question": "When dealing with unexpected project road bumps, do you tend to:",
+  "option_a": "Stay fluid, adapt gracefully to changes, and find opportunities in chaos.",
+  "option_b": "Maintain firm focus on the original destination, eliminating peripheral noise.",
+  "alignment": {
+   "option_a": [
+    "Adaptability",
+    "Restorative"
+   ],
+   "option_b": [
+    "Focus",
+    "Responsibility"
+   ]
+  },
+  "id": "s182"
+ },
+ {
+  "question": "When building an intellectual foundation for a project, do you prioritize:",
+  "option_a": "Collecting extensive research papers, articles, tools, and domain repositories.",
+  "option_b": "Engaging in deep conceptual reflection to synthesize core mental frameworks.",
+  "alignment": {
+   "option_a": [
+    "Input",
+    "Learner"
+   ],
+   "option_b": [
+    "Intellection",
+    "Context"
+   ]
+  },
+  "id": "s183"
+ },
+ {
+  "question": "When leading a major organizational transformation, do you naturally:",
+  "option_a": "Take charge boldly, inspire confidence through command, and drive execution.",
+  "option_b": "Listen empathetically to employee concerns and preserve team harmony throughout change.",
+  "alignment": {
+   "option_a": [
+    "Command",
+    "Self-Assurance"
+   ],
+   "option_b": [
+    "Empathy",
+    "Harmony"
+   ]
+  },
+  "id": "s184"
+ },
+ {
+  "question": "When evaluating product features, what is your dominant criterion?",
+  "option_a": "Does this feature elevate user experience from good to world-class excellence?",
+  "option_b": "Does this feature eliminate a major user pain point and fix a broken workflow?",
+  "alignment": {
+   "option_a": [
+    "Maximizer",
+    "Significance"
+   ],
+   "option_b": [
+    "Restorative"
+   ]
+  },
+  "id": "s185"
+ },
+ {
+  "question": "When defining team values, do you focus more on:",
+  "option_a": "Establishing unwavering ethical principles and mission-driven purpose.",
+  "option_b": "Creating an inclusive environment where every diverse individual can flourish.",
+  "alignment": {
+   "option_a": [
+    "Belief",
+    "Responsibility"
+   ],
+   "option_b": [
+    "Includer",
+    "Individualization"
+   ]
+  },
+  "id": "s186"
+ },
+ {
+  "question": "When working on complex strategic roadmaps, do you prefer to:",
+  "option_a": "Anticipate multiple future scenarios and chart optimal pathways forward.",
+  "option_b": "Ground strategies in historical context, precedent, and past lessons learned.",
+  "alignment": {
+   "option_a": [
+    "Strategic",
+    "Futuristic"
+   ],
+   "option_b": [
+    "Context",
+    "Analytical"
+   ]
+  },
+  "id": "s187"
+ },
+ {
+  "question": "When managing team deadlines, what gives you peace of mind?",
+  "option_a": "Having structured milestone schedules, timeboxes, and clear routines.",
+  "option_b": "Having high trust that each teammate takes absolute personal ownership of their role.",
+  "alignment": {
+   "option_a": [
+    "Discipline",
+    "Consistency"
+   ],
+   "option_b": [
+    "Responsibility",
+    "Relator"
+   ]
+  },
+  "id": "s188"
+ },
+ {
+  "question": "When presenting during an all-hands meeting, what is your strength?",
+  "option_a": "Delivering an inspiring, energetic message that leaves people motivated.",
+  "option_b": "Presenting clear, data-driven analysis that provides indisputable clarity.",
+  "alignment": {
+   "option_a": [
+    "Communication",
+    "Positivity"
+   ],
+   "option_b": [
+    "Analytical",
+    "Focus"
+   ]
+  },
+  "id": "s189"
+ },
+ {
+  "question": "When faced with competing priorities, what is your instinct?",
+  "option_a": "Organize and dynamically rearrange resources to handle multiple moving pieces.",
+  "option_b": "Ruthlessly prioritize the single most important task and execute it to completion.",
+  "alignment": {
+   "option_a": [
+    "Arranger",
+    "Adaptability"
+   ],
+   "option_b": [
+    "Focus",
+    "Achiever"
+   ]
+  },
+  "id": "s190"
+ },
+ {
+  "question": "When brainstorming future industry trends, what excites you most?",
+  "option_a": "Imagining revolutionary innovations and painting pictures of the future.",
+  "option_b": "Connecting seemingly unrelated concepts to discover unexpected creative solutions.",
+  "alignment": {
+   "option_a": [
+    "Futuristic",
+    "Significance"
+   ],
+   "option_b": [
+    "Ideation",
+    "Strategic"
+   ]
+  },
+  "id": "s191"
+ },
+ {
+  "question": "When building interpersonal rapport, do you prefer to:",
+  "option_a": "Use humor, warmth, and active engagement to break the ice with anyone.",
+  "option_b": "Sense emotional subtleties and create safe spaces for authentic vulnerability.",
+  "alignment": {
+   "option_a": [
+    "Woo",
+    "Positivity"
+   ],
+   "option_b": [
+    "Empathy",
+    "Relator"
+   ]
+  },
+  "id": "s192"
+ },
+ {
+  "question": "When resolving team friction, do you naturally prefer to:",
+  "option_a": "Find peaceful consensus and focus on shared points of agreement.",
+  "option_b": "Address the elephant in the room with direct, candid communication.",
+  "alignment": {
+   "option_a": [
+    "Harmony",
+    "Connectedness"
+   ],
+   "option_b": [
+    "Command",
+    "Communication"
+   ]
+  },
+  "id": "s193"
+ },
+ {
+  "question": "When acquiring new knowledge, what is your preferred approach?",
+  "option_a": "Self-directed learning, exploring emerging topics with continuous curiosity.",
+  "option_b": "Deep theoretical study and synthesizing complex concepts into mental models.",
+  "alignment": {
+   "option_a": [
+    "Learner",
+    "Input"
+   ],
+   "option_b": [
+    "Intellection",
+    "Context"
+   ]
+  },
+  "id": "s194"
+ },
+ {
+  "question": "When initiating a high-risk venture, what is your mindset?",
+  "option_a": "Confidence in your internal compass and willingness to embrace uncertainty.",
+  "option_b": "Careful vigilance, deliberative risk mitigation, and contingency planning.",
+  "alignment": {
+   "option_a": [
+    "Self-Assurance",
+    "Activator"
+   ],
+   "option_b": [
+    "Deliberative",
+    "Analytical"
+   ]
+  },
+  "id": "s195"
+ },
+ {
+  "question": "When setting team standards, do you focus more on:",
+  "option_a": "Ensuring equal treatment, transparent rules, and merit-based consistency.",
+  "option_b": "Customizing expectations to nurture each individual member\u2019s unique potential.",
+  "alignment": {
+   "option_a": [
+    "Consistency",
+    "Discipline"
+   ],
+   "option_b": [
+    "Individualization",
+    "Developer"
+   ]
+  },
+  "id": "s196"
+ },
+ {
+  "question": "When closing out a major project, what brings you the greatest sense of closure?",
+  "option_a": "Knowing that every promise was kept and the final result is rock-solid reliable.",
+  "option_b": "Outperforming external benchmarks and winning visible recognition for the team.",
+  "alignment": {
+   "option_a": [
+    "Responsibility",
+    "Belief"
+   ],
+   "option_b": [
+    "Competition",
+    "Significance"
+   ]
+  },
+  "id": "s197"
+ },
+ {
+  "question": "When collaborating on product design, are you more drawn to:",
+  "option_a": "Inventing novel, creative features that revolutionize the category.",
+  "option_b": "Conducting deep usability research and diagnosing interface bugs.",
+  "alignment": {
+   "option_a": [
+    "Ideation",
+    "Futuristic"
+   ],
+   "option_b": [
+    "Restorative",
+    "Analytical"
+   ]
+  },
+  "id": "s198"
+ },
+ {
+  "question": "When meeting new colleagues, what is your natural reaction?",
+  "option_a": "Energized to learn their stories, build connections, and expand the circle.",
+  "option_b": "Thoughtful and observant, taking time to understand their unique working styles.",
+  "alignment": {
+   "option_a": [
+    "Includer",
+    "Woo"
+   ],
+   "option_b": [
+    "Individualization",
+    "Relator"
+   ]
+  },
+  "id": "s199"
+ },
+ {
+  "question": "When faced with operational delays, what is your default reaction?",
+  "option_a": "Take immediate action, experiment with alternatives, and regain momentum.",
+  "option_b": "Analyze the root causes methodically to ensure the delay never recurs.",
+  "alignment": {
+   "option_a": [
+    "Activator",
+    "Command"
+   ],
+   "option_b": [
+    "Analytical",
+    "Restorative"
+   ]
+  },
+  "id": "s200"
+ }
+]

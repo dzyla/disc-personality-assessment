@@ -1,0 +1,342 @@
+{
+ "Achiever": {
+  "name": "Achiever",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "High stamina, tireless work ethic, and satisfaction in completing tangible goals.",
+  "description": "You possess an intrinsic drive to accomplish tasks each day. You feel a constant need for tangible achievement and find deep fulfillment in productivity, high stamina, and relentless forward progress.",
+  "action_tip": "Establish clear daily milestones and celebrate completed objectives before diving into the next project.",
+  "shadow": "Colleagues can read your constant drive as an unspoken standard they are failing to meet.",
+  "overuse": "You measure a day by output and struggle to stop, so rest is deferred until it becomes exhaustion."
+ },
+ "Activator": {
+  "name": "Activator",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Turns ideas into immediate action; impatient with endless deliberation.",
+  "description": "You are a catalyst who believes that action is the best teacher. You bring energy and momentum to stalled discussions by making decisions and putting ideas into motion immediately.",
+  "action_tip": "Partner with analytical colleagues who can evaluate risks while you provide the initial execution thrust.",
+  "shadow": "To careful colleagues your bias for starting looks like impatience with thinking.",
+  "overuse": "You launch before the problem is understood and spend the time you saved twice over on rework."
+ },
+ "Adaptability": {
+  "name": "Adaptability",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Thrives in dynamic ambiguity, living in the moment and responding flexibly.",
+  "description": "You live in the present and gracefully navigate unexpected disruptions. You view change as a natural opportunity to adjust course and remain composed when sudden pivots occur.",
+  "action_tip": "Position yourself in fast-moving, evolving roles where rapid troubleshooting and flexibility are paramount.",
+  "shadow": "People who plan can experience your flexibility as unreliability about commitments.",
+  "overuse": "You bend to whatever arrives and your own priorities quietly disappear from the week."
+ },
+ "Analytical": {
+  "name": "Analytical",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Demands proof, uncovers root causes, and insists on objective logic.",
+  "description": "You search for reasons, patterns, and empirical evidence. You challenge unvetted claims, examine underlying data, and bring rigorous objectivity to decision-making processes.",
+  "action_tip": "Present data in structured, accessible visual formats to help non-analytical colleagues digest your findings.",
+  "shadow": "Your questions can land as scepticism aimed at the person rather than the claim.",
+  "overuse": "You ask for one more piece of evidence until the decision window closes without you in it."
+ },
+ "Arranger": {
+  "name": "Arranger",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Master coordinator who organizes resources and people for maximum efficiency.",
+  "description": "You excel at managing dynamic variables and orchestrating complex moving pieces into optimal configurations. You enjoy reorganizing workflows to find the smoothest path to success.",
+  "action_tip": "Take ownership of multi-stakeholder project logistics and operational workflow optimizations.",
+  "shadow": "Others may feel rearranged rather than consulted when you optimise around them.",
+  "overuse": "You reconfigure so often that the team never settles long enough to get good at anything."
+ },
+ "Belief": {
+  "name": "Belief",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Driven by enduring core values, ethical integrity, and meaningful purpose.",
+  "description": "You possess deeply held foundational values that give direction and purpose to your life and work. You inspire trust through uncompromising integrity and passion for mission-driven work.",
+  "action_tip": "Align yourself with organizations and projects whose mission genuinely mirrors your core values.",
+  "shadow": "Colleagues who reason from tradeoffs can find your convictions hard to negotiate with.",
+  "overuse": "A values clash becomes a position you cannot climb down from without feeling you betrayed yourself."
+ },
+ "Command": {
+  "name": "Command",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Natural presence, decisive authority, and willingness to lead through crisis.",
+  "description": "You take charge effortlessly and bring clarity to ambiguous or chaotic situations. You are comfortable with confrontation, speaking candid truth, and making tough calls when others hesitate.",
+  "action_tip": "Use your strong presence to advocate for team resources and provide steady reassurance during crises.",
+  "shadow": "Your directness reads as steamrolling to anyone who needed a moment to find their words.",
+  "overuse": "You take the room so reliably that quieter people stop offering the information you needed."
+ },
+ "Communication": {
+  "name": "Communication",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Brings ideas to life through engaging storytelling, dialogue, and clarity.",
+  "description": "You have a natural gift for turning abstract concepts into vivid, inspiring words. You connect with audiences through storytelling, humor, and clear, energetic articulation.",
+  "action_tip": "Serve as the spokesperson for key team initiatives, presentations, and stakeholder pitches.",
+  "shadow": "People can suspect the story is doing work the substance has not earned.",
+  "overuse": "You talk an idea into existence and mistake having explained it for having done it."
+ },
+ "Competition": {
+  "name": "Competition",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Measures progress against peers, energized by winning and raising the bar.",
+  "description": "You benchmark your capabilities against top performers and thrive in competitive environments. You are invigorated by challenges where tangible victory and visible excellence can be achieved.",
+  "action_tip": "Channel your competitive drive into team wins, setting new performance benchmarks for your group.",
+  "shadow": "Teammates may feel measured against you rather than working alongside you.",
+  "overuse": "You pick contests you can win and avoid the work where you would look ordinary."
+ },
+ "Connectedness": {
+  "name": "Connectedness",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Sees links between all people, events, and phenomena; holistic perspective.",
+  "description": "You have faith in the interconnectedness of all things. You help teams see the larger meaning behind their work, bridging divides between diverse groups through shared purpose.",
+  "action_tip": "Facilitate cross-departmental collaboration by helping different teams understand how their goals align.",
+  "shadow": "Concrete colleagues can hear your framing as vague or impossible to argue with.",
+  "overuse": "Everything relates to everything, and the specific decision in front of you never gets isolated."
+ },
+ "Consistency": {
+  "name": "Consistency",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Champions fairness, clear rules, and equitable standards for everyone.",
+  "description": "You are deeply attuned to the importance of treating people fairly and establishing clear, uniform standards. You eliminate favoritism and build stable, transparent rules of engagement.",
+  "action_tip": "Design standard operating procedures and evaluation frameworks that safeguard organizational fairness.",
+  "shadow": "Insisting on the same rule for everyone can feel like indifference to circumstances.",
+  "overuse": "You defend a fair process past the point where it is producing an unfair outcome."
+ },
+ "Context": {
+  "name": "Context",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Looks to the past to understand the present and make wiser future decisions.",
+  "description": "You understand the present by examining historical context and blueprints. You ask how past precedents evolved to uncover foundational lessons and prevent repeating mistakes.",
+  "action_tip": "Document project retrospectives and case studies to preserve institutional knowledge.",
+  "shadow": "Forward-looking colleagues can experience your history as resistance to change.",
+  "overuse": "You relitigate how the situation arose instead of deciding what to do about it now."
+ },
+ "Deliberative": {
+  "name": "Deliberative",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Vigilant risk assessor who anticipates obstacles and protects the team.",
+  "description": "You approach decisions with careful vigilance, identifying risks and obstacles before they emerge. You provide cautious, thoughtful stewardship that prevents costly missteps.",
+  "action_tip": "Serve as the risk-evaluation lead on strategic proposals, providing realistic mitigation plans.",
+  "shadow": "Your caution can be read as pessimism, or as a lack of confidence in the team.",
+  "overuse": "You identify risks so thoroughly that acting stops looking like a viable option at all."
+ },
+ "Developer": {
+  "name": "Developer",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Spots potential in others and derives joy from cultivating their growth.",
+  "description": "You see the dormant capabilities in people and take immense satisfaction in witnessing their progress. You are a natural mentor who encourages incremental improvements.",
+  "action_tip": "Take on mentorship and onboarding responsibilities, providing structured feedback that boosts confidence.",
+  "shadow": "Your attention to someone's potential can feel like being treated as a project.",
+  "overuse": "You keep investing in people who are not improving, and carry work that was theirs to do."
+ },
+ "Discipline": {
+  "name": "Discipline",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Craves structure, precision schedules, predictability, and orderly execution.",
+  "description": "You bring order to chaos through disciplined planning, structured timelines, and clear routines. You break long-term projects into manageable, time-bound milestones.",
+  "action_tip": "Create project roadmaps, checklists, and delivery schedules that keep teams on time and aligned.",
+  "shadow": "Your need for structure looks like rigidity to people who work in bursts.",
+  "overuse": "The system becomes the point, and you defend the routine after its reason has gone."
+ },
+ "Empathy": {
+  "name": "Empathy",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Deeply senses others emotions, creates psychological safety and understanding.",
+  "description": "You intuitively perceive the emotions and unexpressed needs of those around you. You create an atmosphere of psychological safety, authentic listening, and mutual support.",
+  "action_tip": "Help leaders gauge team morale and serve as a trusted sounding board for colleagues.",
+  "shadow": "Others may feel read before they were ready to be known.",
+  "overuse": "You absorb the room's feelings until you can no longer tell which of them are yours."
+ },
+ "Focus": {
+  "name": "Focus",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Maintains clear priorities, eliminates distractions, and stays on target.",
+  "description": "You establish a clear trajectory and ruthlessly filter out distractions. You constantly evaluate whether current activities contribute to the primary destination.",
+  "action_tip": "Set non-negotiable priority blocks in your schedule and help teams align on weekly focus objectives.",
+  "shadow": "Your filtering can look like dismissiveness toward anything you have judged irrelevant.",
+  "overuse": "You hold the original goal past the point where the evidence changed and the goal should have."
+ },
+ "Futuristic": {
+  "name": "Futuristic",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Inspired by possibilities, envisioning what could be and inspiring progress.",
+  "description": "You are energized by tomorrow. You paint vivid pictures of future innovations, products, and possibilities that motivate and uplift those working toward long-term goals.",
+  "action_tip": "Lead visionary strategy workshops and articulate future horizons during quarterly roadmaps.",
+  "shadow": "People inside today's problems can hear your horizon as an escape from present work.",
+  "overuse": "You are three versions ahead while the current one ships without you."
+ },
+ "Harmony": {
+  "name": "Harmony",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Seeks consensus, diffuses friction, and builds collaborative common ground.",
+  "description": "You look for points of agreement and reduce unnecessary conflict. You believe that collaboration thrives when people find common ground and work together cooperatively.",
+  "action_tip": "Mediate cross-functional disagreements by redirecting focus toward shared, overarching goals.",
+  "shadow": "Your search for common ground can feel like the real disagreement is being suppressed.",
+  "overuse": "Conflict goes underground unresolved and resurfaces later as something worse."
+ },
+ "Ideation": {
+  "name": "Ideation",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Fascinated by ideas, spotting unexpected connections and creative angles.",
+  "description": "You are a creative concept generator who connects seemingly unrelated concepts to create novel solutions. You bring fresh perspectives that challenge conventional wisdom.",
+  "action_tip": "Lead brainstorming and rapid ideation sessions when teams encounter stubborn, complex challenges.",
+  "shadow": "Executors can experience a stream of new ideas as churn that resets their work.",
+  "overuse": "The interesting part ends at the concept, and finishing feels like a chore for someone else."
+ },
+ "Includer": {
+  "name": "Includer",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Welcoming spirit who expands the circle so no one feels left out.",
+  "description": "You are naturally sensitive to those on the perimeter. You expand team circles, invite diverse voices into discussions, and ensure everyone feels seen and included.",
+  "action_tip": "Champion inclusive collaboration and foster welcome rituals for new team members.",
+  "shadow": "Widening the circle can feel to those already in it like decisions slowing to a crawl.",
+  "overuse": "Everyone is in the room and no one is accountable for the call."
+ },
+ "Individualization": {
+  "name": "Individualization",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Appreciates unique human differences, tailoring approaches to each person.",
+  "description": "You see each person as an individual with distinct strengths, styles, and motivations. You excel at configuring customized teams where each person plays to their natural genius.",
+  "action_tip": "Advise managers on role assignments and customized motivation strategies for team members.",
+  "shadow": "Tailoring to each person can look like inconsistency or favouritism from outside.",
+  "overuse": "You carry so much bespoke handling that nothing about the team scales."
+ },
+ "Input": {
+  "name": "Input",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Voracious collector of knowledge, resources, frameworks, and insights.",
+  "description": "You crave information and love archiving useful articles, tools, and ideas. You serve as an intellectual resource hub for your peers whenever specialized knowledge is needed.",
+  "action_tip": "Curate a centralized knowledge base or resource library for your organization.",
+  "shadow": "Colleagues may find your collecting hard to distinguish from delay.",
+  "overuse": "You gather more than you will ever use, and the reading substitutes for the deciding."
+ },
+ "Intellection": {
+  "name": "Intellection",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Introspective deep thinker who enjoys theoretical exploration and reflection.",
+  "description": "You appreciate deep mental activity, introspection, and philosophical inquiry. You take time to reflect, synthesizing complex concepts into coherent mental models.",
+  "action_tip": "Schedule dedicated quiet thinking blocks for deep conceptual work and strategy refinement.",
+  "shadow": "Your thinking time reads as disengagement to people waiting on a reply.",
+  "overuse": "You refine internally, and the team never gets the benefit because it never leaves your head."
+ },
+ "Learner": {
+  "name": "Learner",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Energized by mastering new skills and continuous intellectual growth.",
+  "description": "You possess an insatiable desire to learn and master new topics. You are invigorated by the journey from novice to competent practitioner across emerging domains.",
+  "action_tip": "Embrace emerging technology pilots and pioneer training initiatives to upskill your team.",
+  "shadow": "Your pull toward the new can look like boredom with the work you already own.",
+  "overuse": "You keep arriving at competence and leaving before the value gets captured."
+ },
+ "Maximizer": {
+  "name": "Maximizer",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Focuses on transforming great into superb; obsessed with excellence.",
+  "description": "You focus on taking strong capabilities and elevating them to world-class mastery. You prefer refining strengths rather than obsessing over average weaknesses.",
+  "action_tip": "Focus on high-leverage initiatives where moving from good to great generates massive returns.",
+  "shadow": "People whose work is adequate can feel judged for not being excellent.",
+  "overuse": "Good enough is never allowed to be finished, and the last ten percent eats the schedule."
+ },
+ "Positivity": {
+  "name": "Positivity",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Contagious enthusiasm, upbeat optimism, and uplifting team morale.",
+  "description": "You bring an infectious energy and optimistic outlook that brightens workplaces. You help teams maintain hope, celebrate wins, and see the silver lining during stressful times.",
+  "action_tip": "Inject energy into team kickoffs and lead recognition rituals that celebrate collective effort.",
+  "shadow": "Optimism can feel dismissive to someone whose problem is genuinely bad.",
+  "overuse": "Bad news gets softened until nobody, including you, has an accurate picture."
+ },
+ "Relator": {
+  "name": "Relator",
+  "domain": "Relationship Building",
+  "badge_color": "#059669",
+  "tagline": "Finds deep satisfaction in building close, authentic, trust-based bonds.",
+  "description": "You prefer deep, genuine, and authentic relationships over superficial acquaintances. You forge deep bonds of mutual trust with colleagues and work hardest alongside trusted peers.",
+  "action_tip": "Build trusted core partnerships and collaborate closely with key colleagues over long horizons.",
+  "shadow": "Your preference for depth can leave newer colleagues feeling outside the circle.",
+  "overuse": "You invest only where trust already exists, and your reach quietly narrows over time."
+ },
+ "Responsibility": {
+  "name": "Responsibility",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Takes absolute psychological ownership of commitments and promises.",
+  "description": "You take immense personal ownership of every commitment you make. Your reputation for impeccable dependability means people trust you unconditionally to deliver.",
+  "action_tip": "Protect your bandwidth by learning to say no to lower-priority requests so you never overcommit.",
+  "shadow": "Your ownership can crowd out other people's and make delegation feel like doubt.",
+  "overuse": "You say yes to everything you touch until the commitments exceed what one person can hold."
+ },
+ "Restorative": {
+  "name": "Restorative",
+  "domain": "Executing",
+  "badge_color": "#7C3AED",
+  "tagline": "Loves diagnosing breakdowns, troubleshooting problems, and fixing issues.",
+  "description": "You are energized by diagnosing what is broken, solving intricate problems, and restoring vitality to struggling projects, systems, or workflows.",
+  "action_tip": "Volunteer to tackle turnaround projects, legacy code refactoring, and workflow rescue operations.",
+  "shadow": "A focus on what is broken can feel to others like their work is being audited.",
+  "overuse": "You are drawn to problems, and the healthy parts of the system never get your attention."
+ },
+ "Self-Assurance": {
+  "name": "Self-Assurance",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Inner confidence, certainty in judgment, and willingness to take bold risks.",
+  "description": "You possess a deep internal compass and trust your instincts. You feel confident taking calculated risks and navigating uncharted territory with poise and resolve.",
+  "action_tip": "Step forward to lead high-stakes, novel initiatives where clear precedent does not yet exist.",
+  "shadow": "Certainty can read as not having heard the objection.",
+  "overuse": "You trust your judgment in domains where you have no evidence, and confidence outruns competence."
+ },
+ "Significance": {
+  "name": "Significance",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Driven to make a major mark, stand out, and achieve high-visibility impact.",
+  "description": "You want your work to be meaningful and widely recognized. You are motivated by high-visibility projects that allow you to make a profound, memorable impact on the world.",
+  "action_tip": "Seek out leadership roles on flagship initiatives that align with your desire for major impact.",
+  "shadow": "Your need for the work to matter can look like a need to be seen doing it.",
+  "overuse": "You choose visible work over necessary work, and the unglamorous essentials go undone."
+ },
+ "Strategic": {
+  "name": "Strategic",
+  "domain": "Strategic Thinking",
+  "badge_color": "#2563EB",
+  "tagline": "Quickly spots patterns, cuts through clutter, and selects the best pathway.",
+  "description": "You effortlessly anticipate alternative scenarios and ask what if. You sort through complexity, spot patterns that others miss, and choose the most effective path forward.",
+  "action_tip": "Lead strategic roadmap planning and advise leadership on contingency scenarios.",
+  "shadow": "Arriving at the best path quickly can leave others unsure how you got there.",
+  "overuse": "You see the route so fast that you stop explaining it, and no one can follow or challenge you."
+ },
+ "Woo": {
+  "name": "Woo",
+  "domain": "Influencing",
+  "badge_color": "#D97706",
+  "tagline": "Wins others over; enjoys breaking the ice and connecting with new people.",
+  "description": "You love the thrill of meeting strangers, breaking the ice, and establishing instant rapport. You expand social circles rapidly and make newcomers feel immediately comfortable.",
+  "action_tip": "Lead business development, external networking, and client ambassador initiatives.",
+  "shadow": "Ease with new people can read as shallow to those who value depth.",
+  "overuse": "You keep opening new connections, and few of them become relationships that owe you anything."
+ }
+}

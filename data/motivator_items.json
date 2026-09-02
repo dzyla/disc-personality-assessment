@@ -1,0 +1,282 @@
+[
+ {
+  "id": "m001",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "Decide how you do the work, without needing sign-off.",
+  "option_b": "Work closely with people you genuinely like.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Connection"
+  }
+ },
+ {
+  "id": "m002",
+  "question": "Which of these would you give up last?",
+  "option_a": "Own your calendar and set your own priorities.",
+  "option_b": "Get measurably better at something genuinely difficult.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Mastery"
+  }
+ },
+ {
+  "id": "m003",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Be trusted to choose the approach and judged only on the result.",
+  "option_b": "Work on something you believe should exist.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Purpose"
+  }
+ },
+ {
+  "id": "m004",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Work without anyone reviewing your method.",
+  "option_b": "Have your contribution named in front of people who matter.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Recognition"
+  }
+ },
+ {
+  "id": "m005",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "Decide how you do the work, without needing sign-off.",
+  "option_b": "Know the role will still be there in three years.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Security"
+  }
+ },
+ {
+  "id": "m006",
+  "question": "Which of these would you give up last?",
+  "option_a": "Own your calendar and set your own priorities.",
+  "option_b": "Hold a title that carries weight in the room.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Status"
+  }
+ },
+ {
+  "id": "m007",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Be trusted to choose the approach and judged only on the result.",
+  "option_b": "Work on something different every few weeks.",
+  "alignment": {
+   "option_a": "Autonomy",
+   "option_b": "Variety"
+  }
+ },
+ {
+  "id": "m008",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Belong to a team that would notice if you were gone.",
+  "option_b": "Work at the edge of your current ability.",
+  "alignment": {
+   "option_a": "Connection",
+   "option_b": "Mastery"
+  }
+ },
+ {
+  "id": "m009",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "Have colleagues who are also friends.",
+  "option_b": "See concretely how the work helps someone.",
+  "alignment": {
+   "option_a": "Connection",
+   "option_b": "Purpose"
+  }
+ },
+ {
+  "id": "m010",
+  "question": "Which of these would you give up last?",
+  "option_a": "Do the work alongside others rather than alone.",
+  "option_b": "Get specific, personal credit for what you did.",
+  "alignment": {
+   "option_a": "Connection",
+   "option_b": "Recognition"
+  }
+ },
+ {
+  "id": "m011",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Work closely with people you genuinely like.",
+  "option_b": "Have predictable demands and a stable workload.",
+  "alignment": {
+   "option_a": "Connection",
+   "option_b": "Security"
+  }
+ },
+ {
+  "id": "m012",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Belong to a team that would notice if you were gone.",
+  "option_b": "Have influence over decisions above your level.",
+  "alignment": {
+   "option_a": "Connection",
+   "option_b": "Status"
+  }
+ },
+ {
+  "id": "m013",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "Have colleagues who are also friends.",
+  "option_b": "Keep the problem changing so it stays interesting.",
+  "alignment": {
+   "option_a": "Connection",
+   "option_b": "Variety"
+  }
+ },
+ {
+  "id": "m014",
+  "question": "Which of these would you give up last?",
+  "option_a": "Go deep enough on something to be properly expert.",
+  "option_b": "Have the mission match what you actually care about.",
+  "alignment": {
+   "option_a": "Mastery",
+   "option_b": "Purpose"
+  }
+ },
+ {
+  "id": "m015",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Spend your time on craft rather than throughput.",
+  "option_b": "Be thanked concretely rather than assumed.",
+  "alignment": {
+   "option_a": "Mastery",
+   "option_b": "Recognition"
+  }
+ },
+ {
+  "id": "m016",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Get measurably better at something genuinely difficult.",
+  "option_b": "Work somewhere the ground does not keep shifting.",
+  "alignment": {
+   "option_a": "Mastery",
+   "option_b": "Security"
+  }
+ },
+ {
+  "id": "m017",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "Work at the edge of your current ability.",
+  "option_b": "Be senior enough that your opinion is sought by default.",
+  "alignment": {
+   "option_a": "Mastery",
+   "option_b": "Status"
+  }
+ },
+ {
+  "id": "m018",
+  "question": "Which of these would you give up last?",
+  "option_a": "Go deep enough on something to be properly expert.",
+  "option_b": "Move between projects rather than settle into one.",
+  "alignment": {
+   "option_a": "Mastery",
+   "option_b": "Variety"
+  }
+ },
+ {
+  "id": "m019",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Do work you would defend outside of work.",
+  "option_b": "Know your work was noticed by people you respect.",
+  "alignment": {
+   "option_a": "Purpose",
+   "option_b": "Recognition"
+  }
+ },
+ {
+  "id": "m020",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Work on something you believe should exist.",
+  "option_b": "Trade some upside for a floor you can count on.",
+  "alignment": {
+   "option_a": "Purpose",
+   "option_b": "Security"
+  }
+ },
+ {
+  "id": "m021",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "See concretely how the work helps someone.",
+  "option_b": "Have a seat where the important calls get made.",
+  "alignment": {
+   "option_a": "Purpose",
+   "option_b": "Status"
+  }
+ },
+ {
+  "id": "m022",
+  "question": "Which of these would you give up last?",
+  "option_a": "Have the mission match what you actually care about.",
+  "option_b": "Avoid work that becomes the same each day.",
+  "alignment": {
+   "option_a": "Purpose",
+   "option_b": "Variety"
+  }
+ },
+ {
+  "id": "m023",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Have your contribution named in front of people who matter.",
+  "option_b": "Know the role will still be there in three years.",
+  "alignment": {
+   "option_a": "Recognition",
+   "option_b": "Security"
+  }
+ },
+ {
+  "id": "m024",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Get specific, personal credit for what you did.",
+  "option_b": "Hold a title that carries weight in the room.",
+  "alignment": {
+   "option_a": "Recognition",
+   "option_b": "Status"
+  }
+ },
+ {
+  "id": "m025",
+  "question": "If you could only keep one of these, which would you keep?",
+  "option_a": "Be thanked concretely rather than assumed.",
+  "option_b": "Work on something different every few weeks.",
+  "alignment": {
+   "option_a": "Recognition",
+   "option_b": "Variety"
+  }
+ },
+ {
+  "id": "m026",
+  "question": "Which of these would you give up last?",
+  "option_a": "Have predictable demands and a stable workload.",
+  "option_b": "Have influence over decisions above your level.",
+  "alignment": {
+   "option_a": "Security",
+   "option_b": "Status"
+  }
+ },
+ {
+  "id": "m027",
+  "question": "Two offers, same pay. Which do you take?",
+  "option_a": "Work somewhere the ground does not keep shifting.",
+  "option_b": "Keep the problem changing so it stays interesting.",
+  "alignment": {
+   "option_a": "Security",
+   "option_b": "Variety"
+  }
+ },
+ {
+  "id": "m028",
+  "question": "Which would you rather have more of in your work?",
+  "option_a": "Be senior enough that your opinion is sought by default.",
+  "option_b": "Move between projects rather than settle into one.",
+  "alignment": {
+   "option_a": "Status",
+   "option_b": "Variety"
+  }
+ }
+]

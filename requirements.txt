@@ -1,5 +1,5 @@
-streamlit
-numpy==1.26.4
-matplotlib
-reportlab
-Pillow
+streamlit>=1.32
+numpy>=1.24
+matplotlib>=3.7
+reportlab>=4.0
+pytest>=7.4

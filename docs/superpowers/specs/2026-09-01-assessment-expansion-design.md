@@ -56,8 +56,13 @@ module ids, which is what makes resume and later add-ons possible.
   (`6 - r`) before applying the mapping.
 - **Real consistency**, replacing the fabricated index:
   - *Acquiescence*: per dimension, `1 - |mean(fwd_raw) + mean(rev_raw) - 6| / 4`.
-  - *Internal consistency*: Cronbach's alpha per dimension over own-style items.
-  - *Straight-lining*: longest identical run, plus overall response SD.
+  - *Internal consistency*: split-half profile stability, Spearman-Brown
+    corrected. (Cronbach's alpha was in the original plan and was dropped during
+    implementation: it needs variance across respondents, and this app scores one
+    person at a time.)
+  - *Straight-lining*: longest identical run, counted only when overall response
+    SD is also low — a genuine profile answering neutrally to items outside its
+    strong dimension produces long runs honestly.
   Reported as High/Moderate/Low with the numbers shown. It must be able to
   return a bad verdict.
 - **Confidence bands.** Per-dimension standard error from item-level variance,

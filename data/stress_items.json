@@ -1,0 +1,242 @@
+[
+ {
+  "id": "x001",
+  "mode": "push",
+  "question": "When a deadline slips, my first move is to take control of the plan myself.",
+  "keyed": 1
+ },
+ {
+  "id": "x002",
+  "mode": "push",
+  "question": "Under pressure I become blunter than I would normally be.",
+  "keyed": 1
+ },
+ {
+  "id": "x003",
+  "mode": "push",
+  "question": "When things go wrong I push harder rather than pause.",
+  "keyed": 1
+ },
+ {
+  "id": "x004",
+  "mode": "push",
+  "question": "In a crisis I start issuing instructions before anyone asks me to.",
+  "keyed": 1
+ },
+ {
+  "id": "x005",
+  "mode": "push",
+  "question": "When I am stretched, I get impatient with people who want to discuss it further.",
+  "keyed": 1
+ },
+ {
+  "id": "x006",
+  "mode": "push",
+  "question": "Pressure makes me more willing to override an objection.",
+  "keyed": 1
+ },
+ {
+  "id": "x007",
+  "mode": "push",
+  "question": "If a project is failing, I would rather seize the wheel than wait for consensus.",
+  "keyed": 1
+ },
+ {
+  "id": "x008",
+  "mode": "push",
+  "question": "When stressed I sharpen my tone without meaning to.",
+  "keyed": 1
+ },
+ {
+  "id": "x009",
+  "mode": "push",
+  "question": "Even at my most pressured, I stay as measured as I am on a calm day.",
+  "keyed": -1
+ },
+ {
+  "id": "x010",
+  "mode": "push",
+  "question": "When a plan collapses, I am content to let someone else take charge of fixing it.",
+  "keyed": -1
+ },
+ {
+  "id": "x011",
+  "mode": "perform",
+  "question": "Under pressure I talk more than usual.",
+  "keyed": 1
+ },
+ {
+  "id": "x012",
+  "mode": "perform",
+  "question": "When things get tense I try to lighten the mood.",
+  "keyed": 1
+ },
+ {
+  "id": "x013",
+  "mode": "perform",
+  "question": "When I am stressed I seek out colleagues to talk it through rather than sit with it.",
+  "keyed": 1
+ },
+ {
+  "id": "x014",
+  "mode": "perform",
+  "question": "Under strain I find myself selling the plan harder than the evidence supports.",
+  "keyed": 1
+ },
+ {
+  "id": "x015",
+  "mode": "perform",
+  "question": "When a project is in trouble, I want to be visibly involved in the response.",
+  "keyed": 1
+ },
+ {
+  "id": "x016",
+  "mode": "perform",
+  "question": "Pressure makes me more persuasive and more insistent at the same time.",
+  "keyed": 1
+ },
+ {
+  "id": "x017",
+  "mode": "perform",
+  "question": "When criticised, my instinct is to explain myself at length.",
+  "keyed": 1
+ },
+ {
+  "id": "x018",
+  "mode": "perform",
+  "question": "Under stress I make optimistic promises I later have to manage.",
+  "keyed": 1
+ },
+ {
+  "id": "x019",
+  "mode": "perform",
+  "question": "When I am under pressure I go quiet rather than becoming more talkative.",
+  "keyed": -1
+ },
+ {
+  "id": "x020",
+  "mode": "perform",
+  "question": "Stress makes me less interested in how the situation looks to other people.",
+  "keyed": -1
+ },
+ {
+  "id": "x021",
+  "mode": "accommodate",
+  "question": "Under pressure I take on extra work rather than say the team is over capacity.",
+  "keyed": 1
+ },
+ {
+  "id": "x022",
+  "mode": "accommodate",
+  "question": "When there is tension I absorb it rather than name it.",
+  "keyed": 1
+ },
+ {
+  "id": "x023",
+  "mode": "accommodate",
+  "question": "I agree to a deadline I privately doubt rather than push back in the moment.",
+  "keyed": 1
+ },
+ {
+  "id": "x024",
+  "mode": "accommodate",
+  "question": "When stressed I put other people's needs ahead of my own limits.",
+  "keyed": 1
+ },
+ {
+  "id": "x025",
+  "mode": "accommodate",
+  "question": "I would rather quietly fix someone else's mistake than raise it with them.",
+  "keyed": 1
+ },
+ {
+  "id": "x026",
+  "mode": "accommodate",
+  "question": "Under strain I become more accommodating, not less.",
+  "keyed": 1
+ },
+ {
+  "id": "x027",
+  "mode": "accommodate",
+  "question": "When a decision goes against me I go along with it and keep my reservations private.",
+  "keyed": 1
+ },
+ {
+  "id": "x028",
+  "mode": "accommodate",
+  "question": "I stay in a difficult situation past the point it is good for me because leaving would disrupt others.",
+  "keyed": 1
+ },
+ {
+  "id": "x029",
+  "mode": "accommodate",
+  "question": "Under pressure I get quicker to say no.",
+  "keyed": -1
+ },
+ {
+  "id": "x030",
+  "mode": "accommodate",
+  "question": "When I am stretched I defend my own boundaries firmly.",
+  "keyed": -1
+ },
+ {
+  "id": "x031",
+  "mode": "retreat",
+  "question": "When I am overwhelmed I retreat into the details I can control.",
+  "keyed": 1
+ },
+ {
+  "id": "x032",
+  "mode": "retreat",
+  "question": "Under pressure I want more data before I will commit to anything.",
+  "keyed": 1
+ },
+ {
+  "id": "x033",
+  "mode": "retreat",
+  "question": "When stressed I become harder to reach while I work things through.",
+  "keyed": 1
+ },
+ {
+  "id": "x034",
+  "mode": "retreat",
+  "question": "Criticism makes me want to document and justify rather than discuss.",
+  "keyed": 1
+ },
+ {
+  "id": "x035",
+  "mode": "retreat",
+  "question": "Under strain my standards get stricter rather than more pragmatic.",
+  "keyed": 1
+ },
+ {
+  "id": "x036",
+  "mode": "retreat",
+  "question": "When things are uncertain I withdraw to analyse rather than talk it out.",
+  "keyed": 1
+ },
+ {
+  "id": "x037",
+  "mode": "retreat",
+  "question": "Pressure makes me more reluctant to make a call without complete information.",
+  "keyed": 1
+ },
+ {
+  "id": "x038",
+  "mode": "retreat",
+  "question": "When a project wobbles I go back over the work looking for what I missed.",
+  "keyed": 1
+ },
+ {
+  "id": "x039",
+  "mode": "retreat",
+  "question": "Under pressure I become more willing to decide on incomplete information.",
+  "keyed": -1
+ },
+ {
+  "id": "x040",
+  "mode": "retreat",
+  "question": "When stressed I reach out to people rather than pulling away.",
+  "keyed": -1
+ }
+]
