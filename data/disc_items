@@ -1,0 +1,2402 @@
+[
+  {
+    "style": "D",
+    "question": "When I have enough information to make a workable choice, I prefer to decide and adjust later if needed.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "In a setting where I know few people, I usually start conversations rather than wait to be approached.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Even when the urgency around me changes, I tend to keep working at a fairly consistent pace.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "Before sending something important, I usually check it once more for errors or missing pieces.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When several options still seem reasonable, I prefer to keep them open until the picture becomes clearer.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "In an unfamiliar group, I generally observe for a while before becoming involved in the conversation.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Adjusting my pace frequently as circumstances change feels natural to me.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "For work that can be corrected later, I am usually comfortable sending a solid first version without another check.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If a group discussion keeps circling the same points, I usually try to bring it to a decision.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "If I notice someone standing apart at a gathering, I am fairly likely to introduce myself.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I prefer a rhythm I can sustain for a long time over repeated bursts of intense activity.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If a number or fact seems slightly inconsistent, I tend to investigate rather than ignore it.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I am comfortable allowing a decision to remain unsettled when more reflection could improve it.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "At a gathering, I am comfortable letting new conversations develop naturally without trying to start them.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am comfortable working in short, intense bursts and then shifting quickly to something else.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If a small inconsistency is unlikely to affect the outcome, I can usually leave it alone.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "For choices that can be reversed, I would rather move ahead than spend a long time optimizing the first move.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I often make the first move in turning a casual acquaintance into an ongoing connection.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When several things need attention, I usually keep moving through them in a steady order.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I often catch small discrepancies when comparing two versions of the same information.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Even when a choice can be changed later, I usually want to think through the main alternatives before committing.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I usually let repeated contact build a connection before I reach out outside the original setting.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When several things need attention, I tend to jump toward whichever one has become most urgent.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When two versions agree on the important points, minor discrepancies rarely hold my attention.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When time is limited, I can choose a direction without needing every uncertainty resolved.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "When a conversation goes quiet, I tend to introduce a new topic rather than sit with the silence.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I rarely feel a need to speed up simply because other people around me are moving faster.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I prefer to verify important names, dates, figures, or instructions rather than rely on memory.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When time allows, I prefer to postpone a choice until I have reduced most of the uncertainty around it.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "Silence in a conversation does not usually make me feel responsible for filling it.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "The pace of the people around me often affects how quickly I move.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "For familiar information, I am generally comfortable relying on memory unless something gives me reason to doubt it.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I become restless when a simple decision takes much longer than the consequences seem to justify.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I find it natural to approach someone I have not met when there is a reasonable reason to talk.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am comfortable making gradual progress on something that will take a long time to finish.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I feel better completing a task when I know the final details have been checked.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I rarely mind spending extra time on a decision if doing so may prevent avoidable complications later.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "Even with a reasonable reason to talk, I often prefer an introduction or clear opening before approaching someone new.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Long stretches of gradual progress can make me want a faster change of pace or a more immediate result.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "Once the main purpose of a task has been achieved, polishing the remaining details often feels optional to me.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I can state a firm preference even when I expect someone else to disagree strongly.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When an idea interests me, that interest usually shows in the way I talk about it.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "In a conversation that is moving slowly, I rarely feel much pressure to speed it up.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When two explanations both seem plausible, I want evidence that helps distinguish between them.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When my preference conflicts with someone else's, I often look for a middle position before pressing my own.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "Even when I am strongly interested in something, my way of presenting it tends to remain fairly measured.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When a conversation takes a long route to a simple point, I tend to move it along.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When checking every possibility would slow things down considerably, I am comfortable relying on intuition.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If I believe an approach is failing, I am comfortable saying so plainly.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "People can usually tell from my voice or expression when I am excited about something.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I can give someone time to reach a conclusion in their own way, even when I already know what I would do.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I become more confident in a claim when I can see where the information came from.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I usually soften a criticism when a direct version might create unnecessary friction.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "My reactions are often less visible to other people than what I am actually feeling.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "If I can see a practical answer, I usually prefer to offer it rather than wait while someone works toward it.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If a claim fits what I have repeatedly observed, I do not always need to trace the original source.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When something important is being overlooked, I tend to raise it even if the moment feels uncomfortable.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When telling a story, I naturally vary my tone and emphasis to keep it engaging.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Repeated questions do not bother me much when someone is genuinely trying to understand.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When someone's conclusion surprises me, I tend to ask what it is based on.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If an issue is sensitive, I often wait for a better opening rather than bringing it up immediately.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When telling a story, I usually focus on what happened rather than making the delivery especially animated.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When the same question keeps returning after it has been answered, I can become impatient.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When someone's conclusion seems reasonable, I rarely ask them to show the supporting steps.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I am willing to hold my position through a tense discussion when I think the issue matters.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I often use humor, examples, or vivid comparisons when I want an idea to land.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am generally comfortable with activities whose value becomes visible only after sustained effort.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I prefer examples, records, or measurements when a disagreement depends on what actually happened.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Preserving a workable relationship can matter more to me than winning a particular disagreement.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I generally prefer straightforward explanations over adding color or personality to the delivery.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I stay more engaged when I can see progress or results at fairly short intervals.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "In everyday disagreements, a credible person's judgment is often enough for me without additional records or measurements.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "People rarely have to guess what I want when a decision affects me directly.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "If I appreciate something someone did, I tend to express that appreciation openly.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When plans are delayed for reasons outside anyone's control, I usually adjust without much agitation.",
+    "mapping": {
+      "D": -1,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I like separating what is known from what is assumed before drawing a conclusion.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I often leave room for others to infer my preference rather than stating it as a demand.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I may value someone's contribution a great deal without saying much about it in the moment.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Unexpected waiting tends to bother me even when nobody is at fault.",
+    "mapping": {
+      "D": 1,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I am comfortable combining experience and assumptions when a formal distinction would not change the practical decision.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If an important problem has no clear owner, I tend to start dealing with it before responsibility is assigned.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When I want support for an idea, I naturally think about how to make it appealing to the people involved.",
+    "mapping": {
+      "D": 1,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I tend to notice when someone needs more time to become comfortable with a change.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I work more comfortably when the criteria for a good result are clear before I begin.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When responsibility is shared, I am comfortable waiting until the group agrees on who should act first.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When I want support for an idea, I prefer to present the reasoning and let people decide without much persuasion.",
+    "mapping": {
+      "D": -1,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When most people are ready to move forward, I usually favor proceeding and helping others adjust afterward.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I can work comfortably when important parts of a task are left open to interpretation until later.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When I notice something useful that could be done, I often begin without needing an invitation.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I enjoy finding the explanation that makes an unfamiliar idea feel relevant to someone else.",
+    "mapping": {
+      "D": 1,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "If someone is struggling quietly, I am likely to check in without waiting for them to ask.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "Before starting something complex, I usually want to know the main steps or dependencies.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Before taking on an unassigned task, I usually check whether someone else is already responsible for it.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I am comfortable leaving a good idea unexplained beyond the essential facts if the other person is not immediately interested.",
+    "mapping": {
+      "D": -1,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I generally assume people will ask for help when they want it rather than checking in preemptively.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "With a complex task, I am comfortable discovering the sequence as I work rather than mapping it first.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "In an unfamiliar situation, I tend to create a next step rather than wait for one to appear.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "If people seem doubtful about a proposal, I often try a different angle rather than repeating the same case.",
+    "mapping": {
+      "D": 1,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I often adapt the way I explain something so the other person does not feel rushed or dismissed.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I prefer agreeing on what 'finished' means before a project is far underway.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "In an unfamiliar situation, I prefer to understand how things are normally handled before stepping in.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "If people remain doubtful after hearing the main case, I usually stop trying to change their view.",
+    "mapping": {
+      "D": -1,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I prefer to keep an explanation efficient even if the other person may need to ask follow-up questions.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I am comfortable allowing the definition of 'finished' to evolve as a project develops.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If plans stall because nobody is moving them forward, I am likely to create momentum myself.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I tend to notice which part of a message is most likely to gain someone's interest.",
+    "mapping": {
+      "D": 1,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When people are under strain, I naturally pay attention to what would make the situation easier for them.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "When several people are involved, I like responsibilities and handoffs to be explicit.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If a shared plan stalls, I usually give the people involved time to reorganize before taking over any part of it.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I usually give roughly the same explanation regardless of who is listening.",
+    "mapping": {
+      "D": -1,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When people are under strain, I tend to focus first on solving the practical issue that is creating the strain.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "When several people are involved, I am comfortable letting responsibilities shift informally as needs arise.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I often act on a useful idea while it is still rough enough to improve along the way.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When a group is hesitant, I often try to build enough enthusiasm for people to give the idea a chance.",
+    "mapping": {
+      "D": 1,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am willing to absorb some inconvenience if it helps a group keep functioning smoothly.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "A clear plan helps me notice early when something is drifting off course.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I am more comfortable acting on a new idea after its role and boundaries have been clarified.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When a group is hesitant, I prefer to let the merits of the idea become clear over time rather than trying to create enthusiasm.",
+    "mapping": {
+      "D": -1,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am cautious about taking on extra inconvenience simply to make things easier for everyone else.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I do not need a detailed plan to notice whether something is moving in a useful direction.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I work comfortably when I am given an outcome and considerable freedom in how to reach it.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "Talking through an unfinished idea with someone often helps me figure out what I think.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Once a routine is working reasonably well, I prefer to improve it gradually rather than replace it quickly.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When a procedure exists for a reason I do not understand, I prefer to understand the reason before departing from it.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I work more comfortably when expectations include a clear approach as well as a desired outcome.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I prefer to work out my thoughts privately before discussing them with other people.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "If a clearly better option appears, I am comfortable abandoning a familiar routine quickly.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If a procedure seems unnecessarily detailed, I am comfortable adapting it as I go.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I prefer having room to change the method when I see a faster or stronger route.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I can discover useful connections while I am explaining a problem out loud.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I usually want some time to settle into a major change before making another one.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I tend to follow an agreed method consistently when comparability between results matters.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When a method has already been agreed, I generally prefer to follow it unless there is a clear reason not to.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I usually need quiet thinking time before I can explain a complicated problem clearly.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Several changes close together do not bother me much if each one seems useful.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When the result matters more than comparability, I am comfortable changing an agreed method to suit the situation.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I would rather be accountable for my own judgment than depend on frequent approval for ordinary choices.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "A lively conversation can help me generate possibilities I would not have reached alone.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When plans shift suddenly, it helps me to understand what will remain stable.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If instructions specify an order for important steps, I usually keep that order unless there is a clear reason not to.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "For consequential choices, I prefer regular checkpoints so that responsibility is shared and expectations stay aligned.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I generate my strongest possibilities when I have enough uninterrupted time to think on my own.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When plans shift suddenly, I can focus on the new direction without needing much continuity with the old one.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I am comfortable reordering instructions when another sequence seems more efficient in the moment.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Too many layers of approval make it harder for me to stay engaged with a task.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When I am uncertain about something, I often call or talk to someone before I have formed a conclusion.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I prefer transitions that allow people to adjust in stages.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I appreciate systems that make it clear how exceptions should be handled.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Clear approval steps can make it easier for me to work confidently because I know where decisions belong.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When I am uncertain about something, I usually wait until I have a tentative conclusion before discussing it.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I often prefer a clean switch to a new arrangement rather than a long transition between old and new.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I am comfortable handling exceptions case by case without needing a standard rule for them.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When circumstances change, I am comfortable departing from the original plan without waiting for formal permission.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I am comfortable thinking aloud even when some of what I say may later change.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 0,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Frequent changes to expectations can drain my energy even when I understand the reasons for them.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When a rule prevents a recurring mistake, I tend to value the rule even if it adds a little effort.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When circumstances change, I usually prefer to confirm a revised plan before acting differently.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I prefer not to say much about an idea until I know which parts I actually stand behind.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": 0,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Frequent changes to expectations can be stimulating for me when they keep things moving.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When a rule adds effort to most cases, I tend to question whether preventing an occasional mistake justifies it.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "A target that looks difficult tends to make me more engaged.",
+    "mapping": {
+      "D": 2,
+      "I": 1,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "After an enjoyable stretch of conversation with several people, I often feel more energized than before.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "During disagreement, I often try to lower the temperature before trying to resolve the issue itself.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "Before making a change that affects other things, I usually consider what could break as a result.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I am usually more motivated by steady progress than by proving I can overcome a difficult target.",
+    "mapping": {
+      "D": -2,
+      "I": -1,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "Even when I enjoy being with people, extended conversation can leave me wanting quiet time afterward.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When tension appears between people, I would rather address the disputed issue immediately than wait for emotions to settle.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "When a change is easy to reverse, I am comfortable trying it before thinking through every possible side effect.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I enjoy situations where the result depends on how effectively I respond to pressure or competition.",
+    "mapping": {
+      "D": 2,
+      "I": 1,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I tend to enjoy occasions where different conversations and people are moving around at the same time.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I usually look for a solution people can live with rather than pushing for the maximum possible advantage.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I like building checks into repeated tasks so the same mistake is less likely to happen twice.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I do my best work when success does not depend on outperforming someone else or beating a demanding benchmark.",
+    "mapping": {
+      "D": -2,
+      "I": -1,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I usually enjoy social time more when the setting is small enough for one conversation to develop fully.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "When an outcome matters, I am comfortable pressing for the strongest result even if not everyone feels equally satisfied.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "For repeated tasks, I would rather rely on attention and judgment than add checks for every possible mistake.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When someone doubts that something can be done, I often feel more interested in attempting it.",
+    "mapping": {
+      "D": 2,
+      "I": 1,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "A busy room can feel stimulating to me rather than distracting.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I tend to make room for quieter people before a group closes a discussion.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "When something fails, I am interested in the specific step that allowed the failure to happen.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Other people's doubts rarely make a task more appealing to me; I judge it mainly by whether it is worthwhile.",
+    "mapping": {
+      "D": -2,
+      "I": -1,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "When many people are talking at once, I tend to prefer a quieter corner or a smaller group.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Once the main arguments have been heard, I am comfortable ending a discussion even if some people contributed little.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "When something fails, I focus more on restoring progress than on tracing exactly how the failure occurred.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I am drawn to goals that require stretching beyond what has already been demonstrated.",
+    "mapping": {
+      "D": 2,
+      "I": 1,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "I often look forward to opportunities that involve meeting several different people in one day.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "If two people are talking past each other, I often try to restate each side in terms the other can hear.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I tend to notice conditions that could create problems later even when nothing is wrong yet.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I generally prefer goals that can be pursued through dependable effort rather than repeated tests of nerve.",
+    "mapping": {
+      "D": -2,
+      "I": -1,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "A day with many separate social interactions usually requires more energy from me than a day with fewer, deeper ones.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "If two people are talking past each other, I usually expect them to clarify their own positions rather than stepping between them.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "I prefer dealing with problems as they become real rather than spending much time on things that may never happen.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "A difficult obstacle can feel energizing when there is a clear result on the other side.",
+    "mapping": {
+      "D": 2,
+      "I": 1,
+      "S": -1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "Shared excitement with other people tends to increase my own enthusiasm.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I value arrangements that preserve cooperation even when they are not my first choice.",
+    "mapping": {
+      "D": -1,
+      "I": 1,
+      "S": 2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "If an error would be costly, I am willing to add extra verification even when it slows completion.",
+    "mapping": {
+      "D": 0,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When a route becomes unnecessarily difficult, I am quick to look for a calmer or more sustainable alternative.",
+    "mapping": {
+      "D": -2,
+      "I": -1,
+      "S": 1,
+      "C": 0
+    }
+  },
+  {
+    "style": "I",
+    "question": "My level of enthusiasm is usually fairly independent of the energy of the people around me.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am willing to accept some friction when it is the clearest route to a better outcome.",
+    "mapping": {
+      "D": 1,
+      "I": -1,
+      "S": -2,
+      "C": 0
+    }
+  },
+  {
+    "style": "C",
+    "question": "Even when an error would be inconvenient, I usually avoid adding safeguards that noticeably slow normal work.",
+    "mapping": {
+      "D": 0,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When the cost of waiting is real, I can act before I know exactly how events will unfold.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "After meeting someone interesting, I am fairly likely to continue the connection later.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Once I have agreed to something, I dislike leaving it unfinished because my interest has shifted.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "For a complicated decision, I often organize the information before deciding what I think.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When the outcome is uncertain, I usually spend extra time reducing the uncertainty before acting.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I prefer maintaining a smaller number of established relationships to continually expanding my circle.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "If a commitment has lost its value, I am comfortable renegotiating it rather than completing it only because I started.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "For a complicated decision, I can usually form a view while the information is still somewhat unstructured.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I am comfortable testing a promising approach on a small scale instead of resolving every question in advance.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I often remember a reason to reconnect with someone I have met only briefly.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I tend to keep showing up for recurring responsibilities even when they are not especially interesting.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When there are many factors to compare, I find it useful to separate them rather than judge everything at once.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I prefer to resolve the main questions before testing an approach, even when the first test would be limited.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "Brief encounters usually remain brief unless circumstances naturally bring us together again.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Recurring responsibilities are easier for me to sustain when there is enough variety to keep them fresh.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "When there are many factors to compare, I am comfortable relying on an overall sense of which option fits best.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "If a process is slowing progress without adding much value, I am inclined to simplify it.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I enjoy discovering points of connection between people who do not yet know one another.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "People can usually count on my pace and availability being fairly predictable.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I prefer resolving ambiguous terms before using them as the basis for an important decision.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "Before bypassing a slow process, I want to understand what problems that process was designed to prevent.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I rarely think to introduce people to one another unless there is a specific practical reason.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "My availability tends to change with current priorities rather than staying predictable from week to week.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I can usually work with approximate definitions when everyone understands the general intent.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I can accept a reasonable chance of failure when the potential gain justifies trying.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "When I enter a new community, I tend to build several connections fairly quickly.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am comfortable doing a useful task repeatedly when consistency matters more than novelty.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If a conclusion depends on several assumptions, I like making those assumptions explicit.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "I prefer opportunities where the downside is well contained, even if that means giving up some upside.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "When I enter a new community, I usually become close to people gradually rather than meeting many people at once.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "Doing the same useful task repeatedly can make me look for a different way to contribute.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "If the overall reasoning is sound, I do not always need every underlying assumption stated explicitly.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When a situation is deteriorating, I would rather make a defensible move quickly than wait for an ideal one.",
+    "mapping": {
+      "D": 2,
+      "I": 0,
+      "S": -1,
+      "C": -1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I am comfortable keeping in touch with a fairly wide range of people.",
+    "mapping": {
+      "D": 0,
+      "I": 2,
+      "S": 1,
+      "C": -1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I often prefer finishing what is already underway before adding another commitment.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": 2,
+      "C": 1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I am more comfortable making a consequential choice after I have considered how the pieces fit together.",
+    "mapping": {
+      "D": -1,
+      "I": -1,
+      "S": 1,
+      "C": 2
+    }
+  },
+  {
+    "style": "D",
+    "question": "When a situation is deteriorating, I still prefer to check the likely consequences before making a major move.",
+    "mapping": {
+      "D": -2,
+      "I": 0,
+      "S": 1,
+      "C": 1
+    }
+  },
+  {
+    "style": "I",
+    "question": "I would rather invest more attention in a few relationships than keep up with a wide network.",
+    "mapping": {
+      "D": 0,
+      "I": -2,
+      "S": -1,
+      "C": 1
+    }
+  },
+  {
+    "style": "S",
+    "question": "I am comfortable starting something new before everything already underway has been wrapped up.",
+    "mapping": {
+      "D": 0,
+      "I": 0,
+      "S": -2,
+      "C": -1
+    }
+  },
+  {
+    "style": "C",
+    "question": "I can make a consequential choice from a strong overall impression even when I have not analyzed every component separately.",
+    "mapping": {
+      "D": 1,
+      "I": 1,
+      "S": -1,
+      "C": -2
+    }
+  }
+]
