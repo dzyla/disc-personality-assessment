@@ -1,0 +1,4142 @@
+[
+ {
+  "id": "w001",
+  "round": 0,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I step up to run things when nobody is clearly in charge.",
+  "option_b": "I can tell when someone's words don't match how they feel.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w002",
+  "round": 0,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I work out who should do what before a project gets busy.",
+  "option_b": "I give people stretch tasks because I can see they're ready.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w003",
+  "round": 0,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I get a new piece of work moving before the plan is finished.",
+  "option_b": "Before a big decision, I list what could go wrong.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w004",
+  "round": 0,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I come up with several ways to do something before I pick one.",
+  "option_b": "People can tell me something in confidence and know it goes no further.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w005",
+  "round": 0,
+  "question": "Which sounds more like you?",
+  "option_a": "I think about where a project will be in five years, not just next week.",
+  "option_b": "I keep working on long goals even when I see no results for months.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w006",
+  "round": 0,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I read the original source rather than the summary.",
+  "option_b": "I redo work I could have handed in, because I know it could be better.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w007",
+  "round": 0,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I can reduce a long report to the three points that matter.",
+  "option_b": "When something breaks, I'm the one who wants to find out why.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w008",
+  "round": 0,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I keep going on a task until it is really done, not nearly done.",
+  "option_b": "I work out what each person cares about before asking for their help.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w009",
+  "round": 0,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I ask the quiet person in a meeting what they think.",
+  "option_b": "I change my approach quickly when the situation changes.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w010",
+  "round": 0,
+  "question": "Which sounds more like you?",
+  "option_a": "I say what I think in a meeting even if nobody else has said it.",
+  "option_b": "I help two people in an argument hear what the other actually means.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w011",
+  "round": 0,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I pick up a new tool by using it, and I'm useful within days.",
+  "option_b": "If I've said I'll do it, I consider it my problem until it's done.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w012",
+  "round": 0,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I notice when a problem in one field looks like a problem in another.",
+  "option_b": "I look for the weak point in a plan before I support it.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w013",
+  "round": 1,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I tell a group what I think we should do and ask them to follow.",
+  "option_b": "I enjoy seeing someone do something today they couldn't do last month.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w014",
+  "round": 1,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "When a group is stuck talking, I suggest a first step and take it.",
+  "option_b": "I pick up on a change of mood in a room before it's mentioned.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w015",
+  "round": 1,
+  "question": "Which sounds more like you?",
+  "option_a": "When told there are two choices, I look for a third.",
+  "option_b": "I keep track of several moving parts without losing any of them.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w016",
+  "round": 1,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I make decisions today based on what I expect next year.",
+  "option_b": "I pause to think about consequences when others are ready to move.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w017",
+  "round": 1,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I keep researching a topic after I know enough for the task.",
+  "option_b": "I put time into relationships long before I need anything from them.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w018",
+  "round": 1,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I enjoy a problem more when everyone else has given up on it.",
+  "option_b": "A setback changes my method, not my goal.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w019",
+  "round": 1,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "Good enough rarely satisfies me when I know what better looks like.",
+  "option_b": "I can talk people into trying something they doubted.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w020",
+  "round": 1,
+  "question": "Which sounds more like you?",
+  "option_a": "I notice who's been left off the invitation.",
+  "option_b": "I cut steps from a process until only the useful ones are left.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w021",
+  "round": 1,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I can explain my view clearly without preparing much.",
+  "option_b": "Loose ends stay on my mind until I've tied them off.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w022",
+  "round": 1,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I admit my mistakes before anyone else finds them.",
+  "option_b": "A last-minute change to the plan rarely throws me.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w023",
+  "round": 1,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "When a meeting gets heated, I find a way to lower the temperature.",
+  "option_b": "I borrow solutions from topics that seem unrelated.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w024",
+  "round": 1,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "When someone shows me a result, I ask how it could be wrong.",
+  "option_b": "I like taking on work I don't yet know how to do.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w025",
+  "round": 2,
+  "question": "Which sounds more like you?",
+  "option_a": "I'm comfortable giving direction to people older or more senior than me.",
+  "option_b": "I'd rather try a rough version today than discuss it until next week.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w026",
+  "round": 2,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I enjoy sketching out ideas that may never be used.",
+  "option_b": "I take time to explain things so the other person can do it next time.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w027",
+  "round": 2,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I notice when a person has gone quiet for a reason.",
+  "option_b": "I like picturing several ways things could turn out in the long run.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w028",
+  "round": 2,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I'd rather understand one subject fully than several a little.",
+  "option_b": "I build a timeline when nobody has asked for one.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w029",
+  "round": 2,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I plan a fallback before I commit to a plan.",
+  "option_b": "I work backwards from a failure to find what went wrong.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w030",
+  "round": 2,
+  "question": "Which sounds more like you?",
+  "option_a": "I get people on my side before the meeting starts.",
+  "option_b": "I tell people the truth even when a softer version would be easier.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w031",
+  "round": 2,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I explain the background to newcomers so they can join in.",
+  "option_b": "I stick with hard skills long after the excitement has worn off.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w032",
+  "round": 2,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I tell people when their work is below what the task needs.",
+  "option_b": "I give direct feedback instead of hinting.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w033",
+  "round": 2,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I step forward when a result I was part of goes badly.",
+  "option_b": "I explain hard topics in words a beginner can follow.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w034",
+  "round": 2,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I'm the one who handles the last ten percent that others leave.",
+  "option_b": "My best ideas come from joining two things nobody had put together.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w035",
+  "round": 2,
+  "question": "Which sounds more like you?",
+  "option_a": "I try to argue against my own idea before presenting it.",
+  "option_b": "I can drop what I'm doing and switch to what's urgent now.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w036",
+  "round": 2,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I ask a lot of questions in the first week of anything new.",
+  "option_b": "I look for the part of a dispute both sides already agree on.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w037",
+  "round": 3,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I'm rarely out of suggestions when a group runs dry.",
+  "option_b": "I make the call when a group can't decide.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w038",
+  "round": 3,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I'm usually the first to open the blank document.",
+  "option_b": "I prepare for a change before most people have noticed it's coming.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w039",
+  "round": 3,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I tell people when I can see they're getting better at something.",
+  "option_b": "I spend hours on a question just because I want to know the answer.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w040",
+  "round": 3,
+  "question": "Which sounds more like you?",
+  "option_a": "I volunteer for the messy task that nobody understands.",
+  "option_b": "I can guess how someone will react before I tell them.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w041",
+  "round": 3,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I rearrange tasks so that people aren't waiting on each other.",
+  "option_b": "I adjust my pitch to the person in front of me.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w042",
+  "round": 3,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I estimate the downside before I get excited about the upside.",
+  "option_b": "I change where or when we meet so that more people can take part.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w043",
+  "round": 3,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I behave the same way with everyone, whoever is in the room.",
+  "option_b": "I find it easy to put a complicated idea into words.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w044",
+  "round": 3,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I can work on the same difficult problem for years.",
+  "option_b": "I don't blame circumstances when something I ran didn't work.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w045",
+  "round": 3,
+  "question": "Which sounds more like you?",
+  "option_a": "I remember an example from elsewhere when a new problem comes up.",
+  "option_b": "I compare my work with the best examples I can find.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w046",
+  "round": 3,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I ask what evidence would change someone's mind.",
+  "option_b": "I draw a simple diagram when a discussion gets tangled.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w047",
+  "round": 3,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I track what is left and work through it until the list is empty.",
+  "option_b": "I learn from a mistake the first time.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w048",
+  "round": 3,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I work well without knowing what tomorrow will bring.",
+  "option_b": "I talk to people separately to sort out a disagreement.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w049",
+  "round": 4,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I speak first when a group needs someone to set the direction.",
+  "option_b": "I ask what a choice will mean for us in a few years.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w050",
+  "round": 4,
+  "question": "Which sounds more like you?",
+  "option_a": "I ask 'what if we did the opposite?' to get new ideas.",
+  "option_b": "I go through the full data before I form a view.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w051",
+  "round": 4,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I can usually get a broken process working again.",
+  "option_b": "A new project makes me want to begin right away.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w052",
+  "round": 4,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I'd rather coach someone through a task than do it myself.",
+  "option_b": "I enjoy convincing someone who started out against me.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w053",
+  "round": 4,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I adjust how I talk based on what I sense from the other person.",
+  "option_b": "I make sure credit goes to people who are easily overlooked.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w054",
+  "round": 4,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I set up a shared list or folder so everyone can find things.",
+  "option_b": "I present to a large group without much nervousness.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w055",
+  "round": 4,
+  "question": "Which sounds more like you?",
+  "option_a": "I ask what we'd do if the main assumption turned out to be false.",
+  "option_b": "I follow up on my promises without being reminded.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w056",
+  "round": 4,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I see a pattern linking events that others treat as separate.",
+  "option_b": "I speak well of people who aren't there.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w057",
+  "round": 4,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I'd rather find a flaw now than after we've committed.",
+  "option_b": "I keep going when others quietly drop out.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w058",
+  "round": 4,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I set the bar higher than what was asked.",
+  "option_b": "I switch to a new topic and get the basics quickly.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w059",
+  "round": 4,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I look for the one question that makes a complicated problem clear.",
+  "option_b": "I can stay neutral when friends disagree.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w060",
+  "round": 4,
+  "question": "Which sounds more like you?",
+  "option_a": "I deliver what I said I'd deliver by the date I said.",
+  "option_b": "I improvise when the materials or people I expected aren't there.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w061",
+  "round": 5,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I look up how something actually works under the surface.",
+  "option_b": "I ask people for commitments and hold them to it.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w062",
+  "round": 5,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I track trends in my field to see where it's heading.",
+  "option_b": "I get a lot of satisfaction from repairing what wasn't working.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w063",
+  "round": 5,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I can get busy people to give time to my project.",
+  "option_b": "I get new ideas just from walking around and letting my mind go.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w064",
+  "round": 5,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I turn an idea into a small test within days.",
+  "option_b": "I invite people from outside the usual group.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w065",
+  "round": 5,
+  "question": "Which sounds more like you?",
+  "option_a": "I give honest feedback because I want the person to improve.",
+  "option_b": "I write messages that say exactly what I need.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w066",
+  "round": 5,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I feel personally answerable for work that has my name on it.",
+  "option_b": "I notice that the people I work with are motivated by different things.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w067",
+  "round": 5,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "When plans change, I quickly rework who does what by when.",
+  "option_b": "I read widely because unrelated topics end up being useful.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w068",
+  "round": 5,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I take a popular idea and check whether it really holds up.",
+  "option_b": "I'd take a smaller gain when a larger one could cost us badly.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w069",
+  "round": 5,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I stand by people when things go badly for them.",
+  "option_b": "I'd rather do something new badly than something familiar well.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w070",
+  "round": 5,
+  "question": "Which sounds more like you?",
+  "option_a": "I step in early when I see friction starting between people.",
+  "option_b": "Being told it will take a long time doesn't put me off.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w071",
+  "round": 5,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I'd rather hand in less work done well than more done poorly.",
+  "option_b": "I'm comfortable changing my mind mid-task when new facts arrive.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w072",
+  "round": 5,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "A nearly finished job bothers me more than a hard one.",
+  "option_b": "I remove what isn't needed before I add anything new.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w073",
+  "round": 6,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I feel at home at the front of the room when a decision is needed.",
+  "option_b": "I try one change at a time until a fault goes away.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w074",
+  "round": 6,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I build allies across groups when I need something done.",
+  "option_b": "I build up long notes on topics that interest me.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w075",
+  "round": 6,
+  "question": "Which sounds more like you?",
+  "option_a": "I plan my career several steps ahead.",
+  "option_b": "I seek out people whose background is very different from mine.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w076",
+  "round": 6,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I ask the obvious question when nobody else will.",
+  "option_b": "I'd rather build something original than copy what works elsewhere.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w077",
+  "round": 6,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I tell people early when I'm going to miss a deadline.",
+  "option_b": "I find the first step of a task easier than most people do.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w078",
+  "round": 6,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I recommend others for opportunities they haven't thought of.",
+  "option_b": "I enjoy explaining how two different subjects relate.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w079",
+  "round": 6,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I remember small things that matter to someone.",
+  "option_b": "I run small experiments to check what people assume is true.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w080",
+  "round": 6,
+  "question": "Which sounds more like you?",
+  "option_a": "I enjoy being the beginner in the room.",
+  "option_b": "I spot when two people are duplicating the same work.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w081",
+  "round": 6,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I read the terms before I agree to something.",
+  "option_b": "I find a wording both sides can accept.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w082",
+  "round": 6,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I treat a cancelled plan as a chance to try something else.",
+  "option_b": "I take time to really get to know the people I work with.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w083",
+  "round": 6,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I come back to a task the day after it has gone badly.",
+  "option_b": "I push through the dull final stage of a project without losing pace.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w084",
+  "round": 6,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I rewrite my own text until it's shorter and clearer.",
+  "option_b": "I notice quickly when quality has started to slip in a group.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w085",
+  "round": 7,
+  "question": "Which sounds more like you?",
+  "option_a": "I frame a proposal so that others see what's in it for them.",
+  "option_b": "I take over in a crisis without waiting to be asked.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w086",
+  "round": 7,
+  "question": "Which comes more naturally to you?",
+  "option_a": "People bring me things that have gone wrong.",
+  "option_b": "I check whether a decision leaves out someone it affects.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w087",
+  "round": 7,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "People know where they stand with me.",
+  "option_b": "I ask specialists detailed questions until I really understand.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w088",
+  "round": 7,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I give up something now when it will pay off later.",
+  "option_b": "I fix problems I caused even if nobody would have noticed.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w089",
+  "round": 7,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I keep a list of ideas I'd like to try some day.",
+  "option_b": "I use analogies to understand something new.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w090",
+  "round": 7,
+  "question": "Which sounds more like you?",
+  "option_a": "I send the first message that gets something going.",
+  "option_b": "I notice when a conclusion goes further than the data.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w091",
+  "round": 7,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I share what I know with newcomers without being asked.",
+  "option_b": "I teach myself what I need from videos, books or people nearby.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w092",
+  "round": 7,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I can disagree with someone without damaging the relationship.",
+  "option_b": "People tell me things they haven't told others.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w093",
+  "round": 7,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I do my best when my week is laid out in advance.",
+  "option_b": "I can move between very different tasks in a single day.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w094",
+  "round": 7,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I split a large bet into smaller ones to limit the damage.",
+  "option_b": "I'd rather finish one thing than start two.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w095",
+  "round": 7,
+  "question": "Which sounds more like you?",
+  "option_a": "I turn a confusing set of options into a clear choice.",
+  "option_b": "I admit what I don't know to the people I work with.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w096",
+  "round": 7,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep to a goal even when a more exciting one appears.",
+  "option_b": "I ask for tough feedback because it makes the result better.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w097",
+  "round": 8,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I'm willing to be unpopular for a decision the team needs.",
+  "option_b": "I sit with the person who doesn't know anyone.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w098",
+  "round": 8,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I know who to talk to when I want an idea to go somewhere.",
+  "option_b": "I can tell a story that makes a point stick.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w099",
+  "round": 8,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I'd rather fix an old system than build a new one.",
+  "option_b": "I keep small promises as seriously as large ones.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w100",
+  "round": 8,
+  "question": "Which sounds more like you?",
+  "option_a": "I link what one team is doing with what another team needs.",
+  "option_b": "I like spending an afternoon alone with a hard paper or manual.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w101",
+  "round": 8,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I can explain what success would look like long before we get there.",
+  "option_b": "I play devil's advocate even when I like the proposal.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w102",
+  "round": 8,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I change one part of an old idea to see what it becomes.",
+  "option_b": "I look for the people who know most about something and learn from them.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w103",
+  "round": 8,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I bring a difficult subject up calmly so that it gets resolved.",
+  "option_b": "I start before I feel fully ready.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w104",
+  "round": 8,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I don't need a fixed routine to do good work.",
+  "option_b": "I ask questions to help someone find the answer themselves.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w105",
+  "round": 8,
+  "question": "Which sounds more like you?",
+  "option_a": "I sense tension between two people even when nothing has been said.",
+  "option_b": "I close out tasks fully before I consider them off my plate.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w106",
+  "round": 8,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I make sure meetings end with a named person for each task.",
+  "option_b": "I find the simple idea underneath a complicated explanation.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w107",
+  "round": 8,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I notice hidden costs in a plan that looks cheap.",
+  "option_b": "I keep polishing a result after others would call it finished.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w108",
+  "round": 8,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I do the boring practice that a long goal requires.",
+  "option_b": "I keep a few close working relationships for many years.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w109",
+  "round": 9,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "People look to me to say what happens next.",
+  "option_b": "I say no clearly when I mean no.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w110",
+  "round": 9,
+  "question": "Which sounds more like you?",
+  "option_a": "I drop the jargon so that nobody gets lost.",
+  "option_b": "I'd rather be the named person than share vague ownership.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w111",
+  "round": 9,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep seeing how a small detail fits a larger picture.",
+  "option_b": "I bring sceptics in early so they help shape the plan.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w112",
+  "round": 9,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I ask 'compared with what?' when someone quotes a number.",
+  "option_b": "I keep calm when something fails and start looking for the cause.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w113",
+  "round": 9,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I feel restless when I haven't picked up anything new in a while.",
+  "option_b": "I follow references back to where a claim first appeared.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w114",
+  "round": 9,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I remind people of the shared goal when they start to argue.",
+  "option_b": "I notice early signals that something is about to shift.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w115",
+  "round": 9,
+  "question": "Which sounds more like you?",
+  "option_a": "I can think of unusual uses for ordinary things.",
+  "option_b": "I change how I work to suit each new group I join.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w116",
+  "round": 9,
+  "question": "Which comes more naturally to you?",
+  "option_a": "People hand me things that need to actually get over the line.",
+  "option_b": "I can get a stalled group moving again by doing something concrete.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w117",
+  "round": 9,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I keep in touch with people I've helped to see how they're doing.",
+  "option_b": "I get frustrated by complexity that serves no purpose.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w118",
+  "round": 9,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I hold my own work to the same standard I expect from an expert.",
+  "option_b": "I know which person in a group needs reassurance and which needs space.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w119",
+  "round": 9,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I match tasks to whoever has the time and the skill for them.",
+  "option_b": "I've finished things mainly because I refused to quit.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w120",
+  "round": 9,
+  "question": "Which sounds more like you?",
+  "option_a": "I take time on decisions that are hard to undo.",
+  "option_b": "I credit other people's work clearly and by name.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w121",
+  "round": 10,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I say 'that was my call' when a decision I made turns out wrong.",
+  "option_b": "I assign tasks in a group when no one else does.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w122",
+  "round": 10,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I speak up when I think the group is making a mistake.",
+  "option_b": "I like conversations that jump between subjects and end up joining them.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w123",
+  "round": 10,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I separate how persuasive a claim sounds from how well it's supported.",
+  "option_b": "I stop a conversation to bring someone back in.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w124",
+  "round": 10,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I find it easy to make an idea sound exciting.",
+  "option_b": "I can follow a conversation in a new field after a short time.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w125",
+  "round": 10,
+  "question": "Which sounds more like you?",
+  "option_a": "I spot the weak part of a process before it gives way.",
+  "option_b": "I help a group move on after a falling-out.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w126",
+  "round": 10,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I notice details in a topic that only come from long study.",
+  "option_b": "When a plan fails on the day, I come up with another on the spot.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w127",
+  "round": 10,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I set long-range goals and work backward from them.",
+  "option_b": "I go back to old tasks to complete what was left unfinished.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w128",
+  "round": 10,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I can summarise a long meeting in two sentences.",
+  "option_b": "I find constraints make me more inventive.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w129",
+  "round": 10,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "When I hear a good idea, my next thought is what we could do about it today.",
+  "option_b": "I have trouble putting my name on work I don't respect.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w130",
+  "round": 10,
+  "question": "Which sounds more like you?",
+  "option_a": "I see ability in people others have overlooked.",
+  "option_b": "I don't need quick wins to stay motivated.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w131",
+  "round": 10,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I show up when I've said I will, so people stop checking.",
+  "option_b": "I pay as much attention to how something was said as to what was said.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w132",
+  "round": 10,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I bring up risks that nobody in the room wants to discuss.",
+  "option_b": "I can look at a messy project and see how to divide it up.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w133",
+  "round": 11,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I set the agenda at meetings I care about.",
+  "option_b": "I notice common threads across the projects I've worked on.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w134",
+  "round": 11,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I check in on work I've handed off, because it's still mine to answer for.",
+  "option_b": "I keep asking why until an explanation actually makes sense.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w135",
+  "round": 11,
+  "question": "Which sounds more like you?",
+  "option_a": "I enjoy standing up and explaining something to an audience.",
+  "option_b": "I ask for feedback early so I can improve quickly.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w136",
+  "round": 11,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I look for a role for everyone who wants to contribute.",
+  "option_b": "People ask me to mediate when they can't sort something out.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w137",
+  "round": 11,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I ask for what I need from people I've only just met.",
+  "option_b": "I cope well when the rules of a project change halfway through.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w138",
+  "round": 11,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I feel settled only once the work has been handed in.",
+  "option_b": "I'd take a failing project over a healthy one.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w139",
+  "round": 11,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "People come to me to make sense of something they find confusing.",
+  "option_b": "People ask me when they need the detailed answer on something.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w140",
+  "round": 11,
+  "question": "Which sounds more like you?",
+  "option_a": "I push a team to aim above the minimum.",
+  "option_b": "When a plan looks fine for now, I ask how long it will last.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w141",
+  "round": 11,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I suggest approaches that nobody in the room has tried.",
+  "option_b": "I can carry on with a project through repeated rejections.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w142",
+  "round": 11,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I launch things that other people were only thinking about.",
+  "option_b": "People come back to work with me on later projects.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w143",
+  "round": 11,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I enjoy teaching even when it slows my own work.",
+  "option_b": "I prefer choices I could recover from if they go wrong.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w144",
+  "round": 11,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I keep the calendar, the files and the contacts for our group.",
+  "option_b": "I can see a situation from the other person's side.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w145",
+  "round": 12,
+  "question": "Which sounds more like you?",
+  "option_a": "I step up to run things when nobody is clearly in charge.",
+  "option_b": "I look for the weak point in a plan before I support it.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w146",
+  "round": 12,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I pick up a new tool by using it, and I'm useful within days.",
+  "option_b": "I notice when a problem in one field looks like a problem in another.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w147",
+  "round": 12,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "If I've said I'll do it, I consider it my problem until it's done.",
+  "option_b": "I help two people in an argument hear what the other actually means.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w148",
+  "round": 12,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I change my approach quickly when the situation changes.",
+  "option_b": "I say what I think in a meeting even if nobody else has said it.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w149",
+  "round": 12,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I ask the quiet person in a meeting what they think.",
+  "option_b": "I keep going on a task until it is really done, not nearly done.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w150",
+  "round": 12,
+  "question": "Which sounds more like you?",
+  "option_a": "I can reduce a long report to the three points that matter.",
+  "option_b": "I work out what each person cares about before asking for their help.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w151",
+  "round": 12,
+  "question": "Which comes more naturally to you?",
+  "option_a": "When something breaks, I'm the one who wants to find out why.",
+  "option_b": "I redo work I could have handed in, because I know it could be better.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w152",
+  "round": 12,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I read the original source rather than the summary.",
+  "option_b": "I keep working on long goals even when I see no results for months.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w153",
+  "round": 12,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I think about where a project will be in five years, not just next week.",
+  "option_b": "People can tell me something in confidence and know it goes no further.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w154",
+  "round": 12,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I come up with several ways to do something before I pick one.",
+  "option_b": "Before a big decision, I list what could go wrong.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w155",
+  "round": 12,
+  "question": "Which sounds more like you?",
+  "option_a": "I work out who should do what before a project gets busy.",
+  "option_b": "I get a new piece of work moving before the plan is finished.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w156",
+  "round": 12,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I can tell when someone's words don't match how they feel.",
+  "option_b": "I give people stretch tasks because I can see they're ready.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w157",
+  "round": 13,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I like taking on work I don't yet know how to do.",
+  "option_b": "I tell a group what I think we should do and ask them to follow.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w158",
+  "round": 13,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "When a meeting gets heated, I find a way to lower the temperature.",
+  "option_b": "When someone shows me a result, I ask how it could be wrong.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w159",
+  "round": 13,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "A last-minute change to the plan rarely throws me.",
+  "option_b": "I borrow solutions from topics that seem unrelated.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w160",
+  "round": 13,
+  "question": "Which sounds more like you?",
+  "option_a": "Loose ends stay on my mind until I've tied them off.",
+  "option_b": "I admit my mistakes before anyone else finds them.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w161",
+  "round": 13,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I can explain my view clearly without preparing much.",
+  "option_b": "I cut steps from a process until only the useful ones are left.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w162",
+  "round": 13,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "Good enough rarely satisfies me when I know what better looks like.",
+  "option_b": "I notice who's been left off the invitation.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w163",
+  "round": 13,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I can talk people into trying something they doubted.",
+  "option_b": "A setback changes my method, not my goal.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w164",
+  "round": 13,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I put time into relationships long before I need anything from them.",
+  "option_b": "I enjoy a problem more when everyone else has given up on it.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w165",
+  "round": 13,
+  "question": "Which sounds more like you?",
+  "option_a": "I keep researching a topic after I know enough for the task.",
+  "option_b": "I pause to think about consequences when others are ready to move.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w166",
+  "round": 13,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep track of several moving parts without losing any of them.",
+  "option_b": "I make decisions today based on what I expect next year.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w167",
+  "round": 13,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I pick up on a change of mood in a room before it's mentioned.",
+  "option_b": "When told there are two choices, I look for a third.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w168",
+  "round": 13,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "When a group is stuck talking, I suggest a first step and take it.",
+  "option_b": "I enjoy seeing someone do something today they couldn't do last month.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w169",
+  "round": 14,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I look for the part of a dispute both sides already agree on.",
+  "option_b": "I'm comfortable giving direction to people older or more senior than me.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w170",
+  "round": 14,
+  "question": "Which sounds more like you?",
+  "option_a": "I can drop what I'm doing and switch to what's urgent now.",
+  "option_b": "I ask a lot of questions in the first week of anything new.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w171",
+  "round": 14,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I'm the one who handles the last ten percent that others leave.",
+  "option_b": "I try to argue against my own idea before presenting it.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w172",
+  "round": 14,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "My best ideas come from joining two things nobody had put together.",
+  "option_b": "I explain hard topics in words a beginner can follow.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w173",
+  "round": 14,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I step forward when a result I was part of goes badly.",
+  "option_b": "I tell people when their work is below what the task needs.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w174",
+  "round": 14,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I give direct feedback instead of hinting.",
+  "option_b": "I stick with hard skills long after the excitement has worn off.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w175",
+  "round": 14,
+  "question": "Which sounds more like you?",
+  "option_a": "I tell people the truth even when a softer version would be easier.",
+  "option_b": "I explain the background to newcomers so they can join in.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w176",
+  "round": 14,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I get people on my side before the meeting starts.",
+  "option_b": "I plan a fallback before I commit to a plan.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w177",
+  "round": 14,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I work backwards from a failure to find what went wrong.",
+  "option_b": "I build a timeline when nobody has asked for one.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w178",
+  "round": 14,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I'd rather understand one subject fully than several a little.",
+  "option_b": "I notice when a person has gone quiet for a reason.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w179",
+  "round": 14,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I take time to explain things so the other person can do it next time.",
+  "option_b": "I like picturing several ways things could turn out in the long run.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w180",
+  "round": 14,
+  "question": "Which sounds more like you?",
+  "option_a": "I enjoy sketching out ideas that may never be used.",
+  "option_b": "I'd rather try a rough version today than discuss it until next week.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w181",
+  "round": 15,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I work well without knowing what tomorrow will bring.",
+  "option_b": "I make the call when a group can't decide.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w182",
+  "round": 15,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I track what is left and work through it until the list is empty.",
+  "option_b": "I talk to people separately to sort out a disagreement.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w183",
+  "round": 15,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I learn from a mistake the first time.",
+  "option_b": "I draw a simple diagram when a discussion gets tangled.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w184",
+  "round": 15,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I ask what evidence would change someone's mind.",
+  "option_b": "I compare my work with the best examples I can find.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w185",
+  "round": 15,
+  "question": "Which sounds more like you?",
+  "option_a": "I can work on the same difficult problem for years.",
+  "option_b": "I remember an example from elsewhere when a new problem comes up.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w186",
+  "round": 15,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I behave the same way with everyone, whoever is in the room.",
+  "option_b": "I don't blame circumstances when something I ran didn't work.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w187",
+  "round": 15,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I estimate the downside before I get excited about the upside.",
+  "option_b": "I find it easy to put a complicated idea into words.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w188",
+  "round": 15,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I rearrange tasks so that people aren't waiting on each other.",
+  "option_b": "I change where or when we meet so that more people can take part.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w189",
+  "round": 15,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I can guess how someone will react before I tell them.",
+  "option_b": "I adjust my pitch to the person in front of me.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w190",
+  "round": 15,
+  "question": "Which sounds more like you?",
+  "option_a": "I volunteer for the messy task that nobody understands.",
+  "option_b": "I tell people when I can see they're getting better at something.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Helping others grow"
+   ]
+  }
+ },
+ {
+  "id": "w191",
+  "round": 15,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I'm usually the first to open the blank document.",
+  "option_b": "I spend hours on a question just because I want to know the answer.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w192",
+  "round": 15,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I'm rarely out of suggestions when a group runs dry.",
+  "option_b": "I prepare for a change before most people have noticed it's coming.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w193",
+  "round": 16,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I deliver what I said I'd deliver by the date I said.",
+  "option_b": "I speak first when a group needs someone to set the direction.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w194",
+  "round": 16,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I improvise when the materials or people I expected aren't there.",
+  "option_b": "I look for the one question that makes a complicated problem clear.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w195",
+  "round": 16,
+  "question": "Which sounds more like you?",
+  "option_a": "I can stay neutral when friends disagree.",
+  "option_b": "I set the bar higher than what was asked.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w196",
+  "round": 16,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I switch to a new topic and get the basics quickly.",
+  "option_b": "I keep going when others quietly drop out.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w197",
+  "round": 16,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I speak well of people who aren't there.",
+  "option_b": "I'd rather find a flaw now than after we've committed.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w198",
+  "round": 16,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I ask what we'd do if the main assumption turned out to be false.",
+  "option_b": "I see a pattern linking events that others treat as separate.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Connecting ideas"
+   ]
+  }
+ },
+ {
+  "id": "w199",
+  "round": 16,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I follow up on my promises without being reminded.",
+  "option_b": "I set up a shared list or folder so everyone can find things.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w200",
+  "round": 16,
+  "question": "Which sounds more like you?",
+  "option_a": "I adjust how I talk based on what I sense from the other person.",
+  "option_b": "I present to a large group without much nervousness.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w201",
+  "round": 16,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I'd rather coach someone through a task than do it myself.",
+  "option_b": "I make sure credit goes to people who are easily overlooked.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w202",
+  "round": 16,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "A new project makes me want to begin right away.",
+  "option_b": "I enjoy convincing someone who started out against me.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w203",
+  "round": 16,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I ask 'what if we did the opposite?' to get new ideas.",
+  "option_b": "I can usually get a broken process working again.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w204",
+  "round": 16,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I go through the full data before I form a view.",
+  "option_b": "I ask what a choice will mean for us in a few years.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w205",
+  "round": 17,
+  "question": "Which sounds more like you?",
+  "option_a": "I remove what isn't needed before I add anything new.",
+  "option_b": "I ask people for commitments and hold them to it.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w206",
+  "round": 17,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I'd rather hand in less work done well than more done poorly.",
+  "option_b": "A nearly finished job bothers me more than a hard one.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w207",
+  "round": 17,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "Being told it will take a long time doesn't put me off.",
+  "option_b": "I'm comfortable changing my mind mid-task when new facts arrive.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w208",
+  "round": 17,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I stand by people when things go badly for them.",
+  "option_b": "I step in early when I see friction starting between people.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w209",
+  "round": 17,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I'd rather do something new badly than something familiar well.",
+  "option_b": "I'd take a smaller gain when a larger one could cost us badly.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w210",
+  "round": 17,
+  "question": "Which sounds more like you?",
+  "option_a": "I take a popular idea and check whether it really holds up.",
+  "option_b": "When plans change, I quickly rework who does what by when.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w211",
+  "round": 17,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I read widely because unrelated topics end up being useful.",
+  "option_b": "I notice that the people I work with are motivated by different things.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w212",
+  "round": 17,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I give honest feedback because I want the person to improve.",
+  "option_b": "I feel personally answerable for work that has my name on it.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ },
+ {
+  "id": "w213",
+  "round": 17,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I turn an idea into a small test within days.",
+  "option_b": "I write messages that say exactly what I need.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w214",
+  "round": 17,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I invite people from outside the usual group.",
+  "option_b": "I get new ideas just from walking around and letting my mind go.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w215",
+  "round": 17,
+  "question": "Which sounds more like you?",
+  "option_a": "I can get busy people to give time to my project.",
+  "option_b": "I track trends in my field to see where it's heading.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w216",
+  "round": 17,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I get a lot of satisfaction from repairing what wasn't working.",
+  "option_b": "I look up how something actually works under the surface.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w217",
+  "round": 18,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I notice quickly when quality has started to slip in a group.",
+  "option_b": "I feel at home at the front of the room when a decision is needed.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Taking the lead"
+   ]
+  }
+ },
+ {
+  "id": "w218",
+  "round": 18,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I rewrite my own text until it's shorter and clearer.",
+  "option_b": "I come back to a task the day after it has gone badly.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w219",
+  "round": 18,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I take time to really get to know the people I work with.",
+  "option_b": "I push through the dull final stage of a project without losing pace.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w220",
+  "round": 18,
+  "question": "Which sounds more like you?",
+  "option_a": "I treat a cancelled plan as a chance to try something else.",
+  "option_b": "I read the terms before I agree to something.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w221",
+  "round": 18,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I spot when two people are duplicating the same work.",
+  "option_b": "I find a wording both sides can accept.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w222",
+  "round": 18,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I enjoy being the beginner in the room.",
+  "option_b": "I remember small things that matter to someone.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w223",
+  "round": 18,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I recommend others for opportunities they haven't thought of.",
+  "option_b": "I run small experiments to check what people assume is true.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w224",
+  "round": 18,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I enjoy explaining how two different subjects relate.",
+  "option_b": "I find the first step of a task easier than most people do.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w225",
+  "round": 18,
+  "question": "Which sounds more like you?",
+  "option_a": "I tell people early when I'm going to miss a deadline.",
+  "option_b": "I'd rather build something original than copy what works elsewhere.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w226",
+  "round": 18,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I plan my career several steps ahead.",
+  "option_b": "I ask the obvious question when nobody else will.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w227",
+  "round": 18,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I seek out people whose background is very different from mine.",
+  "option_b": "I build up long notes on topics that interest me.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w228",
+  "round": 18,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I build allies across groups when I need something done.",
+  "option_b": "I try one change at a time until a fault goes away.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w229",
+  "round": 19,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I take over in a crisis without waiting to be asked.",
+  "option_b": "I keep to a goal even when a more exciting one appears.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w230",
+  "round": 19,
+  "question": "Which sounds more like you?",
+  "option_a": "I ask for tough feedback because it makes the result better.",
+  "option_b": "I admit what I don't know to the people I work with.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w231",
+  "round": 19,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I turn a confusing set of options into a clear choice.",
+  "option_b": "I split a large bet into smaller ones to limit the damage.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w232",
+  "round": 19,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I do my best when my week is laid out in advance.",
+  "option_b": "I'd rather finish one thing than start two.",
+  "alignment": {
+   "option_a": [
+    "Organising the work"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w233",
+  "round": 19,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "People tell me things they haven't told others.",
+  "option_b": "I can move between very different tasks in a single day.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w234",
+  "round": 19,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I share what I know with newcomers without being asked.",
+  "option_b": "I can disagree with someone without damaging the relationship.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w235",
+  "round": 19,
+  "question": "Which sounds more like you?",
+  "option_a": "I teach myself what I need from videos, books or people nearby.",
+  "option_b": "I send the first message that gets something going.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w236",
+  "round": 19,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep a list of ideas I'd like to try some day.",
+  "option_b": "I notice when a conclusion goes further than the data.",
+  "alignment": {
+   "option_a": [
+    "Inventing options"
+   ],
+   "option_b": [
+    "Testing ideas"
+   ]
+  }
+ },
+ {
+  "id": "w237",
+  "round": 19,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I use analogies to understand something new.",
+  "option_b": "I give up something now when it will pay off later.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w238",
+  "round": 19,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I fix problems I caused even if nobody would have noticed.",
+  "option_b": "I ask specialists detailed questions until I really understand.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w239",
+  "round": 19,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "People know where they stand with me.",
+  "option_b": "People bring me things that have gone wrong.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w240",
+  "round": 19,
+  "question": "Which sounds more like you?",
+  "option_a": "I check whether a decision leaves out someone it affects.",
+  "option_b": "I frame a proposal so that others see what's in it for them.",
+  "alignment": {
+   "option_a": [
+    "Including everyone"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w241",
+  "round": 20,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I'm willing to be unpopular for a decision the team needs.",
+  "option_b": "I keep a few close working relationships for many years.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w242",
+  "round": 20,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I do the boring practice that a long goal requires.",
+  "option_b": "I notice hidden costs in a plan that looks cheap.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w243",
+  "round": 20,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I keep polishing a result after others would call it finished.",
+  "option_b": "I make sure meetings end with a named person for each task.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w244",
+  "round": 20,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I sense tension between two people even when nothing has been said.",
+  "option_b": "I find the simple idea underneath a complicated explanation.",
+  "alignment": {
+   "option_a": [
+    "Reading people"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w245",
+  "round": 20,
+  "question": "Which sounds more like you?",
+  "option_a": "I ask questions to help someone find the answer themselves.",
+  "option_b": "I close out tasks fully before I consider them off my plate.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w246",
+  "round": 20,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I don't need a fixed routine to do good work.",
+  "option_b": "I start before I feel fully ready.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Starting things"
+   ]
+  }
+ },
+ {
+  "id": "w247",
+  "round": 20,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I bring a difficult subject up calmly so that it gets resolved.",
+  "option_b": "I change one part of an old idea to see what it becomes.",
+  "alignment": {
+   "option_a": [
+    "Easing conflict"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w248",
+  "round": 20,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I look for the people who know most about something and learn from them.",
+  "option_b": "I can explain what success would look like long before we get there.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w249",
+  "round": 20,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I play devil's advocate even when I like the proposal.",
+  "option_b": "I like spending an afternoon alone with a hard paper or manual.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Digging deep"
+   ]
+  }
+ },
+ {
+  "id": "w250",
+  "round": 20,
+  "question": "Which sounds more like you?",
+  "option_a": "I link what one team is doing with what another team needs.",
+  "option_b": "I'd rather fix an old system than build a new one.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w251",
+  "round": 20,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep small promises as seriously as large ones.",
+  "option_b": "I know who to talk to when I want an idea to go somewhere.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w252",
+  "round": 20,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I can tell a story that makes a point stick.",
+  "option_b": "I sit with the person who doesn't know anyone.",
+  "alignment": {
+   "option_a": [
+    "Speaking plainly"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w253",
+  "round": 21,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "People look to me to say what happens next.",
+  "option_b": "I take time on decisions that are hard to undo.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Weighing risk"
+   ]
+  }
+ },
+ {
+  "id": "w254",
+  "round": 21,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I credit other people's work clearly and by name.",
+  "option_b": "I match tasks to whoever has the time and the skill for them.",
+  "alignment": {
+   "option_a": [
+    "Building trust"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w255",
+  "round": 21,
+  "question": "Which sounds more like you?",
+  "option_a": "I've finished things mainly because I refused to quit.",
+  "option_b": "I know which person in a group needs reassurance and which needs space.",
+  "alignment": {
+   "option_a": [
+    "Staying the course"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w256",
+  "round": 21,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep in touch with people I've helped to see how they're doing.",
+  "option_b": "I hold my own work to the same standard I expect from an expert.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Holding the standard"
+   ]
+  }
+ },
+ {
+  "id": "w257",
+  "round": 21,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I can get a stalled group moving again by doing something concrete.",
+  "option_b": "I get frustrated by complexity that serves no purpose.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Simplifying the complex"
+   ]
+  }
+ },
+ {
+  "id": "w258",
+  "round": 21,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "People hand me things that need to actually get over the line.",
+  "option_b": "I can think of unusual uses for ordinary things.",
+  "alignment": {
+   "option_a": [
+    "Finishing things"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w259",
+  "round": 21,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I notice early signals that something is about to shift.",
+  "option_b": "I change how I work to suit each new group I join.",
+  "alignment": {
+   "option_a": [
+    "Looking ahead"
+   ],
+   "option_b": [
+    "Adjusting on the fly"
+   ]
+  }
+ },
+ {
+  "id": "w260",
+  "round": 21,
+  "question": "Which sounds more like you?",
+  "option_a": "I follow references back to where a claim first appeared.",
+  "option_b": "I remind people of the shared goal when they start to argue.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w261",
+  "round": 21,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I keep calm when something fails and start looking for the cause.",
+  "option_b": "I feel restless when I haven't picked up anything new in a while.",
+  "alignment": {
+   "option_a": [
+    "Fixing what's broken"
+   ],
+   "option_b": [
+    "Learning fast"
+   ]
+  }
+ },
+ {
+  "id": "w262",
+  "round": 21,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I ask 'compared with what?' when someone quotes a number.",
+  "option_b": "I bring sceptics in early so they help shape the plan.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Winning support"
+   ]
+  }
+ },
+ {
+  "id": "w263",
+  "round": 21,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I keep seeing how a small detail fits a larger picture.",
+  "option_b": "I drop the jargon so that nobody gets lost.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w264",
+  "round": 21,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I'd rather be the named person than share vague ownership.",
+  "option_b": "I say no clearly when I mean no.",
+  "alignment": {
+   "option_a": [
+    "Owning the outcome"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w265",
+  "round": 22,
+  "question": "Which sounds more like you?",
+  "option_a": "I assign tasks in a group when no one else does.",
+  "option_b": "I can look at a messy project and see how to divide it up.",
+  "alignment": {
+   "option_a": [
+    "Taking the lead"
+   ],
+   "option_b": [
+    "Organising the work"
+   ]
+  }
+ },
+ {
+  "id": "w266",
+  "round": 22,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I bring up risks that nobody in the room wants to discuss.",
+  "option_b": "I pay as much attention to how something was said as to what was said.",
+  "alignment": {
+   "option_a": [
+    "Weighing risk"
+   ],
+   "option_b": [
+    "Reading people"
+   ]
+  }
+ },
+ {
+  "id": "w267",
+  "round": 22,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "I see ability in people others have overlooked.",
+  "option_b": "I show up when I've said I will, so people stop checking.",
+  "alignment": {
+   "option_a": [
+    "Helping others grow"
+   ],
+   "option_b": [
+    "Building trust"
+   ]
+  }
+ },
+ {
+  "id": "w268",
+  "round": 22,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "When I hear a good idea, my next thought is what we could do about it today.",
+  "option_b": "I don't need quick wins to stay motivated.",
+  "alignment": {
+   "option_a": [
+    "Starting things"
+   ],
+   "option_b": [
+    "Staying the course"
+   ]
+  }
+ },
+ {
+  "id": "w269",
+  "round": 22,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I have trouble putting my name on work I don't respect.",
+  "option_b": "I find constraints make me more inventive.",
+  "alignment": {
+   "option_a": [
+    "Holding the standard"
+   ],
+   "option_b": [
+    "Inventing options"
+   ]
+  }
+ },
+ {
+  "id": "w270",
+  "round": 22,
+  "question": "Which sounds more like you?",
+  "option_a": "I can summarise a long meeting in two sentences.",
+  "option_b": "I set long-range goals and work backward from them.",
+  "alignment": {
+   "option_a": [
+    "Simplifying the complex"
+   ],
+   "option_b": [
+    "Looking ahead"
+   ]
+  }
+ },
+ {
+  "id": "w271",
+  "round": 22,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I notice details in a topic that only come from long study.",
+  "option_b": "I go back to old tasks to complete what was left unfinished.",
+  "alignment": {
+   "option_a": [
+    "Digging deep"
+   ],
+   "option_b": [
+    "Finishing things"
+   ]
+  }
+ },
+ {
+  "id": "w272",
+  "round": 22,
+  "question": "If you had to pick one, which is closer?",
+  "option_a": "When a plan fails on the day, I come up with another on the spot.",
+  "option_b": "I spot the weak part of a process before it gives way.",
+  "alignment": {
+   "option_a": [
+    "Adjusting on the fly"
+   ],
+   "option_b": [
+    "Fixing what's broken"
+   ]
+  }
+ },
+ {
+  "id": "w273",
+  "round": 22,
+  "question": "Which would people who know you more likely say about you?",
+  "option_a": "I find it easy to make an idea sound exciting.",
+  "option_b": "I help a group move on after a falling-out.",
+  "alignment": {
+   "option_a": [
+    "Winning support"
+   ],
+   "option_b": [
+    "Easing conflict"
+   ]
+  }
+ },
+ {
+  "id": "w274",
+  "round": 22,
+  "question": "Which do you find yourself doing more often?",
+  "option_a": "I can follow a conversation in a new field after a short time.",
+  "option_b": "I stop a conversation to bring someone back in.",
+  "alignment": {
+   "option_a": [
+    "Learning fast"
+   ],
+   "option_b": [
+    "Including everyone"
+   ]
+  }
+ },
+ {
+  "id": "w275",
+  "round": 22,
+  "question": "Which sounds more like you?",
+  "option_a": "I separate how persuasive a claim sounds from how well it's supported.",
+  "option_b": "I speak up when I think the group is making a mistake.",
+  "alignment": {
+   "option_a": [
+    "Testing ideas"
+   ],
+   "option_b": [
+    "Speaking plainly"
+   ]
+  }
+ },
+ {
+  "id": "w276",
+  "round": 22,
+  "question": "Which comes more naturally to you?",
+  "option_a": "I like conversations that jump between subjects and end up joining them.",
+  "option_b": "I say 'that was my call' when a decision I made turns out wrong.",
+  "alignment": {
+   "option_a": [
+    "Connecting ideas"
+   ],
+   "option_b": [
+    "Owning the outcome"
+   ]
+  }
+ }
+]

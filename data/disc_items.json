@@ -1,0 +1,2074 @@
+[
+ {
+  "id": "o001",
+  "style": "D",
+  "question": "When I have enough information to make a workable choice, I prefer to decide and adjust later if needed.",
+  "keyed": 1
+ },
+ {
+  "id": "o009",
+  "style": "D",
+  "question": "If a group discussion keeps circling the same points, I usually try to bring it to a decision.",
+  "keyed": 1,
+  "twin": "o013"
+ },
+ {
+  "id": "o017",
+  "style": "D",
+  "question": "For choices that can be reversed, I would rather move ahead than spend a long time optimizing the first move.",
+  "keyed": 1
+ },
+ {
+  "id": "o025",
+  "style": "D",
+  "question": "When time is limited, I can choose a direction without needing every uncertainty resolved.",
+  "keyed": 1
+ },
+ {
+  "id": "o033",
+  "style": "D",
+  "question": "I become restless when a simple decision takes much longer than the consequences seem to justify.",
+  "keyed": 1,
+  "twin": "o037"
+ },
+ {
+  "id": "o041",
+  "style": "D",
+  "question": "I can state a firm preference even when I expect someone else to disagree strongly.",
+  "keyed": 1,
+  "twin": "o045"
+ },
+ {
+  "id": "o049",
+  "style": "D",
+  "question": "If I believe an approach is failing, I am comfortable saying so plainly.",
+  "keyed": 1
+ },
+ {
+  "id": "o057",
+  "style": "D",
+  "question": "When something important is being overlooked, I tend to raise it even if the moment feels uncomfortable.",
+  "keyed": 1
+ },
+ {
+  "id": "o065",
+  "style": "D",
+  "question": "I am willing to hold my position through a tense discussion when I think the issue matters.",
+  "keyed": 1
+ },
+ {
+  "id": "o073",
+  "style": "D",
+  "question": "People rarely have to guess what I want when a decision affects me directly.",
+  "keyed": 1,
+  "twin": "o077"
+ },
+ {
+  "id": "o081",
+  "style": "D",
+  "question": "If an important problem has no clear owner, I tend to start dealing with it before responsibility is assigned.",
+  "keyed": 1,
+  "twin": "o085"
+ },
+ {
+  "id": "o089",
+  "style": "D",
+  "question": "When I notice something useful that could be done, I often begin without needing an invitation.",
+  "keyed": 1
+ },
+ {
+  "id": "o097",
+  "style": "D",
+  "question": "In an unfamiliar situation, I tend to create a next step rather than wait for one to appear.",
+  "keyed": 1,
+  "twin": "o101"
+ },
+ {
+  "id": "o105",
+  "style": "D",
+  "question": "If plans stall because nobody is moving them forward, I am likely to create momentum myself.",
+  "keyed": 1
+ },
+ {
+  "id": "o113",
+  "style": "D",
+  "question": "I often act on a useful idea while it is still rough enough to improve along the way.",
+  "keyed": 1
+ },
+ {
+  "id": "o121",
+  "style": "D",
+  "question": "I work comfortably when I am given an outcome and considerable freedom in how to reach it.",
+  "keyed": 1,
+  "twin": "o125"
+ },
+ {
+  "id": "o129",
+  "style": "D",
+  "question": "I prefer having room to change the method when I see a faster or stronger route.",
+  "keyed": 1
+ },
+ {
+  "id": "o137",
+  "style": "D",
+  "question": "I would rather be accountable for my own judgment than depend on frequent approval for ordinary choices.",
+  "keyed": 1
+ },
+ {
+  "id": "o145",
+  "style": "D",
+  "question": "Too many layers of approval make it harder for me to stay engaged with a task.",
+  "keyed": 1
+ },
+ {
+  "id": "o153",
+  "style": "D",
+  "question": "When circumstances change, I am comfortable departing from the original plan without waiting for formal permission.",
+  "keyed": 1
+ },
+ {
+  "id": "o161",
+  "style": "D",
+  "question": "A target that looks difficult tends to make me more engaged.",
+  "keyed": 1,
+  "twin": "o165"
+ },
+ {
+  "id": "o169",
+  "style": "D",
+  "question": "I enjoy situations where the result depends on how effectively I respond to pressure or competition.",
+  "keyed": 1,
+  "twin": "o173"
+ },
+ {
+  "id": "o177",
+  "style": "D",
+  "question": "When someone doubts that something can be done, I often feel more interested in attempting it.",
+  "keyed": 1,
+  "twin": "o181"
+ },
+ {
+  "id": "o185",
+  "style": "D",
+  "question": "I am drawn to goals that require stretching beyond what has already been demonstrated.",
+  "keyed": 1,
+  "twin": "o189"
+ },
+ {
+  "id": "o193",
+  "style": "D",
+  "question": "A difficult obstacle can feel energizing when there is a clear result on the other side.",
+  "keyed": 1,
+  "twin": "o197"
+ },
+ {
+  "id": "o201",
+  "style": "D",
+  "question": "When the cost of waiting is real, I can act before I know exactly how events will unfold.",
+  "keyed": 1,
+  "twin": "o205"
+ },
+ {
+  "id": "o209",
+  "style": "D",
+  "question": "I am comfortable testing a promising approach on a small scale instead of resolving every question in advance.",
+  "keyed": 1
+ },
+ {
+  "id": "o217",
+  "style": "D",
+  "question": "If a process is slowing progress without adding much value, I am inclined to simplify it.",
+  "keyed": 1
+ },
+ {
+  "id": "o225",
+  "style": "D",
+  "question": "I can accept a reasonable chance of failure when the potential gain justifies trying.",
+  "keyed": 1,
+  "twin": "o229"
+ },
+ {
+  "id": "o233",
+  "style": "D",
+  "question": "When a situation is deteriorating, I would rather make a defensible move quickly than wait for an ideal one.",
+  "keyed": 1
+ },
+ {
+  "id": "d028",
+  "style": "D",
+  "question": "I feel confident taking charge in situations where others may hesitate or feel uncertain.",
+  "keyed": 1
+ },
+ {
+  "id": "d093",
+  "style": "D",
+  "question": "I am comfortable taking risks if it means achieving a bigger reward.",
+  "keyed": 1
+ },
+ {
+  "id": "d094",
+  "style": "D",
+  "question": "I am not afraid to challenge the status quo if it means driving progress.",
+  "keyed": 1
+ },
+ {
+  "id": "d099",
+  "style": "D",
+  "question": "I am comfortable holding others accountable for their performance to meet high standards.",
+  "keyed": 1
+ },
+ {
+  "id": "d101",
+  "style": "D",
+  "question": "I prefer to lead projects rather than follow instructions from others.",
+  "keyed": 1
+ },
+ {
+  "id": "d102",
+  "style": "D",
+  "question": "I am willing to take unpopular decisions if it leads to long-term success.",
+  "keyed": 1
+ },
+ {
+  "id": "d121",
+  "style": "D",
+  "question": "I am comfortable challenging existing rules or methods if they slow down progress.",
+  "keyed": 1
+ },
+ {
+  "id": "d128",
+  "style": "D",
+  "question": "I have no difficulty making difficult, high-stakes decisions under pressure.",
+  "keyed": 1
+ },
+ {
+  "id": "d161",
+  "style": "D",
+  "question": "I feel comfortable taking the lead in ambiguous situations where immediate action is required.",
+  "keyed": 1
+ },
+ {
+  "id": "d163",
+  "style": "D",
+  "question": "I actively challenge assumptions during meetings when I see more efficient alternatives.",
+  "keyed": 1
+ },
+ {
+  "id": "d168",
+  "style": "D",
+  "question": "I prefer straightforward, blunt feedback over diplomatic circumlocution.",
+  "keyed": 1
+ },
+ {
+  "id": "d170",
+  "style": "D",
+  "question": "I quickly get frustrated when projects are stalled by excessive consensus-seeking.",
+  "keyed": 1
+ },
+ {
+  "id": "d172",
+  "style": "D",
+  "question": "I view setbacks as challenges to be overcome rather than reasons to slow down.",
+  "keyed": 1
+ },
+ {
+  "id": "d174",
+  "style": "D",
+  "question": "I am comfortable interrupting long discussions to steer the team back toward immediate action.",
+  "keyed": 1
+ },
+ {
+  "id": "d175",
+  "style": "D",
+  "question": "I prefer having the final decision-making authority on project direction and resource allocation.",
+  "keyed": 1
+ },
+ {
+  "id": "o013",
+  "style": "D",
+  "question": "I am comfortable allowing a decision to remain unsettled when more reflection could improve it.",
+  "keyed": -1,
+  "twin": "o009"
+ },
+ {
+  "id": "o037",
+  "style": "D",
+  "question": "I rarely mind spending extra time on a decision if doing so may prevent avoidable complications later.",
+  "keyed": -1,
+  "twin": "o033"
+ },
+ {
+  "id": "o045",
+  "style": "D",
+  "question": "When my preference conflicts with someone else's, I often look for a middle position before pressing my own.",
+  "keyed": -1,
+  "twin": "o041"
+ },
+ {
+  "id": "o077",
+  "style": "D",
+  "question": "I often leave room for others to infer my preference rather than stating it as a demand.",
+  "keyed": -1,
+  "twin": "o073"
+ },
+ {
+  "id": "o085",
+  "style": "D",
+  "question": "When responsibility is shared, I am comfortable waiting until the group agrees on who should act first.",
+  "keyed": -1,
+  "twin": "o081"
+ },
+ {
+  "id": "o101",
+  "style": "D",
+  "question": "In an unfamiliar situation, I prefer to understand how things are normally handled before stepping in.",
+  "keyed": -1,
+  "twin": "o097"
+ },
+ {
+  "id": "o125",
+  "style": "D",
+  "question": "I work more comfortably when expectations include a clear approach as well as a desired outcome.",
+  "keyed": -1,
+  "twin": "o121"
+ },
+ {
+  "id": "o165",
+  "style": "D",
+  "question": "I am usually more motivated by steady progress than by proving I can overcome a difficult target.",
+  "keyed": -1,
+  "twin": "o161"
+ },
+ {
+  "id": "o173",
+  "style": "D",
+  "question": "I do my best work when success does not depend on outperforming someone else or beating a demanding benchmark.",
+  "keyed": -1,
+  "twin": "o169"
+ },
+ {
+  "id": "o181",
+  "style": "D",
+  "question": "Other people's doubts rarely make a task more appealing to me; I judge it mainly by whether it is worthwhile.",
+  "keyed": -1,
+  "twin": "o177"
+ },
+ {
+  "id": "o189",
+  "style": "D",
+  "question": "I generally prefer goals that can be pursued through dependable effort rather than repeated tests of nerve.",
+  "keyed": -1,
+  "twin": "o185"
+ },
+ {
+  "id": "o197",
+  "style": "D",
+  "question": "When a route becomes unnecessarily difficult, I am quick to look for a calmer or more sustainable alternative.",
+  "keyed": -1,
+  "twin": "o193"
+ },
+ {
+  "id": "o205",
+  "style": "D",
+  "question": "When the outcome is uncertain, I usually spend extra time reducing the uncertainty before acting.",
+  "keyed": -1,
+  "twin": "o201"
+ },
+ {
+  "id": "o229",
+  "style": "D",
+  "question": "I prefer opportunities where the downside is well contained, even if that means giving up some upside.",
+  "keyed": -1,
+  "twin": "o225"
+ },
+ {
+  "id": "d241",
+  "style": "D",
+  "question": "I would rather someone else took the final decision than have to defend one myself.",
+  "keyed": -1
+ },
+ {
+  "id": "d242",
+  "style": "D",
+  "question": "I hold back my opinion in a meeting until I can tell which way the room is leaning.",
+  "keyed": -1
+ },
+ {
+  "id": "d243",
+  "style": "D",
+  "question": "Disagreement over a work issue makes me uncomfortable enough that I let it go.",
+  "keyed": -1
+ },
+ {
+  "id": "d244",
+  "style": "D",
+  "question": "I would rather let a project move slowly than have to overrule a colleague.",
+  "keyed": -1
+ },
+ {
+  "id": "d245",
+  "style": "D",
+  "question": "I wait until authority is given to me rather than assuming it.",
+  "keyed": -1
+ },
+ {
+  "id": "d246",
+  "style": "D",
+  "question": "When a decision is urgent and the answer is unclear, I would prefer someone else to own the call.",
+  "keyed": -1
+ },
+ {
+  "id": "o002",
+  "style": "I",
+  "question": "In a setting where I know few people, I usually start conversations rather than wait to be approached.",
+  "keyed": 1,
+  "twin": "o006"
+ },
+ {
+  "id": "o010",
+  "style": "I",
+  "question": "If I notice someone standing apart at a gathering, I am fairly likely to introduce myself.",
+  "keyed": 1,
+  "twin": "o014"
+ },
+ {
+  "id": "o018",
+  "style": "I",
+  "question": "I often make the first move in turning a casual acquaintance into an ongoing connection.",
+  "keyed": 1
+ },
+ {
+  "id": "o026",
+  "style": "I",
+  "question": "When a conversation goes quiet, I tend to introduce a new topic rather than sit with the silence.",
+  "keyed": 1,
+  "twin": "o030"
+ },
+ {
+  "id": "o034",
+  "style": "I",
+  "question": "I find it natural to approach someone I have not met when there is a reasonable reason to talk.",
+  "keyed": 1,
+  "twin": "o038"
+ },
+ {
+  "id": "o042",
+  "style": "I",
+  "question": "When an idea interests me, that interest usually shows in the way I talk about it.",
+  "keyed": 1,
+  "twin": "o046"
+ },
+ {
+  "id": "o050",
+  "style": "I",
+  "question": "People can usually tell from my voice or expression when I am excited about something.",
+  "keyed": 1,
+  "twin": "o054"
+ },
+ {
+  "id": "o058",
+  "style": "I",
+  "question": "When telling a story, I naturally vary my tone and emphasis to keep it engaging.",
+  "keyed": 1,
+  "twin": "o062"
+ },
+ {
+  "id": "o066",
+  "style": "I",
+  "question": "I often use humor, examples, or vivid comparisons when I want an idea to land.",
+  "keyed": 1
+ },
+ {
+  "id": "o074",
+  "style": "I",
+  "question": "If I appreciate something someone did, I tend to express that appreciation openly.",
+  "keyed": 1,
+  "twin": "o078"
+ },
+ {
+  "id": "o082",
+  "style": "I",
+  "question": "When I want support for an idea, I naturally think about how to make it appealing to the people involved.",
+  "keyed": 1
+ },
+ {
+  "id": "o090",
+  "style": "I",
+  "question": "I enjoy finding the explanation that makes an unfamiliar idea feel relevant to someone else.",
+  "keyed": 1
+ },
+ {
+  "id": "o098",
+  "style": "I",
+  "question": "If people seem doubtful about a proposal, I often try a different angle rather than repeating the same case.",
+  "keyed": 1
+ },
+ {
+  "id": "o106",
+  "style": "I",
+  "question": "I tend to notice which part of a message is most likely to gain someone's interest.",
+  "keyed": 1,
+  "twin": "o110"
+ },
+ {
+  "id": "o114",
+  "style": "I",
+  "question": "When a group is hesitant, I often try to build enough enthusiasm for people to give the idea a chance.",
+  "keyed": 1
+ },
+ {
+  "id": "o122",
+  "style": "I",
+  "question": "Talking through an unfinished idea with someone often helps me figure out what I think.",
+  "keyed": 1,
+  "twin": "o126"
+ },
+ {
+  "id": "o130",
+  "style": "I",
+  "question": "I can discover useful connections while I am explaining a problem out loud.",
+  "keyed": 1
+ },
+ {
+  "id": "o138",
+  "style": "I",
+  "question": "A lively conversation can help me generate possibilities I would not have reached alone.",
+  "keyed": 1
+ },
+ {
+  "id": "o146",
+  "style": "I",
+  "question": "When I am uncertain about something, I often call or talk to someone before I have formed a conclusion.",
+  "keyed": 1
+ },
+ {
+  "id": "o154",
+  "style": "I",
+  "question": "I am comfortable thinking aloud even when some of what I say may later change.",
+  "keyed": 1,
+  "twin": "o158"
+ },
+ {
+  "id": "o162",
+  "style": "I",
+  "question": "After an enjoyable stretch of conversation with several people, I often feel more energized than before.",
+  "keyed": 1,
+  "twin": "o166"
+ },
+ {
+  "id": "o170",
+  "style": "I",
+  "question": "I tend to enjoy occasions where different conversations and people are moving around at the same time.",
+  "keyed": 1,
+  "twin": "o174"
+ },
+ {
+  "id": "o178",
+  "style": "I",
+  "question": "A busy room can feel stimulating to me rather than distracting.",
+  "keyed": 1,
+  "twin": "o182"
+ },
+ {
+  "id": "o186",
+  "style": "I",
+  "question": "I often look forward to opportunities that involve meeting several different people in one day.",
+  "keyed": 1,
+  "twin": "o190"
+ },
+ {
+  "id": "o194",
+  "style": "I",
+  "question": "Shared excitement with other people tends to increase my own enthusiasm.",
+  "keyed": 1,
+  "twin": "o198"
+ },
+ {
+  "id": "o202",
+  "style": "I",
+  "question": "After meeting someone interesting, I am fairly likely to continue the connection later.",
+  "keyed": 1
+ },
+ {
+  "id": "o210",
+  "style": "I",
+  "question": "I often remember a reason to reconnect with someone I have met only briefly.",
+  "keyed": 1,
+  "twin": "o214"
+ },
+ {
+  "id": "o218",
+  "style": "I",
+  "question": "I enjoy discovering points of connection between people who do not yet know one another.",
+  "keyed": 1,
+  "twin": "o222"
+ },
+ {
+  "id": "o226",
+  "style": "I",
+  "question": "When I enter a new community, I tend to build several connections fairly quickly.",
+  "keyed": 1,
+  "twin": "o230"
+ },
+ {
+  "id": "o234",
+  "style": "I",
+  "question": "I am comfortable keeping in touch with a fairly wide range of people.",
+  "keyed": 1,
+  "twin": "o238"
+ },
+ {
+  "id": "d037",
+  "style": "I",
+  "question": "I get excited by the idea of meeting new people and forming connections with those around me.",
+  "keyed": 1
+ },
+ {
+  "id": "d042",
+  "style": "I",
+  "question": "I often enjoy telling stories or experiences to entertain or inspire those around me.",
+  "keyed": 1
+ },
+ {
+  "id": "d062",
+  "style": "I",
+  "question": "I am comfortable speaking in front of large audiences and enjoy sharing my ideas.",
+  "keyed": 1
+ },
+ {
+  "id": "d068",
+  "style": "I",
+  "question": "I am known for being persuasive and can easily influence others to support my ideas.",
+  "keyed": 1
+ },
+ {
+  "id": "d070",
+  "style": "I",
+  "question": "I often take initiative to reach out to others and establish connections.",
+  "keyed": 1
+ },
+ {
+  "id": "d131",
+  "style": "I",
+  "question": "I find it easy to start conversations and build rapport with people from all walks of life.",
+  "keyed": 1
+ },
+ {
+  "id": "d135",
+  "style": "I",
+  "question": "I prefer casual, conversational meetings over formal, rigid presentations.",
+  "keyed": 1
+ },
+ {
+  "id": "d140",
+  "style": "I",
+  "question": "I readily express my enthusiasm and rarely hide my excitement about a promising project.",
+  "keyed": 1
+ },
+ {
+  "id": "d181",
+  "style": "I",
+  "question": "I enjoy using compelling stories and metaphors to make technical concepts exciting.",
+  "keyed": 1
+ },
+ {
+  "id": "d182",
+  "style": "I",
+  "question": "I feel energized after engaging in lively debates and collaborative team workshops.",
+  "keyed": 1
+ },
+ {
+  "id": "d185",
+  "style": "I",
+  "question": "I am motivated by positive feedback and public appreciation of my team contributions.",
+  "keyed": 1
+ },
+ {
+  "id": "d186",
+  "style": "I",
+  "question": "I easily adapt my communication style to connect with diverse personalities and cultures.",
+  "keyed": 1
+ },
+ {
+  "id": "d187",
+  "style": "I",
+  "question": "I like bringing humor and informal warmth into professional meetings to lighten the mood.",
+  "keyed": 1
+ },
+ {
+  "id": "d190",
+  "style": "I",
+  "question": "I am quick to express excitement and praise when teammates produce outstanding work.",
+  "keyed": 1
+ },
+ {
+  "id": "d194",
+  "style": "I",
+  "question": "I am naturally drawn to public speaking, presentation delivery, and group facilitation.",
+  "keyed": 1
+ },
+ {
+  "id": "o006",
+  "style": "I",
+  "question": "In an unfamiliar group, I generally observe for a while before becoming involved in the conversation.",
+  "keyed": -1,
+  "twin": "o002"
+ },
+ {
+  "id": "o014",
+  "style": "I",
+  "question": "At a gathering, I am comfortable letting new conversations develop naturally without trying to start them.",
+  "keyed": -1,
+  "twin": "o010"
+ },
+ {
+  "id": "o030",
+  "style": "I",
+  "question": "Silence in a conversation does not usually make me feel responsible for filling it.",
+  "keyed": -1,
+  "twin": "o026"
+ },
+ {
+  "id": "o038",
+  "style": "I",
+  "question": "Even with a reasonable reason to talk, I often prefer an introduction or clear opening before approaching someone new.",
+  "keyed": -1,
+  "twin": "o034"
+ },
+ {
+  "id": "o046",
+  "style": "I",
+  "question": "Even when I am strongly interested in something, my way of presenting it tends to remain fairly measured.",
+  "keyed": -1,
+  "twin": "o042"
+ },
+ {
+  "id": "o054",
+  "style": "I",
+  "question": "My reactions are often less visible to other people than what I am actually feeling.",
+  "keyed": -1,
+  "twin": "o050"
+ },
+ {
+  "id": "o062",
+  "style": "I",
+  "question": "When telling a story, I usually focus on what happened rather than making the delivery especially animated.",
+  "keyed": -1,
+  "twin": "o058"
+ },
+ {
+  "id": "o078",
+  "style": "I",
+  "question": "I may value someone's contribution a great deal without saying much about it in the moment.",
+  "keyed": -1,
+  "twin": "o074"
+ },
+ {
+  "id": "o110",
+  "style": "I",
+  "question": "I usually give roughly the same explanation regardless of who is listening.",
+  "keyed": -1,
+  "twin": "o106"
+ },
+ {
+  "id": "o126",
+  "style": "I",
+  "question": "I prefer to work out my thoughts privately before discussing them with other people.",
+  "keyed": -1,
+  "twin": "o122"
+ },
+ {
+  "id": "o158",
+  "style": "I",
+  "question": "I prefer not to say much about an idea until I know which parts I actually stand behind.",
+  "keyed": -1,
+  "twin": "o154"
+ },
+ {
+  "id": "o166",
+  "style": "I",
+  "question": "Even when I enjoy being with people, extended conversation can leave me wanting quiet time afterward.",
+  "keyed": -1,
+  "twin": "o162"
+ },
+ {
+  "id": "o174",
+  "style": "I",
+  "question": "I usually enjoy social time more when the setting is small enough for one conversation to develop fully.",
+  "keyed": -1,
+  "twin": "o170"
+ },
+ {
+  "id": "o182",
+  "style": "I",
+  "question": "When many people are talking at once, I tend to prefer a quieter corner or a smaller group.",
+  "keyed": -1,
+  "twin": "o178"
+ },
+ {
+  "id": "o190",
+  "style": "I",
+  "question": "A day with many separate social interactions usually requires more energy from me than a day with fewer, deeper ones.",
+  "keyed": -1,
+  "twin": "o186"
+ },
+ {
+  "id": "o198",
+  "style": "I",
+  "question": "My level of enthusiasm is usually fairly independent of the energy of the people around me.",
+  "keyed": -1,
+  "twin": "o194"
+ },
+ {
+  "id": "o214",
+  "style": "I",
+  "question": "Brief encounters usually remain brief unless circumstances naturally bring us together again.",
+  "keyed": -1,
+  "twin": "o210"
+ },
+ {
+  "id": "o222",
+  "style": "I",
+  "question": "I rarely think to introduce people to one another unless there is a specific practical reason.",
+  "keyed": -1,
+  "twin": "o218"
+ },
+ {
+  "id": "o230",
+  "style": "I",
+  "question": "When I enter a new community, I usually become close to people gradually rather than meeting many people at once.",
+  "keyed": -1,
+  "twin": "o226"
+ },
+ {
+  "id": "o238",
+  "style": "I",
+  "question": "I would rather invest more attention in a few relationships than keep up with a wide network.",
+  "keyed": -1,
+  "twin": "o234"
+ },
+ {
+  "id": "d247",
+  "style": "I",
+  "question": "I find networking events draining rather than energising.",
+  "keyed": -1
+ },
+ {
+  "id": "d248",
+  "style": "I",
+  "question": "I would rather send a written update than deliver it in person.",
+  "keyed": -1
+ },
+ {
+  "id": "d249",
+  "style": "I",
+  "question": "I prefer to work a problem through alone before discussing it with anyone.",
+  "keyed": -1
+ },
+ {
+  "id": "d250",
+  "style": "I",
+  "question": "Small talk with colleagues feels like an effort I would rather skip.",
+  "keyed": -1
+ },
+ {
+  "id": "d251",
+  "style": "I",
+  "question": "I keep my enthusiasm to myself even when I am excited about a piece of work.",
+  "keyed": -1
+ },
+ {
+  "id": "d252",
+  "style": "I",
+  "question": "I would rather my work spoke for itself than have to promote it.",
+  "keyed": -1
+ },
+ {
+  "id": "o003",
+  "style": "S",
+  "question": "Even when the urgency around me changes, I tend to keep working at a fairly consistent pace.",
+  "keyed": 1,
+  "twin": "o007"
+ },
+ {
+  "id": "o011",
+  "style": "S",
+  "question": "I prefer a rhythm I can sustain for a long time over repeated bursts of intense activity.",
+  "keyed": 1,
+  "twin": "o015"
+ },
+ {
+  "id": "o019",
+  "style": "S",
+  "question": "When several things need attention, I usually keep moving through them in a steady order.",
+  "keyed": 1,
+  "twin": "o023"
+ },
+ {
+  "id": "o027",
+  "style": "S",
+  "question": "I rarely feel a need to speed up simply because other people around me are moving faster.",
+  "keyed": 1,
+  "twin": "o031"
+ },
+ {
+  "id": "o035",
+  "style": "S",
+  "question": "I am comfortable making gradual progress on something that will take a long time to finish.",
+  "keyed": 1,
+  "twin": "o039"
+ },
+ {
+  "id": "o043",
+  "style": "S",
+  "question": "In a conversation that is moving slowly, I rarely feel much pressure to speed it up.",
+  "keyed": 1
+ },
+ {
+  "id": "o051",
+  "style": "S",
+  "question": "I can give someone time to reach a conclusion in their own way, even when I already know what I would do.",
+  "keyed": 1
+ },
+ {
+  "id": "o059",
+  "style": "S",
+  "question": "Repeated questions do not bother me much when someone is genuinely trying to understand.",
+  "keyed": 1,
+  "twin": "o063"
+ },
+ {
+  "id": "o067",
+  "style": "S",
+  "question": "I am generally comfortable with activities whose value becomes visible only after sustained effort.",
+  "keyed": 1,
+  "twin": "o071"
+ },
+ {
+  "id": "o075",
+  "style": "S",
+  "question": "When plans are delayed for reasons outside anyone's control, I usually adjust without much agitation.",
+  "keyed": 1,
+  "twin": "o079"
+ },
+ {
+  "id": "o083",
+  "style": "S",
+  "question": "I tend to notice when someone needs more time to become comfortable with a change.",
+  "keyed": 1
+ },
+ {
+  "id": "o091",
+  "style": "S",
+  "question": "If someone is struggling quietly, I am likely to check in without waiting for them to ask.",
+  "keyed": 1
+ },
+ {
+  "id": "o099",
+  "style": "S",
+  "question": "I often adapt the way I explain something so the other person does not feel rushed or dismissed.",
+  "keyed": 1
+ },
+ {
+  "id": "o107",
+  "style": "S",
+  "question": "When people are under strain, I naturally pay attention to what would make the situation easier for them.",
+  "keyed": 1,
+  "twin": "o111"
+ },
+ {
+  "id": "o115",
+  "style": "S",
+  "question": "I am willing to absorb some inconvenience if it helps a group keep functioning smoothly.",
+  "keyed": 1
+ },
+ {
+  "id": "o123",
+  "style": "S",
+  "question": "Once a routine is working reasonably well, I prefer to improve it gradually rather than replace it quickly.",
+  "keyed": 1,
+  "twin": "o127"
+ },
+ {
+  "id": "o131",
+  "style": "S",
+  "question": "I usually want some time to settle into a major change before making another one.",
+  "keyed": 1
+ },
+ {
+  "id": "o139",
+  "style": "S",
+  "question": "When plans shift suddenly, it helps me to understand what will remain stable.",
+  "keyed": 1,
+  "twin": "o143"
+ },
+ {
+  "id": "o147",
+  "style": "S",
+  "question": "I prefer transitions that allow people to adjust in stages.",
+  "keyed": 1,
+  "twin": "o151"
+ },
+ {
+  "id": "o155",
+  "style": "S",
+  "question": "Frequent changes to expectations can drain my energy even when I understand the reasons for them.",
+  "keyed": 1,
+  "twin": "o159"
+ },
+ {
+  "id": "o163",
+  "style": "S",
+  "question": "During disagreement, I often try to lower the temperature before trying to resolve the issue itself.",
+  "keyed": 1,
+  "twin": "o167"
+ },
+ {
+  "id": "o171",
+  "style": "S",
+  "question": "I usually look for a solution people can live with rather than pushing for the maximum possible advantage.",
+  "keyed": 1
+ },
+ {
+  "id": "o179",
+  "style": "S",
+  "question": "I tend to make room for quieter people before a group closes a discussion.",
+  "keyed": 1
+ },
+ {
+  "id": "o187",
+  "style": "S",
+  "question": "If two people are talking past each other, I often try to restate each side in terms the other can hear.",
+  "keyed": 1
+ },
+ {
+  "id": "o195",
+  "style": "S",
+  "question": "I value arrangements that preserve cooperation even when they are not my first choice.",
+  "keyed": 1
+ },
+ {
+  "id": "o203",
+  "style": "S",
+  "question": "Once I have agreed to something, I dislike leaving it unfinished because my interest has shifted.",
+  "keyed": 1
+ },
+ {
+  "id": "o211",
+  "style": "S",
+  "question": "I tend to keep showing up for recurring responsibilities even when they are not especially interesting.",
+  "keyed": 1,
+  "twin": "o215"
+ },
+ {
+  "id": "o219",
+  "style": "S",
+  "question": "People can usually count on my pace and availability being fairly predictable.",
+  "keyed": 1,
+  "twin": "o223"
+ },
+ {
+  "id": "o227",
+  "style": "S",
+  "question": "I am comfortable doing a useful task repeatedly when consistency matters more than novelty.",
+  "keyed": 1
+ },
+ {
+  "id": "o235",
+  "style": "S",
+  "question": "I often prefer finishing what is already underway before adding another commitment.",
+  "keyed": 1,
+  "twin": "o239"
+ },
+ {
+  "id": "d021",
+  "style": "S",
+  "question": "I strive to maintain positive relationships and avoid unnecessary conflict whenever possible.",
+  "keyed": 1
+ },
+ {
+  "id": "d025",
+  "style": "S",
+  "question": "I take pride in being dependable and consistent in everything I do.",
+  "keyed": 1
+ },
+ {
+  "id": "d032",
+  "style": "S",
+  "question": "I tend to avoid confrontation and prefer resolving disagreements through understanding and compromise.",
+  "keyed": 1
+ },
+ {
+  "id": "d033",
+  "style": "S",
+  "question": "I find satisfaction in maintaining long-term relationships and helping others feel comfortable.",
+  "keyed": 1
+ },
+ {
+  "id": "d108",
+  "style": "S",
+  "question": "I value long-term relationships and enjoy working with the same team over extended periods.",
+  "keyed": 1
+ },
+ {
+  "id": "d110",
+  "style": "S",
+  "question": "I prefer predictable workflows where I know what to expect each day.",
+  "keyed": 1
+ },
+ {
+  "id": "d112",
+  "style": "S",
+  "question": "I am more comfortable with incremental improvements rather than sudden, large-scale changes.",
+  "keyed": 1
+ },
+ {
+  "id": "d141",
+  "style": "S",
+  "question": "I take time to listen patiently to colleagues concerns before offering advice or judgment.",
+  "keyed": 1
+ },
+ {
+  "id": "d143",
+  "style": "S",
+  "question": "I prefer a steady, manageable workload over erratic swings between downtime and extreme crunch.",
+  "keyed": 1
+ },
+ {
+  "id": "d146",
+  "style": "S",
+  "question": "I make a conscious effort to keep group environments calm, pleasant, and free of tension.",
+  "keyed": 1
+ },
+ {
+  "id": "d148",
+  "style": "S",
+  "question": "I am dependable when others need assistance and rarely say no when someone asks for help.",
+  "keyed": 1
+ },
+ {
+  "id": "d205",
+  "style": "S",
+  "question": "I am willing to accommodate others schedules and preferences to maintain group harmony.",
+  "keyed": 1
+ },
+ {
+  "id": "d208",
+  "style": "S",
+  "question": "I feel uncomfortable when interpersonal friction or aggressive competition arises within my team.",
+  "keyed": 1
+ },
+ {
+  "id": "d217",
+  "style": "S",
+  "question": "I take time to follow up with colleagues individually to ensure they feel supported on joint projects.",
+  "keyed": 1
+ },
+ {
+  "id": "d219",
+  "style": "S",
+  "question": "I am patient when teaching complex procedures to new team members.",
+  "keyed": 1
+ },
+ {
+  "id": "o007",
+  "style": "S",
+  "question": "Adjusting my pace frequently as circumstances change feels natural to me.",
+  "keyed": -1,
+  "twin": "o003"
+ },
+ {
+  "id": "o015",
+  "style": "S",
+  "question": "I am comfortable working in short, intense bursts and then shifting quickly to something else.",
+  "keyed": -1,
+  "twin": "o011"
+ },
+ {
+  "id": "o023",
+  "style": "S",
+  "question": "When several things need attention, I tend to jump toward whichever one has become most urgent.",
+  "keyed": -1,
+  "twin": "o019"
+ },
+ {
+  "id": "o031",
+  "style": "S",
+  "question": "The pace of the people around me often affects how quickly I move.",
+  "keyed": -1,
+  "twin": "o027"
+ },
+ {
+  "id": "o039",
+  "style": "S",
+  "question": "Long stretches of gradual progress can make me want a faster change of pace or a more immediate result.",
+  "keyed": -1,
+  "twin": "o035"
+ },
+ {
+  "id": "o063",
+  "style": "S",
+  "question": "When the same question keeps returning after it has been answered, I can become impatient.",
+  "keyed": -1,
+  "twin": "o059"
+ },
+ {
+  "id": "o071",
+  "style": "S",
+  "question": "I stay more engaged when I can see progress or results at fairly short intervals.",
+  "keyed": -1,
+  "twin": "o067"
+ },
+ {
+  "id": "o079",
+  "style": "S",
+  "question": "Unexpected waiting tends to bother me even when nobody is at fault.",
+  "keyed": -1,
+  "twin": "o075"
+ },
+ {
+  "id": "o111",
+  "style": "S",
+  "question": "When people are under strain, I tend to focus first on solving the practical issue that is creating the strain.",
+  "keyed": -1,
+  "twin": "o107"
+ },
+ {
+  "id": "o127",
+  "style": "S",
+  "question": "If a clearly better option appears, I am comfortable abandoning a familiar routine quickly.",
+  "keyed": -1,
+  "twin": "o123"
+ },
+ {
+  "id": "o143",
+  "style": "S",
+  "question": "When plans shift suddenly, I can focus on the new direction without needing much continuity with the old one.",
+  "keyed": -1,
+  "twin": "o139"
+ },
+ {
+  "id": "o151",
+  "style": "S",
+  "question": "I often prefer a clean switch to a new arrangement rather than a long transition between old and new.",
+  "keyed": -1,
+  "twin": "o147"
+ },
+ {
+  "id": "o159",
+  "style": "S",
+  "question": "Frequent changes to expectations can be stimulating for me when they keep things moving.",
+  "keyed": -1,
+  "twin": "o155"
+ },
+ {
+  "id": "o167",
+  "style": "S",
+  "question": "When tension appears between people, I would rather address the disputed issue immediately than wait for emotions to settle.",
+  "keyed": -1,
+  "twin": "o163"
+ },
+ {
+  "id": "o215",
+  "style": "S",
+  "question": "Recurring responsibilities are easier for me to sustain when there is enough variety to keep them fresh.",
+  "keyed": -1,
+  "twin": "o211"
+ },
+ {
+  "id": "o223",
+  "style": "S",
+  "question": "My availability tends to change with current priorities rather than staying predictable from week to week.",
+  "keyed": -1,
+  "twin": "o219"
+ },
+ {
+  "id": "o239",
+  "style": "S",
+  "question": "I am comfortable starting something new before everything already underway has been wrapped up.",
+  "keyed": -1,
+  "twin": "o235"
+ },
+ {
+  "id": "d253",
+  "style": "S",
+  "question": "I get restless when a routine stays the same for too long.",
+  "keyed": -1
+ },
+ {
+  "id": "d255",
+  "style": "S",
+  "question": "I lose patience with colleagues who need time to adjust to a change.",
+  "keyed": -1
+ },
+ {
+  "id": "d256",
+  "style": "S",
+  "question": "Long-running commitments start to feel like a constraint to me.",
+  "keyed": -1
+ },
+ {
+  "id": "d257",
+  "style": "S",
+  "question": "I am quick to move on from a team once the interesting part is finished.",
+  "keyed": -1
+ },
+ {
+  "id": "d258",
+  "style": "S",
+  "question": "A stable, unchanging workload would bore me.",
+  "keyed": -1
+ },
+ {
+  "id": "o004",
+  "style": "C",
+  "question": "Before sending something important, I usually check it once more for errors or missing pieces.",
+  "keyed": 1,
+  "twin": "o008"
+ },
+ {
+  "id": "o012",
+  "style": "C",
+  "question": "If a number or fact seems slightly inconsistent, I tend to investigate rather than ignore it.",
+  "keyed": 1,
+  "twin": "o016"
+ },
+ {
+  "id": "o020",
+  "style": "C",
+  "question": "I often catch small discrepancies when comparing two versions of the same information.",
+  "keyed": 1,
+  "twin": "o024"
+ },
+ {
+  "id": "o028",
+  "style": "C",
+  "question": "I prefer to verify important names, dates, figures, or instructions rather than rely on memory.",
+  "keyed": 1,
+  "twin": "o032"
+ },
+ {
+  "id": "o036",
+  "style": "C",
+  "question": "I feel better completing a task when I know the final details have been checked.",
+  "keyed": 1,
+  "twin": "o040"
+ },
+ {
+  "id": "o044",
+  "style": "C",
+  "question": "When two explanations both seem plausible, I want evidence that helps distinguish between them.",
+  "keyed": 1,
+  "twin": "o048"
+ },
+ {
+  "id": "o052",
+  "style": "C",
+  "question": "I become more confident in a claim when I can see where the information came from.",
+  "keyed": 1,
+  "twin": "o056"
+ },
+ {
+  "id": "o060",
+  "style": "C",
+  "question": "When someone's conclusion surprises me, I tend to ask what it is based on.",
+  "keyed": 1,
+  "twin": "o064"
+ },
+ {
+  "id": "o068",
+  "style": "C",
+  "question": "I prefer examples, records, or measurements when a disagreement depends on what actually happened.",
+  "keyed": 1,
+  "twin": "o072"
+ },
+ {
+  "id": "o076",
+  "style": "C",
+  "question": "I like separating what is known from what is assumed before drawing a conclusion.",
+  "keyed": 1,
+  "twin": "o080"
+ },
+ {
+  "id": "o084",
+  "style": "C",
+  "question": "I work more comfortably when the criteria for a good result are clear before I begin.",
+  "keyed": 1
+ },
+ {
+  "id": "o092",
+  "style": "C",
+  "question": "Before starting something complex, I usually want to know the main steps or dependencies.",
+  "keyed": 1,
+  "twin": "o096"
+ },
+ {
+  "id": "o100",
+  "style": "C",
+  "question": "I prefer agreeing on what 'finished' means before a project is far underway.",
+  "keyed": 1
+ },
+ {
+  "id": "o108",
+  "style": "C",
+  "question": "When several people are involved, I like responsibilities and handoffs to be explicit.",
+  "keyed": 1
+ },
+ {
+  "id": "o116",
+  "style": "C",
+  "question": "A clear plan helps me notice early when something is drifting off course.",
+  "keyed": 1,
+  "twin": "o120"
+ },
+ {
+  "id": "o124",
+  "style": "C",
+  "question": "When a procedure exists for a reason I do not understand, I prefer to understand the reason before departing from it.",
+  "keyed": 1,
+  "twin": "o128"
+ },
+ {
+  "id": "o132",
+  "style": "C",
+  "question": "I tend to follow an agreed method consistently when comparability between results matters.",
+  "keyed": 1,
+  "twin": "o136"
+ },
+ {
+  "id": "o140",
+  "style": "C",
+  "question": "If instructions specify an order for important steps, I usually keep that order unless there is a clear reason not to.",
+  "keyed": 1,
+  "twin": "o144"
+ },
+ {
+  "id": "o148",
+  "style": "C",
+  "question": "I appreciate systems that make it clear how exceptions should be handled.",
+  "keyed": 1,
+  "twin": "o152"
+ },
+ {
+  "id": "o156",
+  "style": "C",
+  "question": "When a rule prevents a recurring mistake, I tend to value the rule even if it adds a little effort.",
+  "keyed": 1,
+  "twin": "o160"
+ },
+ {
+  "id": "o164",
+  "style": "C",
+  "question": "Before making a change that affects other things, I usually consider what could break as a result.",
+  "keyed": 1
+ },
+ {
+  "id": "o172",
+  "style": "C",
+  "question": "I like building checks into repeated tasks so the same mistake is less likely to happen twice.",
+  "keyed": 1,
+  "twin": "o176"
+ },
+ {
+  "id": "o180",
+  "style": "C",
+  "question": "When something fails, I am interested in the specific step that allowed the failure to happen.",
+  "keyed": 1,
+  "twin": "o184"
+ },
+ {
+  "id": "o188",
+  "style": "C",
+  "question": "I tend to notice conditions that could create problems later even when nothing is wrong yet.",
+  "keyed": 1
+ },
+ {
+  "id": "o196",
+  "style": "C",
+  "question": "If an error would be costly, I am willing to add extra verification even when it slows completion.",
+  "keyed": 1,
+  "twin": "o200"
+ },
+ {
+  "id": "o204",
+  "style": "C",
+  "question": "For a complicated decision, I often organize the information before deciding what I think.",
+  "keyed": 1,
+  "twin": "o208"
+ },
+ {
+  "id": "o212",
+  "style": "C",
+  "question": "When there are many factors to compare, I find it useful to separate them rather than judge everything at once.",
+  "keyed": 1,
+  "twin": "o216"
+ },
+ {
+  "id": "o220",
+  "style": "C",
+  "question": "I prefer resolving ambiguous terms before using them as the basis for an important decision.",
+  "keyed": 1,
+  "twin": "o224"
+ },
+ {
+  "id": "o228",
+  "style": "C",
+  "question": "If a conclusion depends on several assumptions, I like making those assumptions explicit.",
+  "keyed": 1,
+  "twin": "o232"
+ },
+ {
+  "id": "o236",
+  "style": "C",
+  "question": "I am more comfortable making a consequential choice after I have considered how the pieces fit together.",
+  "keyed": 1,
+  "twin": "o240"
+ },
+ {
+  "id": "d019",
+  "style": "C",
+  "question": "I enjoy digging into complex information and finding patterns or insights that others might miss.",
+  "keyed": 1
+ },
+ {
+  "id": "d026",
+  "style": "C",
+  "question": "I double-check my work meticulously to ensure accuracy and avoid mistakes.",
+  "keyed": 1
+ },
+ {
+  "id": "d035",
+  "style": "C",
+  "question": "I am very methodical in my approach and ensure that every step of a process is followed precisely.",
+  "keyed": 1
+ },
+ {
+  "id": "d078",
+  "style": "C",
+  "question": "I am meticulous about ensuring all details are correct before moving forward with a task.",
+  "keyed": 1
+ },
+ {
+  "id": "d081",
+  "style": "C",
+  "question": "I am highly organized and prefer to plan my tasks in advance to ensure efficiency.",
+  "keyed": 1
+ },
+ {
+  "id": "d151",
+  "style": "C",
+  "question": "I prefer to base my arguments on verifiable facts, data, and established standards rather than emotions.",
+  "keyed": 1
+ },
+ {
+  "id": "d155",
+  "style": "C",
+  "question": "I approach complex issues by breaking them down methodically into their component parts.",
+  "keyed": 1
+ },
+ {
+  "id": "d156",
+  "style": "C",
+  "question": "I feel uncomfortable when forced to make a recommendation without sufficient supporting evidence.",
+  "keyed": 1
+ },
+ {
+  "id": "d160",
+  "style": "C",
+  "question": "I find satisfaction in organizing messy information into clean, structured, and logical formats.",
+  "keyed": 1
+ },
+ {
+  "id": "d221",
+  "style": "C",
+  "question": "I insist on verifying data sources independently before accepting conclusions as factual.",
+  "keyed": 1
+ },
+ {
+  "id": "d223",
+  "style": "C",
+  "question": "I naturally spot flaws, edge cases, and logical inconsistencies that others overlook.",
+  "keyed": 1
+ },
+ {
+  "id": "d224",
+  "style": "C",
+  "question": "I prefer making decisions based on systematic quantitative analysis rather than intuition.",
+  "keyed": 1
+ },
+ {
+  "id": "d226",
+  "style": "C",
+  "question": "I am uncomfortable delivering work that has not undergone thorough testing and validation.",
+  "keyed": 1
+ },
+ {
+  "id": "d230",
+  "style": "C",
+  "question": "I value intellectual honesty and expect claims to be backed by verifiable evidence.",
+  "keyed": 1
+ },
+ {
+  "id": "d240",
+  "style": "C",
+  "question": "I feel most confident when my recommendations are supported by empirical proof.",
+  "keyed": 1
+ },
+ {
+  "id": "o008",
+  "style": "C",
+  "question": "For work that can be corrected later, I am usually comfortable sending a solid first version without another check.",
+  "keyed": -1,
+  "twin": "o004"
+ },
+ {
+  "id": "o016",
+  "style": "C",
+  "question": "If a small inconsistency is unlikely to affect the outcome, I can usually leave it alone.",
+  "keyed": -1,
+  "twin": "o012"
+ },
+ {
+  "id": "o024",
+  "style": "C",
+  "question": "When two versions agree on the important points, minor discrepancies rarely hold my attention.",
+  "keyed": -1,
+  "twin": "o020"
+ },
+ {
+  "id": "o032",
+  "style": "C",
+  "question": "For familiar information, I am generally comfortable relying on memory unless something gives me reason to doubt it.",
+  "keyed": -1,
+  "twin": "o028"
+ },
+ {
+  "id": "o040",
+  "style": "C",
+  "question": "Once the main purpose of a task has been achieved, polishing the remaining details often feels optional to me.",
+  "keyed": -1,
+  "twin": "o036"
+ },
+ {
+  "id": "o048",
+  "style": "C",
+  "question": "When checking every possibility would slow things down considerably, I am comfortable relying on intuition.",
+  "keyed": -1,
+  "twin": "o044"
+ },
+ {
+  "id": "o056",
+  "style": "C",
+  "question": "If a claim fits what I have repeatedly observed, I do not always need to trace the original source.",
+  "keyed": -1,
+  "twin": "o052"
+ },
+ {
+  "id": "o064",
+  "style": "C",
+  "question": "When someone's conclusion seems reasonable, I rarely ask them to show the supporting steps.",
+  "keyed": -1,
+  "twin": "o060"
+ },
+ {
+  "id": "o072",
+  "style": "C",
+  "question": "In everyday disagreements, a credible person's judgment is often enough for me without additional records or measurements.",
+  "keyed": -1,
+  "twin": "o068"
+ },
+ {
+  "id": "o080",
+  "style": "C",
+  "question": "I am comfortable combining experience and assumptions when a formal distinction would not change the practical decision.",
+  "keyed": -1,
+  "twin": "o076"
+ },
+ {
+  "id": "o096",
+  "style": "C",
+  "question": "With a complex task, I am comfortable discovering the sequence as I work rather than mapping it first.",
+  "keyed": -1,
+  "twin": "o092"
+ },
+ {
+  "id": "o120",
+  "style": "C",
+  "question": "I do not need a detailed plan to notice whether something is moving in a useful direction.",
+  "keyed": -1,
+  "twin": "o116"
+ },
+ {
+  "id": "o128",
+  "style": "C",
+  "question": "If a procedure seems unnecessarily detailed, I am comfortable adapting it as I go.",
+  "keyed": -1,
+  "twin": "o124"
+ },
+ {
+  "id": "o136",
+  "style": "C",
+  "question": "When the result matters more than comparability, I am comfortable changing an agreed method to suit the situation.",
+  "keyed": -1,
+  "twin": "o132"
+ },
+ {
+  "id": "o144",
+  "style": "C",
+  "question": "I am comfortable reordering instructions when another sequence seems more efficient in the moment.",
+  "keyed": -1,
+  "twin": "o140"
+ },
+ {
+  "id": "o152",
+  "style": "C",
+  "question": "I am comfortable handling exceptions case by case without needing a standard rule for them.",
+  "keyed": -1,
+  "twin": "o148"
+ },
+ {
+  "id": "o160",
+  "style": "C",
+  "question": "When a rule adds effort to most cases, I tend to question whether preventing an occasional mistake justifies it.",
+  "keyed": -1,
+  "twin": "o156"
+ },
+ {
+  "id": "o176",
+  "style": "C",
+  "question": "For repeated tasks, I would rather rely on attention and judgment than add checks for every possible mistake.",
+  "keyed": -1,
+  "twin": "o172"
+ },
+ {
+  "id": "o184",
+  "style": "C",
+  "question": "When something fails, I focus more on restoring progress than on tracing exactly how the failure occurred.",
+  "keyed": -1,
+  "twin": "o180"
+ },
+ {
+  "id": "o200",
+  "style": "C",
+  "question": "Even when an error would be inconvenient, I usually avoid adding safeguards that noticeably slow normal work.",
+  "keyed": -1,
+  "twin": "o196"
+ },
+ {
+  "id": "o208",
+  "style": "C",
+  "question": "For a complicated decision, I can usually form a view while the information is still somewhat unstructured.",
+  "keyed": -1,
+  "twin": "o204"
+ },
+ {
+  "id": "o216",
+  "style": "C",
+  "question": "When there are many factors to compare, I am comfortable relying on an overall sense of which option fits best.",
+  "keyed": -1,
+  "twin": "o212"
+ },
+ {
+  "id": "o224",
+  "style": "C",
+  "question": "I can usually work with approximate definitions when everyone understands the general intent.",
+  "keyed": -1,
+  "twin": "o220"
+ },
+ {
+  "id": "o232",
+  "style": "C",
+  "question": "If the overall reasoning is sound, I do not always need every underlying assumption stated explicitly.",
+  "keyed": -1,
+  "twin": "o228"
+ },
+ {
+  "id": "o240",
+  "style": "C",
+  "question": "I can make a consequential choice from a strong overall impression even when I have not analyzed every component separately.",
+  "keyed": -1,
+  "twin": "o236"
+ },
+ {
+  "id": "d259",
+  "style": "C",
+  "question": "I am comfortable acting on a rough estimate rather than checking the numbers.",
+  "keyed": -1
+ },
+ {
+  "id": "d260",
+  "style": "C",
+  "question": "Detailed documentation feels like a poor use of my time.",
+  "keyed": -1
+ },
+ {
+  "id": "d261",
+  "style": "C",
+  "question": "I would rather ship something imperfect now than something polished later.",
+  "keyed": -1
+ },
+ {
+  "id": "d262",
+  "style": "C",
+  "question": "I skim the fine print and trust that it is fine.",
+  "keyed": -1
+ },
+ {
+  "id": "d264",
+  "style": "C",
+  "question": "I rely on instinct more than analysis when judging a plan.",
+  "keyed": -1
+ },
+ {
+  "id": "n001",
+  "style": "D",
+  "question": "When someone else wants to run a meeting, I'm happy to let them.",
+  "keyed": -1
+ },
+ {
+  "id": "n002",
+  "style": "D",
+  "question": "I rarely volunteer to be the person who makes the final call.",
+  "keyed": -1
+ },
+ {
+  "id": "n003",
+  "style": "D",
+  "question": "Telling someone their plan won't work is something I tend to put off.",
+  "keyed": -1
+ },
+ {
+  "id": "n004",
+  "style": "D",
+  "question": "I prefer that someone else does the arguing when something needs to be pushed for.",
+  "keyed": -1
+ },
+ {
+  "id": "n005",
+  "style": "D",
+  "question": "A very challenging target is more likely to put me off than to fire me up.",
+  "keyed": -1
+ },
+ {
+  "id": "n006",
+  "style": "D",
+  "question": "I don't mind finishing behind others as long as the work got done.",
+  "keyed": -1
+ },
+ {
+  "id": "n007",
+  "style": "D",
+  "question": "If someone pushes back on what I said, I usually drop the point.",
+  "keyed": -1
+ },
+ {
+  "id": "n008",
+  "style": "D",
+  "question": "Being in charge of a group is not something I look for.",
+  "keyed": -1
+ },
+ {
+  "id": "n009",
+  "style": "D",
+  "question": "I tend to wait to be asked before taking over a stuck piece of work.",
+  "keyed": -1
+ },
+ {
+  "id": "n010",
+  "style": "D",
+  "question": "I find it hard to say no to a strong personality.",
+  "keyed": -1
+ },
+ {
+  "id": "n011",
+  "style": "D",
+  "question": "I avoid goals where I could visibly fail.",
+  "keyed": -1
+ },
+ {
+  "id": "n012",
+  "style": "D",
+  "question": "I'm comfortable letting someone else set the direction of a project I work on.",
+  "keyed": -1
+ },
+ {
+  "id": "n013",
+  "style": "D",
+  "question": "When I disagree with a decision from above, I usually go along with it without comment.",
+  "keyed": -1
+ },
+ {
+  "id": "n014",
+  "style": "D",
+  "question": "I don't feel much urge to win an argument.",
+  "keyed": -1
+ },
+ {
+  "id": "n015",
+  "style": "D",
+  "question": "In a group project, I usually wait for someone else to divide up the work.",
+  "keyed": -1
+ },
+ {
+  "id": "n016",
+  "style": "I",
+  "question": "I'd rather not be the person telling the story at a dinner.",
+  "keyed": -1
+ },
+ {
+  "id": "n017",
+  "style": "I",
+  "question": "Being the centre of attention makes me want to leave the room.",
+  "keyed": -1
+ },
+ {
+  "id": "n018",
+  "style": "I",
+  "question": "Getting people enthusiastic about an idea is not something I naturally do.",
+  "keyed": -1
+ },
+ {
+  "id": "n019",
+  "style": "I",
+  "question": "I rarely start a chat with someone sitting next to me on a train or a bus.",
+  "keyed": -1
+ },
+ {
+  "id": "n020",
+  "style": "I",
+  "question": "Public praise embarrasses me more than it pleases me.",
+  "keyed": -1
+ },
+ {
+  "id": "n021",
+  "style": "I",
+  "question": "I find it tiring to keep a conversation going with someone new.",
+  "keyed": -1
+ },
+ {
+  "id": "n022",
+  "style": "I",
+  "question": "My friends would not describe me as especially talkative.",
+  "keyed": -1
+ },
+ {
+  "id": "n023",
+  "style": "I",
+  "question": "I tend to keep my reactions to myself during group discussions.",
+  "keyed": -1
+ },
+ {
+  "id": "n024",
+  "style": "I",
+  "question": "I don't go out of my way to stay in touch with people I met at an event.",
+  "keyed": -1
+ },
+ {
+  "id": "n025",
+  "style": "S",
+  "question": "I like my days to be different from one another.",
+  "keyed": -1
+ },
+ {
+  "id": "n026",
+  "style": "S",
+  "question": "Waiting for someone to catch up makes me fidgety.",
+  "keyed": -1
+ },
+ {
+  "id": "n027",
+  "style": "S",
+  "question": "I can leave a group I've been part of for years without much hesitation.",
+  "keyed": -1
+ },
+ {
+  "id": "n028",
+  "style": "S",
+  "question": "I get bored quickly when a job needs the same care week after week.",
+  "keyed": -1
+ },
+ {
+  "id": "n029",
+  "style": "S",
+  "question": "Sudden changes of plan tend to lift my mood.",
+  "keyed": -1
+ },
+ {
+  "id": "n030",
+  "style": "S",
+  "question": "I find it hard to stay patient when someone explains something slowly.",
+  "keyed": -1
+ },
+ {
+  "id": "n031",
+  "style": "S",
+  "question": "I'd rather switch to a new project than see a long one through to the end.",
+  "keyed": -1
+ },
+ {
+  "id": "n032",
+  "style": "S",
+  "question": "Keeping the peace in a group is not high on my list.",
+  "keyed": -1
+ },
+ {
+  "id": "n033",
+  "style": "S",
+  "question": "I don't mind leaving a tense atmosphere unresolved.",
+  "keyed": -1
+ },
+ {
+  "id": "n034",
+  "style": "S",
+  "question": "I often change how I work just for the sake of trying something new.",
+  "keyed": -1
+ },
+ {
+  "id": "n035",
+  "style": "S",
+  "question": "I find long-term routines hard to keep up.",
+  "keyed": -1
+ },
+ {
+  "id": "n036",
+  "style": "S",
+  "question": "I rarely adjust my plans to suit other people's schedules.",
+  "keyed": -1
+ },
+ {
+  "id": "n037",
+  "style": "S",
+  "question": "Someone asking for my help at a busy moment tends to irritate me.",
+  "keyed": -1
+ },
+ {
+  "id": "n038",
+  "style": "C",
+  "question": "Messy notes or files don't bother me.",
+  "keyed": -1
+ },
+ {
+  "id": "n039",
+  "style": "C",
+  "question": "I rarely reread something before I send it.",
+  "keyed": -1
+ },
+ {
+  "id": "n040",
+  "style": "C",
+  "question": "A few small errors in my work don't worry me much.",
+  "keyed": -1
+ },
+ {
+  "id": "n041",
+  "style": "C",
+  "question": "I rarely look up how something is supposed to be done before trying it.",
+  "keyed": -1
+ },
+ {
+  "id": "n042",
+  "style": "C",
+  "question": "I'm comfortable giving an opinion on a topic I haven't looked into closely.",
+  "keyed": -1
+ }
+]
